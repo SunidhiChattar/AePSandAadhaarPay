@@ -1,0 +1,477 @@
+
+E
+java:S3740y"/Provide the parametrized type for this generic.(’³à
+ƒ
+java:S1319o"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(ùàÈ­
+|
+java:S1319s"aThe type of "var0" should be an interface such as "Map" rather than the implementation "HashMap".(¡³Ëôúÿÿÿÿ
+g	java:S117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ¹Ï§
+o
+java:S1104"TMake Approved a static final constant or non-public and provide accessors if needed.(«¨…ùÿÿÿÿ
+q
+java:S1104"[Make InvalidMerchant a static final constant or non-public and provide accessors if needed.(‰¿Ÿ—
+m
+java:S1104"RMake PickUp a static final constant or non-public and provide accessors if needed.(Ğ©à°úÿÿÿÿ
+n
+java:S1104"XMake DO_NOT_HONOR a static final constant or non-public and provide accessors if needed.(œ’ƒÚ
+l
+java:S1104"QMake Error a static final constant or non-public and provide accessors if needed.(î ‹şÿÿÿÿ
+z
+java:S1104"_Make Invalid_transaction a static final constant or non-public and provide accessors if needed.(„ˆï—üÿÿÿÿ
+p
+java:S1104"ZMake Invalid_amount a static final constant or non-public and provide accessors if needed.(òöÔÿ
+z
+java:S1104"_Make Invalid_card_number a static final constant or non-public and provide accessors if needed.(ù¶Ãÿúÿÿÿÿ
+p
+java:S1104"ZMake No_such_issuer a static final constant or non-public and provide accessors if needed.(¦ñ„
+w
+java:S1104"aMake Customer_cancellation a static final constant or non-public and provide accessors if needed.(°„•¶
+r
+java:S1104"\Make Invalid_response a static final constant or non-public and provide accessors if needed.(Ñœ‘·
+v
+java:S1104"[Make No_action_taken a static final constant or non-public and provide accessors if needed.(ÓÿıŒüÿÿÿÿ
+|
+java:S1104"aMake Suspected_malfunction a static final constant or non-public and provide accessors if needed.(¦œÏ şÿÿÿÿ
+~
+java:S1104"cMake Unable_to_locate_record a static final constant or non-public and provide accessors if needed.(ÅêïÛşÿÿÿÿ
+}
+java:S1104"hMake File_Update_field_edit_error a static final constant or non-public and provide accessors if needed.(•òq
+‚
+java:S1104"lMake Record_already_exist_in_the_file a static final constant or non-public and provide accessors if needed.(¹”÷£
+|
+java:S1104"fMake File_Update_not_successful a static final constant or non-public and provide accessors if needed.(óØôÇ
+n
+java:S1104!"XMake Format_error a static final constant or non-public and provide accessors if needed.(ÉÓÙ×
+~
+java:S1104""hMake Bank_not_supported_by_switch a static final constant or non-public and provide accessors if needed.(Ğœú¶
+{
+java:S1104#"`Make Expired_card_capture a static final constant or non-public and provide accessors if needed.(ìÄÆˆşÿÿÿÿ
+q
+java:S1104%"[Make Suspected_fraud a static final constant or non-public and provide accessors if needed.(¶ïàö
+v
+java:S1104&"[Make Restricted_card a static final constant or non-public and provide accessors if needed.(Ò»šûùÿÿÿÿ
+t
+java:S1104'"YMake Allowable_PIN a static final constant or non-public and provide accessors if needed.(†—éšüÿÿÿÿ
+s
+java:S1104("]Make No_credit_account a static final constant or non-public and provide accessors if needed.(”êÑ
+s
+java:S1104)"]Make Requested_functio a static final constant or non-public and provide accessors if needed.(°Ù˜
+p
+java:S1104*"UMake Lost_card a static final constant or non-public and provide accessors if needed.(æúÔâÿÿÿÿÿ
+v
+java:S1104+"`Make No_universal_account a static final constant or non-public and provide accessors if needed.(«¿Çí
+m
+java:S1104-"WMake Stolen_card a static final constant or non-public and provide accessors if needed.(Åş•
+{
+java:S1104."`Make Not_sufficient_funds a static final constant or non-public and provide accessors if needed.(©ÍÖ…ûÿÿÿÿ
+u
+java:S1104/"_Make No_checking_account a static final constant or non-public and provide accessors if needed.(êì¿
+y
+java:S11040"^Make No_savings_account a static final constant or non-public and provide accessors if needed.(‰â’øÿÿÿÿ
+v
+java:S11041"`Make Expired_card_decline a static final constant or non-public and provide accessors if needed.(ü‹ºÁ
+
+java:S11042"tMake Incorrect_personal_identification_number a static final constant or non-public and provide accessors if needed.(¢áâ²ùÿÿÿÿ
+u
+java:S11043"ZMake No_card_record a static final constant or non-public and provide accessors if needed.(óºûÑÿÿÿÿÿ
+‰
+java:S11044"sMake Transaction_not_permitted_to_Cardholder a static final constant or non-public and provide accessors if needed.(¯ØÊö
+~
+java:S11045"cMake Suspected_fraud_decline a static final constant or non-public and provide accessors if needed.(™­û‹ûÿÿÿÿ
+…
+java:S11046"jMake Card_acceptor_contact_acquirer a static final constant or non-public and provide accessors if needed.(ƒå‹şÿÿÿÿ
+†
+java:S11047"kMake Exceeds_withdrawal_amount_limit a static final constant or non-public and provide accessors if needed.(¹ñÔ²üÿÿÿÿ
+y
+java:S11048"cMake Restricted_Card_decline a static final constant or non-public and provide accessors if needed.(Ëéıµ
+s
+java:S11049"^Make Security_violation a static final constant or non-public and provide accessors if needed.(Ëì‚
+ƒ
+java:S1104<"hMake Exceeds_withdrawal_frequency a static final constant or non-public and provide accessors if needed.(Î¦×•øÿÿÿÿ
+~
+java:S1104="hMake Card_acceptor_calls_acquirer a static final constant or non-public and provide accessors if needed.(Åóòú
+s
+java:S1104>"XMake Hard_capture a static final constant or non-public and provide accessors if needed.(üˆÜøÿÿÿÿ
+t
+java:S1104?"YMake Acquirer_time a static final constant or non-public and provide accessors if needed.(×¡åäşÿÿÿÿ
+…
+java:S1104@"jMake Mobile_number_record_not_found a static final constant or non-public and provide accessors if needed.( Úë«ûÿÿÿÿ
+x
+java:S1104A"]Make Deemed_Acceptance a static final constant or non-public and provide accessors if needed.(ú‰œµûÿÿÿÿ
+
+java:S1104B"kMake Transactions_declined_by_Issuer a static final constant or non-public and provide accessors if needed.(ÿ–àÆ
+~
+java:S1104C"cMake Allowable_number_of_PIN a static final constant or non-public and provide accessors if needed.(¸ƒ±éùÿÿÿÿ
+u
+java:S1104E"_Make Cryptographic_Error a static final constant or non-public and provide accessors if needed.(´Î ƒ
+|
+java:S1104F"aMake Cut_off_is_in_process a static final constant or non-public and provide accessors if needed.(ÿË•ÿÿÿÿÿ
+
+java:S1104G"kMake Issuer_or_switch_is_inoperative a static final constant or non-public and provide accessors if needed.(–‚¼Í
+{
+java:S1104H"`Make No_routing_available a static final constant or non-public and provide accessors if needed.(şõÃÜşÿÿÿÿ
+
+java:S1104J"kMake Transaction_cannot_be_completed a static final constant or non-public and provide accessors if needed.(¥Ûôş
+}
+java:S1104K"bMake Duplicate_transmission a static final constant or non-public and provide accessors if needed.(ÉÈãƒùÿÿÿÿ
+q
+java:S1104L"[Make Reconcile_error a static final constant or non-public and provide accessors if needed.(ñäëÀ
+}
+java:S1104N"bMake ARQC_validation_failed a static final constant or non-public and provide accessors if needed.(ø„”°ıÿÿÿÿ
+|
+java:S1104O"aMake TVR_validation_failed a static final constant or non-public and provide accessors if needed.(×ì”Ÿÿÿÿÿÿ
+
+java:S1104Q"kMake CVR_validation_failed_by_Issuer a static final constant or non-public and provide accessors if needed.(¨”æ»
+
+java:S1104R"dMake No_Aadhar_linked_to_Card a static final constant or non-public and provide accessors if needed.(„î×üÿÿÿÿ
+}
+java:S1104S"bMake INVALID_BIOMETRIC_DATA a static final constant or non-public and provide accessors if needed.(¿€ƒéÿÿÿÿÿ
+~
+java:S1104U"hMake BIOMETRIC_DATA_DID_NOT_MATCH a static final constant or non-public and provide accessors if needed.(Óµæµ
+~
+java:S1104V"cMake Technical_Decline_UIDAI a static final constant or non-public and provide accessors if needed.(‘î€‹øÿÿÿÿ
+‡
+java:S1104Y"lMake Compliance_error_code_for_issuer a static final constant or non-public and provide accessors if needed.(Õ‰É„üÿÿÿÿ
+„
+java:S1104Z"nMake Compliance_error_code_for_acquirer a static final constant or non-public and provide accessors if needed.(©ñ¯¹
+„
+java:S1104["iMake Compliance_error_code_for_LMM a static final constant or non-public and provide accessors if needed.(çäûÿÿÿÿ
+y
+java:S1104\"^Make E_commerce_decline a static final constant or non-public and provide accessors if needed.(·çÙÕûÿÿÿÿ
+„
+java:S1104]"nMake Approved_or_Completed_successfully a static final constant or non-public and provide accessors if needed.(¢Šÿˆ
+t
+java:S1104^"^Make System_malfunction a static final constant or non-public and provide accessors if needed.(ÿàÃî
+n
+java:S1104_"SMake Timeout a static final constant or non-public and provide accessors if needed.(Ä¹ùÿÿÿÿ
+
+java:S1104`"fMake Acquirer_received_ATM_only a static final constant or non-public and provide accessors if needed.(Î¢Èäûÿÿÿÿ
+x
+java:S1104a"]Make Acquirer_received a static final constant or non-public and provide accessors if needed.(èˆ’ıøÿÿÿÿ
+Ÿ
+java:S1104b"ƒMake Message_edit_failure_during_response_processing_at_NPCI a static final constant or non-public and provide accessors if needed.(“•Û¼şÿÿÿÿ
+x
+java:S1104c"]Make Acquirer_time_out a static final constant or non-public and provide accessors if needed.(õØßªùÿÿÿÿ
+€
+java:S1104d"jMake Customer_cancellation_for_void a static final constant or non-public and provide accessors if needed.(Ê½Åë
+o
+java:S1104e"YMake AAC_GENERATED a static final constant or non-public and provide accessors if needed.(¤šÍØ
+†
+java:S1104f"pMake Terminal_does_not_receive_AAC_AND_TC a static final constant or non-public and provide accessors if needed.(ÿ”Ê¯
+q
+java:S1104g"\Make Partial_Reversal a static final constant or non-public and provide accessors if needed.(çä[
+I
+java:S1444".Make this "public static Approved" field final(«¨…ùÿÿÿÿ
+K
+java:S1444"5Make this "public static InvalidMerchant" field final(‰¿Ÿ—
+G
+java:S1444",Make this "public static PickUp" field final(Ğ©à°úÿÿÿÿ
+H
+java:S1444"2Make this "public static DO_NOT_HONOR" field final(œ’ƒÚ
+F
+java:S1444"+Make this "public static Error" field final(î ‹şÿÿÿÿ
+T
+java:S1444"9Make this "public static Invalid_transaction" field final(„ˆï—üÿÿÿÿ
+J
+java:S1444"4Make this "public static Invalid_amount" field final(òöÔÿ
+T
+java:S1444"9Make this "public static Invalid_card_number" field final(ù¶Ãÿúÿÿÿÿ
+J
+java:S1444"4Make this "public static No_such_issuer" field final(¦ñ„
+Q
+java:S1444";Make this "public static Customer_cancellation" field final(°„•¶
+L
+java:S1444"6Make this "public static Invalid_response" field final(Ñœ‘·
+P
+java:S1444"5Make this "public static No_action_taken" field final(ÓÿıŒüÿÿÿÿ
+V
+java:S1444";Make this "public static Suspected_malfunction" field final(¦œÏ şÿÿÿÿ
+X
+java:S1444"=Make this "public static Unable_to_locate_record" field final(ÅêïÛşÿÿÿÿ
+W
+java:S1444"BMake this "public static File_Update_field_edit_error" field final(•òq
+\
+java:S1444"FMake this "public static Record_already_exist_in_the_file" field final(¹”÷£
+V
+java:S1444"@Make this "public static File_Update_not_successful" field final(óØôÇ
+H
+java:S1444!"2Make this "public static Format_error" field final(ÉÓÙ×
+X
+java:S1444""BMake this "public static Bank_not_supported_by_switch" field final(Ğœú¶
+U
+java:S1444#":Make this "public static Expired_card_capture" field final(ìÄÆˆşÿÿÿÿ
+K
+java:S1444%"5Make this "public static Suspected_fraud" field final(¶ïàö
+P
+java:S1444&"5Make this "public static Restricted_card" field final(Ò»šûùÿÿÿÿ
+N
+java:S1444'"3Make this "public static Allowable_PIN" field final(†—éšüÿÿÿÿ
+M
+java:S1444("7Make this "public static No_credit_account" field final(”êÑ
+M
+java:S1444)"7Make this "public static Requested_functio" field final(°Ù˜
+J
+java:S1444*"/Make this "public static Lost_card" field final(æúÔâÿÿÿÿÿ
+P
+java:S1444+":Make this "public static No_universal_account" field final(«¿Çí
+G
+java:S1444-"1Make this "public static Stolen_card" field final(Åş•
+U
+java:S1444.":Make this "public static Not_sufficient_funds" field final(©ÍÖ…ûÿÿÿÿ
+O
+java:S1444/"9Make this "public static No_checking_account" field final(êì¿
+S
+java:S14440"8Make this "public static No_savings_account" field final(‰â’øÿÿÿÿ
+P
+java:S14441":Make this "public static Expired_card_decline" field final(ü‹ºÁ
+i
+java:S14442"NMake this "public static Incorrect_personal_identification_number" field final(¢áâ²ùÿÿÿÿ
+O
+java:S14443"4Make this "public static No_card_record" field final(óºûÑÿÿÿÿÿ
+c
+java:S14444"MMake this "public static Transaction_not_permitted_to_Cardholder" field final(¯ØÊö
+X
+java:S14445"=Make this "public static Suspected_fraud_decline" field final(™­û‹ûÿÿÿÿ
+_
+java:S14446"DMake this "public static Card_acceptor_contact_acquirer" field final(ƒå‹şÿÿÿÿ
+`
+java:S14447"EMake this "public static Exceeds_withdrawal_amount_limit" field final(¹ñÔ²üÿÿÿÿ
+S
+java:S14448"=Make this "public static Restricted_Card_decline" field final(Ëéıµ
+M
+java:S14449"8Make this "public static Security_violation" field final(Ëì‚
+]
+java:S1444<"BMake this "public static Exceeds_withdrawal_frequency" field final(Î¦×•øÿÿÿÿ
+X
+java:S1444="BMake this "public static Card_acceptor_calls_acquirer" field final(Åóòú
+M
+java:S1444>"2Make this "public static Hard_capture" field final(üˆÜøÿÿÿÿ
+N
+java:S1444?"3Make this "public static Acquirer_time" field final(×¡åäşÿÿÿÿ
+_
+java:S1444@"DMake this "public static Mobile_number_record_not_found" field final( Úë«ûÿÿÿÿ
+R
+java:S1444A"7Make this "public static Deemed_Acceptance" field final(ú‰œµûÿÿÿÿ
+[
+java:S1444B"EMake this "public static Transactions_declined_by_Issuer" field final(ÿ–àÆ
+X
+java:S1444C"=Make this "public static Allowable_number_of_PIN" field final(¸ƒ±éùÿÿÿÿ
+O
+java:S1444E"9Make this "public static Cryptographic_Error" field final(´Î ƒ
+V
+java:S1444F";Make this "public static Cut_off_is_in_process" field final(ÿË•ÿÿÿÿÿ
+[
+java:S1444G"EMake this "public static Issuer_or_switch_is_inoperative" field final(–‚¼Í
+U
+java:S1444H":Make this "public static No_routing_available" field final(şõÃÜşÿÿÿÿ
+[
+java:S1444J"EMake this "public static Transaction_cannot_be_completed" field final(¥Ûôş
+W
+java:S1444K"<Make this "public static Duplicate_transmission" field final(ÉÈãƒùÿÿÿÿ
+K
+java:S1444L"5Make this "public static Reconcile_error" field final(ñäëÀ
+W
+java:S1444N"<Make this "public static ARQC_validation_failed" field final(ø„”°ıÿÿÿÿ
+V
+java:S1444O";Make this "public static TVR_validation_failed" field final(×ì”Ÿÿÿÿÿÿ
+[
+java:S1444Q"EMake this "public static CVR_validation_failed_by_Issuer" field final(¨”æ»
+Y
+java:S1444R">Make this "public static No_Aadhar_linked_to_Card" field final(„î×üÿÿÿÿ
+W
+java:S1444S"<Make this "public static INVALID_BIOMETRIC_DATA" field final(¿€ƒéÿÿÿÿÿ
+X
+java:S1444U"BMake this "public static BIOMETRIC_DATA_DID_NOT_MATCH" field final(Óµæµ
+X
+java:S1444V"=Make this "public static Technical_Decline_UIDAI" field final(‘î€‹øÿÿÿÿ
+a
+java:S1444Y"FMake this "public static Compliance_error_code_for_issuer" field final(Õ‰É„üÿÿÿÿ
+^
+java:S1444Z"HMake this "public static Compliance_error_code_for_acquirer" field final(©ñ¯¹
+^
+java:S1444["CMake this "public static Compliance_error_code_for_LMM" field final(çäûÿÿÿÿ
+S
+java:S1444\"8Make this "public static E_commerce_decline" field final(·çÙÕûÿÿÿÿ
+^
+java:S1444]"HMake this "public static Approved_or_Completed_successfully" field final(¢Šÿˆ
+N
+java:S1444^"8Make this "public static System_malfunction" field final(ÿàÃî
+H
+java:S1444_"-Make this "public static Timeout" field final(Ä¹ùÿÿÿÿ
+[
+java:S1444`"@Make this "public static Acquirer_received_ATM_only" field final(Î¢Èäûÿÿÿÿ
+R
+java:S1444a"7Make this "public static Acquirer_received" field final(èˆ’ıøÿÿÿÿ
+x
+java:S1444b"]Make this "public static Message_edit_failure_during_response_processing_at_NPCI" field final(“•Û¼şÿÿÿÿ
+R
+java:S1444c"7Make this "public static Acquirer_time_out" field final(õØßªùÿÿÿÿ
+Z
+java:S1444d"DMake this "public static Customer_cancellation_for_void" field final(Ê½Åë
+I
+java:S1444e"3Make this "public static AAC_GENERATED" field final(¤šÍØ
+`
+java:S1444f"JMake this "public static Terminal_does_not_receive_AAC_AND_TC" field final(ÿ”Ê¯
+K
+java:S1444g"6Make this "public static Partial_Reversal" field final(çä[
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŸãÁ÷ùÿÿÿÿ
+n
+java:S3008"SRename this field "Approved" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«¨…ùÿÿÿÿ
+p
+java:S3008"ZRename this field "InvalidMerchant" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰¿Ÿ—
+l
+java:S3008"QRename this field "PickUp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ©à°úÿÿÿÿ
+m
+java:S3008"WRename this field "DO_NOT_HONOR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ’ƒÚ
+k
+java:S3008"PRename this field "Error" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î ‹şÿÿÿÿ
+y
+java:S3008"^Rename this field "Invalid_transaction" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ˆï—üÿÿÿÿ
+o
+java:S3008"YRename this field "Invalid_amount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òöÔÿ
+y
+java:S3008"^Rename this field "Invalid_card_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù¶Ãÿúÿÿÿÿ
+o
+java:S3008"YRename this field "No_such_issuer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ñ„
+v
+java:S3008"`Rename this field "Customer_cancellation" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°„•¶
+q
+java:S3008"[Rename this field "Invalid_response" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñœ‘·
+u
+java:S3008"ZRename this field "No_action_taken" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÿıŒüÿÿÿÿ
+{
+java:S3008"`Rename this field "Suspected_malfunction" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦œÏ şÿÿÿÿ
+}
+java:S3008"bRename this field "Unable_to_locate_record" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅêïÛşÿÿÿÿ
+|
+java:S3008"gRename this field "File_Update_field_edit_error" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•òq
+
+java:S3008"kRename this field "Record_already_exist_in_the_file" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹”÷£
+{
+java:S3008"eRename this field "File_Update_not_successful" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óØôÇ
+m
+java:S3008!"WRename this field "Format_error" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÓÙ×
+}
+java:S3008""gRename this field "Bank_not_supported_by_switch" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğœú¶
+z
+java:S3008#"_Rename this field "Expired_card_capture" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÄÆˆşÿÿÿÿ
+p
+java:S3008%"ZRename this field "Suspected_fraud" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ïàö
+u
+java:S3008&"ZRename this field "Restricted_card" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò»šûùÿÿÿÿ
+s
+java:S3008'"XRename this field "Allowable_PIN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†—éšüÿÿÿÿ
+r
+java:S3008("\Rename this field "No_credit_account" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”êÑ
+r
+java:S3008)"\Rename this field "Requested_functio" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°Ù˜
+o
+java:S3008*"TRename this field "Lost_card" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æúÔâÿÿÿÿÿ
+u
+java:S3008+"_Rename this field "No_universal_account" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«¿Çí
+l
+java:S3008-"VRename this field "Stolen_card" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åş•
+z
+java:S3008."_Rename this field "Not_sufficient_funds" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ÍÖ…ûÿÿÿÿ
+t
+java:S3008/"^Rename this field "No_checking_account" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êì¿
+x
+java:S30080"]Rename this field "No_savings_account" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰â’øÿÿÿÿ
+u
+java:S30081"_Rename this field "Expired_card_decline" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü‹ºÁ
+
+java:S30082"sRename this field "Incorrect_personal_identification_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢áâ²ùÿÿÿÿ
+t
+java:S30083"YRename this field "No_card_record" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óºûÑÿÿÿÿÿ
+ˆ
+java:S30084"rRename this field "Transaction_not_permitted_to_Cardholder" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ØÊö
+}
+java:S30085"bRename this field "Suspected_fraud_decline" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™­û‹ûÿÿÿÿ
+„
+java:S30086"iRename this field "Card_acceptor_contact_acquirer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒå‹şÿÿÿÿ
+…
+java:S30087"jRename this field "Exceeds_withdrawal_amount_limit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ñÔ²üÿÿÿÿ
+x
+java:S30088"bRename this field "Restricted_Card_decline" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëéıµ
+r
+java:S30089"]Rename this field "Security_violation" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëì‚
+‚
+java:S3008<"gRename this field "Exceeds_withdrawal_frequency" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î¦×•øÿÿÿÿ
+}
+java:S3008="gRename this field "Card_acceptor_calls_acquirer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åóòú
+r
+java:S3008>"WRename this field "Hard_capture" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üˆÜøÿÿÿÿ
+s
+java:S3008?"XRename this field "Acquirer_time" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×¡åäşÿÿÿÿ
+„
+java:S3008@"iRename this field "Mobile_number_record_not_found" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Úë«ûÿÿÿÿ
+w
+java:S3008A"\Rename this field "Deemed_Acceptance" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú‰œµûÿÿÿÿ
+€
+java:S3008B"jRename this field "Transactions_declined_by_Issuer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ–àÆ
+}
+java:S3008C"bRename this field "Allowable_number_of_PIN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ƒ±éùÿÿÿÿ
+t
+java:S3008E"^Rename this field "Cryptographic_Error" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Î ƒ
+{
+java:S3008F"`Rename this field "Cut_off_is_in_process" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿË•ÿÿÿÿÿ
+€
+java:S3008G"jRename this field "Issuer_or_switch_is_inoperative" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–‚¼Í
+z
+java:S3008H"_Rename this field "No_routing_available" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şõÃÜşÿÿÿÿ
+€
+java:S3008J"jRename this field "Transaction_cannot_be_completed" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Ûôş
+|
+java:S3008K"aRename this field "Duplicate_transmission" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÈãƒùÿÿÿÿ
+p
+java:S3008L"ZRename this field "Reconcile_error" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñäëÀ
+|
+java:S3008N"aRename this field "ARQC_validation_failed" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø„”°ıÿÿÿÿ
+{
+java:S3008O"`Rename this field "TVR_validation_failed" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ì”Ÿÿÿÿÿÿ
+€
+java:S3008Q"jRename this field "CVR_validation_failed_by_Issuer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨”æ»
+~
+java:S3008R"cRename this field "No_Aadhar_linked_to_Card" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„î×üÿÿÿÿ
+|
+java:S3008S"aRename this field "INVALID_BIOMETRIC_DATA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿€ƒéÿÿÿÿÿ
+}
+java:S3008U"gRename this field "BIOMETRIC_DATA_DID_NOT_MATCH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óµæµ
+}
+java:S3008V"bRename this field "Technical_Decline_UIDAI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘î€‹øÿÿÿÿ
+†
+java:S3008Y"kRename this field "Compliance_error_code_for_issuer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ‰É„üÿÿÿÿ
+ƒ
+java:S3008Z"mRename this field "Compliance_error_code_for_acquirer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ñ¯¹
+ƒ
+java:S3008["hRename this field "Compliance_error_code_for_LMM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çäûÿÿÿÿ
+x
+java:S3008\"]Rename this field "E_commerce_decline" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·çÙÕûÿÿÿÿ
+ƒ
+java:S3008]"mRename this field "Approved_or_Completed_successfully" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢Šÿˆ
+s
+java:S3008^"]Rename this field "System_malfunction" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿàÃî
+m
+java:S3008_"RRename this field "Timeout" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä¹ùÿÿÿÿ
+€
+java:S3008`"eRename this field "Acquirer_received_ATM_only" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î¢Èäûÿÿÿÿ
+w
+java:S3008a"\Rename this field "Acquirer_received" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èˆ’ıøÿÿÿÿ
+
+java:S3008b"‚Rename this field "Message_edit_failure_during_response_processing_at_NPCI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“•Û¼şÿÿÿÿ
+w
+java:S3008c"\Rename this field "Acquirer_time_out" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õØßªùÿÿÿÿ
+
+java:S3008d"iRename this field "Customer_cancellation_for_void" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê½Åë
+n
+java:S3008e"XRename this field "AAC_GENERATED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤šÍØ
+…
+java:S3008f"oRename this field "Terminal_does_not_receive_AAC_AND_TC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ”Ê¯
+p
+java:S3008g"[Rename this field "Partial_Reversal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çä[
+—
+java:S1186l"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Èª“ø
+3
+java:S1118l"Hide this public constructor.(Èª“ø
+^
+java:S1479¶"BReduce the number of non-empty switch cases from 66 to at most 30.(ÃÁ¦¥ùÿÿÿÿ

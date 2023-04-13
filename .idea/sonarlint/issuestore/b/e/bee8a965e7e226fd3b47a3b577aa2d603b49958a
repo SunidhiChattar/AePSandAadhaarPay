@@ -1,0 +1,212 @@
+
+E
+java:S3740g"/Provide the parametrized type for this generic.(¢•áë
+}
+java:S1192¡"fDefine a constant instead of duplicating this literal "unified aeps bioauth view address == " 3 times.(×ÕØ
+]
+java:S1192ê"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(ğÛûì
+b
+java:S1192`"GDefine a constant instead of duplicating this literal "751017" 3 times.(£ğ¥¡ùÿÿÿÿ
+_
+java:S1192¡"HDefine a constant instead of duplicating this literal "UNIFIED" 3 times.(×ÕØ
+e
+java:S1192ä"IDefine a constant instead of duplicating this literal "latitude" 4 times.(¼Î·ãøÿÿÿÿ
+d
+java:S1192¡"HDefine a constant instead of duplicating this literal "Bearer " 3 times.(¦š™Çûÿÿÿÿ
+F
+java:S1066"/Merge this if statement with the enclosing one.(¯Ñ˜ˆ
+Q
+java:S1141¢"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+g	java:S117š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍäÎû
+l	java:S117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù‚÷ÿÿÿÿÿ
+l	java:S117¤"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é¬†üÿÿÿÿ
+g	java:S117¥"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åïí”
+f	java:S117¦"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¥Æ=
+l	java:S117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şéÿ°ùÿÿÿÿ
+l	java:S117¨"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ™¾òúÿÿÿÿ
+g	java:S117©"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–è®Ê
+g	java:S117ª"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ûÆ
+g	java:S117«"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù‹Ê
+g	java:S117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê¥Ù©
+K
+java:S1604"(Make this anonymous inner class a lambda(ĞÏ™¡ÿÿÿÿÿ8åÁ­É÷0
+K
+java:S1604"(Make this anonymous inner class a lambda(ÒÂûäşÿÿÿÿ8åÁ­É÷0
+F
+java:S1604Ş"(Make this anonymous inner class a lambda(Õä8õÁ­É÷0
+?
+java:S5411—"(Use a primitive boolean expression here.(Ÿ×˜
+D
+java:S5411‹"(Use a primitive boolean expression here.(Øğ–úÿÿÿÿ
+t	java:S116Z"_Rename this field "two_fact_fingerprint" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ¥•¤
+u	java:S116["`Rename this field "two_fact_submitButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º‘¾…
+f	java:S116d"QRename this field "bio_ll" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô” 
+r	java:S116q"XRename this field "location_flag" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹š¿áûÿÿÿÿ
+C
+java:S1659_".Declare "balanceAadharVID" on a separate line.(˜Í‡
+T
+java:S1874S"7Remove this use of "GoogleApiClient"; it is deprecated.(Æ¥¸˜8³Ã­É÷0
+X
+java:S1874S";Remove this use of "ConnectionCallbacks"; it is deprecated.(Æ¥¸˜8³Ã­É÷0
+Y
+java:S1874T"7Remove this use of "GoogleApiClient"; it is deprecated.(Ú¾Ñƒøÿÿÿÿ8³Ã­É÷0
+d
+java:S1874T"BRemove this use of "OnConnectionFailedListener"; it is deprecated.(Ú¾Ñƒøÿÿÿÿ8³Ã­É÷0
+`
+java:S1124V"EReorder the modifiers to comply with the Java Language Specification.(ÄÜ•¸øÿÿÿÿ
+[
+java:S1124W"EReorder the modifiers to comply with the Java Language Specification.(ìşšÿ
+[
+java:S1124X"EReorder the modifiers to comply with the Java Language Specification.(šúÎı
+S
+java:S1874\"6Remove this use of "ProgressDialog"; it is deprecated.(§Ù½²8ÂÃ­É÷0
+V	java:S125m"<This block of commented-out lines of code should be removed.(®ïªóúÿÿÿÿ
+T
+java:S1874p"7Remove this use of "GoogleApiClient"; it is deprecated.(©üß¦8ÂÃ­É÷0
+m
+java:S3776u"RRefactor this method to reduce its Cognitive Complexity from 77 to the 15 allowed.(¨Œşÿÿÿÿ
+`
+java:S1854›"DRemove this useless assignment to local variable "bl_aadhar_uid_rd".(ù‚÷ÿÿÿÿÿ
+Z
+java:S1854š"CRemove this useless assignment to local variable "bl_aadhar_no_rd".(ÍäÎû
+W	java:S125Œ"<This block of commented-out lines of code should be removed.(¾…İÿÿÿÿÿ
+K
+java:S1481š"4Remove this unused "bl_aadhar_no_rd" local variable.(ÍäÎû
+Q
+java:S1481›"5Remove this unused "bl_aadhar_uid_rd" local variable.(ù‚÷ÿÿÿÿÿ
+˜
+java:S1186¨"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«û³±
+
+java:S1186¬"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ê¥¾àûÿÿÿÿ
+d
+java:S5361¹"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Í¥Ú•şÿÿÿÿ
+>
+java:S1125Á"'Remove the unnecessary boolean literal.(±Ğ”Õ
+W	java:S125Ê"<This block of commented-out lines of code should be removed.(·ø€ºùÿÿÿÿ
+˜
+java:S1186Ó"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«û³±
+
+java:S1186×"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ê¥¾àûÿÿÿÿ
+d
+java:S5361å"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Í¥Ú•şÿÿÿÿ
+=
+java:S1125ğ"'Remove the unnecessary boolean literal.(±¦˜
+W	java:S125õ"<This block of commented-out lines of code should be removed.(ñ±ƒÑúÿÿÿÿ
+>
+java:S1125"'Remove the unnecessary boolean literal.(©ø£
+a
+java:S1874ˆ">Remove this use of "startActivityForResult"; it is deprecated.(ì²’±ùÿÿÿÿ8íÃ­É÷0
+2
+java:S3626™"Remove this redundant jump.(ûÁİ…
+2
+java:S3626 "Remove this redundant jump.(ûÁİ…
+>
+java:S1125”"'Remove the unnecessary boolean literal.(Û”¸ö
+W	java:S125£"<This block of commented-out lines of code should be removed.(†Ëç¸úÿÿÿÿ
+W	java:S125Ó"<This block of commented-out lines of code should be removed.(Æšºšüÿÿÿÿ
+R	java:S125Ô"<This block of commented-out lines of code should be removed.(Ö®Şÿ
+P
+java:S4719ê"9Replace charset name argument with StandardCharsets.UTF_8(ğÛûì
+R	java:S125î"<This block of commented-out lines of code should be removed.(ü¦›
+R	java:S125€"<This block of commented-out lines of code should be removed.(Âù…ñ
+W	java:S125"<This block of commented-out lines of code should be removed.(Ğ©Ú«şÿÿÿÿ
+W	java:S125§"<This block of commented-out lines of code should be removed.(ÎÆâæúÿÿÿÿ
+R	java:S125¾"<This block of commented-out lines of code should be removed.(Âù…ñ
+W	java:S125Ø"<This block of commented-out lines of code should be removed.(Ò…·ñøÿÿÿÿ
+T
+java:S1874æ"6Remove this use of "ProgressDialog"; it is deprecated.(í™ª8–Ä­É÷0
+P
+java:S1874è"2Remove this use of "setMessage"; it is deprecated.(éé–µ8–Ä­É÷0
+?	java:S108ò")Either remove or fill this block of code.(”ı¾
+h
+java:S1874ø"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ŸŒ¹Ñ8–Ä­É÷0
+z
+java:S3252«"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(ò¢Ššùÿÿÿÿ8¢Ä­É÷0
+R	java:S125°"<This block of commented-out lines of code should be removed.(İÙ™“
+R	java:S125¶"<This block of commented-out lines of code should be removed.(˜ëØä
+m
+java:S1874½"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Ó»×¶şÿÿÿÿ8¢Ä­É÷0
+Z
+java:S1874Î"7Remove this use of "GoogleApiClient"; it is deprecated.(ÂÂ´»ûÿÿÿÿ8²Ä­É÷0
+R
+java:S1874Î"/Remove this use of "Builder"; it is deprecated.(ÂÂ´»ûÿÿÿÿ8²Ä­É÷0
+W
+java:S1854é";Remove this useless assignment to local variable "address".(€Â¸íûÿÿÿÿ
+T
+java:S1854ê"8Remove this useless assignment to local variable "city".(ÀÎõÀşÿÿÿÿ
+U
+java:S1854ë"9Remove this useless assignment to local variable "state".(š©»¼øÿÿÿÿ
+W
+java:S1854ì";Remove this useless assignment to local variable "country".(ÄÕÃ…ûÿÿÿÿ
+a
+java:S1155è">Use isEmpty() to check whether the collection is empty or not.(¦Áøÿÿÿÿ8²Ä­É÷0
+H
+java:S1481é",Remove this unused "address" local variable.(€Â¸íûÿÿÿÿ
+E
+java:S1481ê")Remove this unused "city" local variable.(ÀÎõÀşÿÿÿÿ
+F
+java:S1481ë"*Remove this unused "state" local variable.(š©»¼øÿÿÿÿ
+H
+java:S1481ì",Remove this unused "country" local variable.(ÄÕÃ…ûÿÿÿÿ
+N
+java:S1135ô"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+n
+java:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(æÑ†Ìøÿÿÿÿ
+V
+java:S1874’"8Remove this use of "FusedLocationApi"; it is deprecated.(äíÏÁ8ÑÄ­É÷0
+Z
+java:S1874“"7Remove this use of "LocationRequest"; it is deprecated.(ºä‚¤üÿÿÿÿ8ÑÄ­É÷0
+[
+java:S1874š"8Remove this use of "FusedLocationApi"; it is deprecated.(ú½ÿûÿÿÿÿ8ÑÄ­É÷0
+V
+java:S1874›"3Remove this use of "SettingsApi"; it is deprecated.(éó¡úıÿÿÿÿ8ÑÄ­É÷0
+?	java:S131¢""Add a default case to this switch.(Û ‰¹8ÑÄ­É÷0
+~
+java:S3252£"[Use static access with "com.google.android.gms.common.api.CommonStatusCodes" for "SUCCESS".(Ì˜™áüÿÿÿÿ8ÑÄ­É÷0
+[
+java:S1874ª"8Remove this use of "FusedLocationApi"; it is deprecated.(ÁĞ½¾ùÿÿÿÿ8ÑÄ­É÷0
+Š
+java:S3252®"gUse static access with "com.google.android.gms.common.api.CommonStatusCodes" for "RESOLUTION_REQUIRED".(Âş†²ûÿÿÿÿ8ÑÄ­É÷0
+W	java:S125À"<This block of commented-out lines of code should be removed.(Àµ®ãüÿÿÿÿ
+W	java:S125Í"<This block of commented-out lines of code should be removed.(Ø´æÀùÿÿÿÿ
+a
+java:S1155Ú">Use isEmpty() to check whether the collection is empty or not.(¦Áøÿÿÿÿ8áÄ­É÷0
+N
+java:S1135á"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+P
+java:S4719ò"9Replace charset name argument with StandardCharsets.UTF_8(ğÛûì
+i
+java:S3776‡"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ÑøÅ½
+X
+java:S1854¢"<Remove this useless assignment to local variable "errorStr".(Îı´ğûÿÿÿÿ
+W
+java:S1117’";Rename "pincode" which hides the field declared at line 97.(Õ°Œ«ÿÿÿÿÿ
+U
+java:S2130’"9Use "Integer.parseInt" for this string-to-int conversion.(Õ°Œ«ÿÿÿÿÿ
+I
+java:S1481¢"-Remove this unused "errorStr" local variable.(Îı´ğûÿÿÿÿ
+W	java:S125©"<This block of commented-out lines of code should be removed.(Ğ‚ª·øÿÿÿÿ
+R	java:S125¯"<This block of commented-out lines of code should be removed.(Ë·éè
+R	java:S125´"<This block of commented-out lines of code should be removed.(ûı¡”
+W	java:S125Ì"<This block of commented-out lines of code should be removed.(Ğ©Ú«şÿÿÿÿ
+˜
+java:S1186â"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(­Ë
+˜
+java:S1186ü"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(™©€
+U
+java:S4719ò"9Replace charset name argument with StandardCharsets.UTF_8(Ø”—›ûÿÿÿÿ
+
+java:S1186–"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹ËÒÍıÿÿÿÿ
+R	java:S125£"<This block of commented-out lines of code should be removed.(×ëıŞ
+S
+java:S1874"0Remove this use of "getColor"; it is deprecated.( à½øÿÿÿÿ8 Å­É÷0
+N
+java:S1874‚"0Remove this use of "getColor"; it is deprecated.(¹öİ‹8 Å­É÷0
+N
+java:S1874‡"0Remove this use of "getColor"; it is deprecated.(‹æ¢»8 Å­É÷0
+N
+java:S1874ˆ"0Remove this use of "getColor"; it is deprecated.(ß¸“Ğ8 Å­É÷0
+Y
+java:S1068X"CRemove this unused "REQUEST_ID_MULTIPLE_PERMISSIONS" private field.(šúÎı
+L
+java:S1068q"1Remove this unused "location_flag" private field.(¹š¿áûÿÿÿÿ

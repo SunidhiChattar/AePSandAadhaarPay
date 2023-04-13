@@ -1,0 +1,5 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ю’К§ъ€€€€
+n	java:S116"YRename this field "APP_PREFERENCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(диЇй
+7
+java:S1170"!Make this final field static too.(диЇй

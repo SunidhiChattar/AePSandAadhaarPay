@@ -1,0 +1,581 @@
+
+
+java:S1319»"rThe type of "user_feature_array" should be an interface such as "List" rather than the implementation "ArrayList".(é¾ÏÜşÿÿÿÿ
+l
+java:S1104"QMake isPOS a static final constant or non-public and provide accessors if needed.(¾«øŒøÿÿÿÿ
+q
+java:S1104"VMake ADMIN_NAME a static final constant or non-public and provide accessors if needed.(ñ™ÇÙıÿÿÿÿ
+k
+java:S1104"VMake CREATED_BY a static final constant or non-public and provide accessors if needed.(çá‚
+w
+java:S1104S"\Make USER_NAME_NOTIFY a static final constant or non-public and provide accessors if needed.(±Ššıÿÿÿÿ
+u
+java:S1104U"ZMake AADHAAR_NUMBER a static final constant or non-public and provide accessors if needed.(¯Â¸·øÿÿÿÿ
+s
+java:S1104V"XMake MOBILENUMBER a static final constant or non-public and provide accessors if needed.(¡Í•şÿÿÿÿ
+l
+java:S1104W"VMake IIN_NUMBER a static final constant or non-public and provide accessors if needed.(¬Â‹ß
+k
+java:S1104X"PMake isSL a static final constant or non-public and provide accessors if needed.(Òá£„şÿÿÿÿ
+v
+java:S1104f"[Make DRIVER_ACTIVITY a static final constant or non-public and provide accessors if needed.(µ»ğÃùÿÿÿÿ
+v
+java:S1104g"aMake NOTIFICATION_ACTIVITY a static final constant or non-public and provide accessors if needed.(–à´
+r
+java:S1104h"\Make MANUFACTURE_FLAG a static final constant or non-public and provide accessors if needed.(…‹ùŠ
+q
+java:S1104i"VMake BRAND_NAME a static final constant or non-public and provide accessors if needed.(ÏÔ´üÿÿÿÿ
+v
+java:S1104j"[Make bluetoothDevice a static final constant or non-public and provide accessors if needed.(¦Ÿ¤‰şÿÿÿÿ
+n
+java:S1104l"SMake bankIIN a static final constant or non-public and provide accessors if needed.(ö½şÿÿÿÿ
+y
+java:S1104m"^Make bluetoothConnector a static final constant or non-public and provide accessors if needed.(¤µÎîøÿÿÿÿ
+u
+java:S1104o"ZMake internalFPName a static final constant or non-public and provide accessors if needed.(ÍÃ üüÿÿÿÿ
+t
+java:S1104r"YMake Bluetoothname a static final constant or non-public and provide accessors if needed.(º‡Òñüÿÿÿÿ
+x
+java:S1104s"]Make selected_btdevice a static final constant or non-public and provide accessors if needed.(¨çòåúÿÿÿÿ
+{
+java:S1104t"`Make selected_fingerPrint a static final constant or non-public and provide accessors if needed.(ª˜Üºşÿÿÿÿ
+n
+java:S1104u"SMake from_RD a static final constant or non-public and provide accessors if needed.(óÚ†Ôıÿÿÿÿ
+n
+java:S1104u"SMake from_BT a static final constant or non-public and provide accessors if needed.(óÚ†Ôıÿÿÿÿ
+n
+java:S1104u"SMake from_PT a static final constant or non-public and provide accessors if needed.(óÚ†Ôıÿÿÿÿ
+s
+java:S1104v"]Make transactionAmount a static final constant or non-public and provide accessors if needed.(è§Õ…
+v
+java:S1104w"[Make transactionType a static final constant or non-public and provide accessors if needed.(€úÌøÿÿÿÿ
+h
+java:S1104x"RMake paramA a static final constant or non-public and provide accessors if needed.(µòÂ
+h
+java:S1104y"RMake paramB a static final constant or non-public and provide accessors if needed.(ªéÙì
+h
+java:S1104z"RMake paramC a static final constant or non-public and provide accessors if needed.(œ÷ëş
+z
+java:S1104{"_Make API_USER_NAME_VALUE a static final constant or non-public and provide accessors if needed.(‰‰Ş«ÿÿÿÿÿ
+n
+java:S1104|"YMake encryptedData a static final constant or non-public and provide accessors if needed.(›ÇÂ 
+u
+java:S1104~"ZMake balanceEnquiry a static final constant or non-public and provide accessors if needed.(ÿò¾âşÿÿÿÿ
+u
+java:S1104"ZMake cashWithdrawal a static final constant or non-public and provide accessors if needed.(ïã…Çúÿÿÿÿ
+p
+java:S1104€"YMake ministatement a static final constant or non-public and provide accessors if needed.(î„Ãç
+l
+java:S1104"UMake adhaarPay a static final constant or non-public and provide accessors if needed.(¸öÚ…
+{
+java:S1104‚"_Make transactionResponse a static final constant or non-public and provide accessors if needed.(Š¸Îğÿÿÿÿÿ
+o
+java:S1104ƒ"SMake loginID a static final constant or non-public and provide accessors if needed.(ıã¥şıÿÿÿÿ
+o
+java:S1104„"XMake responseData a static final constant or non-public and provide accessors if needed.(„ÕØ€
+y
+java:S1104…"]Make MATM_REQUEST_CODE a static final constant or non-public and provide accessors if needed.(¤–øíşÿÿÿÿ
+r
+java:S1104†"\Make FRESHNESS_FACTOR a static final constant or non-public and provide accessors if needed.(Ê’Â|
+q
+java:S1104‡"UMake USER_NAME a static final constant or non-public and provide accessors if needed.(¿†µ¿ÿÿÿÿÿ
+m
+java:S1104‹"VMake USER_TOKEN a static final constant or non-public and provide accessors if needed.(—‡ÿ¿
+s
+java:S1104Œ"\Make tokenFromCoreApp a static final constant or non-public and provide accessors if needed.(ñíœŠ
+{
+java:S1104"_Make userNameFromCoreApp a static final constant or non-public and provide accessors if needed.(°ñš¶üÿÿÿÿ
+w
+java:S1104"[Make applicationType a static final constant or non-public and provide accessors if needed.(Æñ×¹úÿÿÿÿ
+i
+java:S1104"RMake LogOut a static final constant or non-public and provide accessors if needed.(á„éñ
+t
+java:S1104"]Make BlueToothPairFlag a static final constant or non-public and provide accessors if needed.(ÌÚª•
+u
+java:S1104‘"^Make Matm1BluetoothFlag a static final constant or non-public and provide accessors if needed.(ûŠô
+v
+java:S1104’"ZMake deviceSerialNo a static final constant or non-public and provide accessors if needed.(½õÁåúÿÿÿÿ
+n
+java:S1104“"WMake CustomTheme a static final constant or non-public and provide accessors if needed.(±áï…
+r
+java:S1104–"[Make bluetoothLayout a static final constant or non-public and provide accessors if needed.(†Ç³
+p
+java:S1104—"YMake bluetoothItem a static final constant or non-public and provide accessors if needed.(ŠÕˆ‚
+k
+java:S1104™"UMake posLayout a static final constant or non-public and provide accessors if needed.(‘µƒ(
+m
+java:S1104š"VMake cardLayout a static final constant or non-public and provide accessors if needed.(áÑØª
+n
+java:S1104œ"WMake errorLayout a static final constant or non-public and provide accessors if needed.(È¥³Â
+n
+java:S1104 "XMake statusLayout a static final constant or non-public and provide accessors if needed.(Ñ÷w
+j
+java:S1104¡"SMake bioauth a static final constant or non-public and provide accessors if needed.(¼¦Şš
+v
+java:S1104¢"_Make applicationUserName a static final constant or non-public and provide accessors if needed.(‡Á©…
+o
+java:S1104£"XMake REQUEST_CODE a static final constant or non-public and provide accessors if needed.(°‘š²
+y
+java:S1104¤"]Make transactionStatus a static final constant or non-public and provide accessors if needed.(Ş¿ ºşÿÿÿÿ
+{
+java:S1104¥"_Make RECEIVE_DRIVER_DATA a static final constant or non-public and provide accessors if needed.(¯§¶ñüÿÿÿÿ
+w
+java:S1104¨"[Make dashboardLayout a static final constant or non-public and provide accessors if needed.(é”àÇùÿÿÿÿ
+k
+java:S1104©"TMake bankList a static final constant or non-public and provide accessors if needed.(¿Öê³
+k
+java:S1104ª"TMake bankItem a static final constant or non-public and provide accessors if needed.(°¼Õ°
+u
+java:S1104¬"YMake bioAuthLayout a static final constant or non-public and provide accessors if needed.(«÷öÉúÿÿÿÿ
+x
+java:S1104®"\Make aepsStatusLayout a static final constant or non-public and provide accessors if needed.(õÚÕùÿÿÿÿ
+w
+java:S1104°"[Make statementLayout a static final constant or non-public and provide accessors if needed.(åÓ£®ùÿÿÿÿ
+u
+java:S1104±"YMake statementItem a static final constant or non-public and provide accessors if needed.(±§šëúÿÿÿÿ
+q
+java:S1104³"UMake showTrans a static final constant or non-public and provide accessors if needed.(±’æ“ÿÿÿÿÿ
+p
+java:S1104µ"TMake editable a static final constant or non-public and provide accessors if needed.(·•îÅıÿÿÿÿ
+q
+java:S1104¶"UMake SHOP_NAME a static final constant or non-public and provide accessors if needed.(ß¢Ïºüÿÿÿÿ
+v
+java:S1104·"ZMake USER_MOBILE_NO a static final constant or non-public and provide accessors if needed.(´‚ÂÛûÿÿÿÿ
+r
+java:S1104¸"VMake USER_EMAIL a static final constant or non-public and provide accessors if needed.(İ¸†Ùùÿÿÿÿ
+r
+java:S1104¹"VMake selectBank a static final constant or non-public and provide accessors if needed.(ÏÁÎ»ıÿÿÿÿ
+q
+java:S1104º"UMake BANK_NAME a static final constant or non-public and provide accessors if needed.(•œ¥ûÿÿÿÿ
+z
+java:S1104»"^Make user_feature_array a static final constant or non-public and provide accessors if needed.(é¾ÏÜşÿÿÿÿ
+m
+java:S1104¼"QMake token a static final constant or non-public and provide accessors if needed.(¸ºÅ…øÿÿÿÿ
+o
+java:S1104½"XMake DEVICE_TOKEN a static final constant or non-public and provide accessors if needed.(ç‘úÉ
+r
+java:S1104¾"VMake SERVER_KEY a static final constant or non-public and provide accessors if needed.(Ø¿¶ıÿÿÿÿ
+t
+java:S1104¿"XMake DEVICE_TOPIC a static final constant or non-public and provide accessors if needed.(ÒÕıéüÿÿÿÿ
+}
+java:S1104À"aMake COMPLETE_REGISTRATION a static final constant or non-public and provide accessors if needed.(î‹ìúÿÿÿÿ
+t
+java:S1104Á"]Make PUSH_NOTIFICATION a static final constant or non-public and provide accessors if needed.(¯øÍ•
+x
+java:S1104Ã"\Make showNotification a static final constant or non-public and provide accessors if needed.(»„ÉŞûÿÿÿÿ
+m
+java:S1104Í"VMake firstCheck a static final constant or non-public and provide accessors if needed.(Î°ÅÀ
+m
+java:S1104Î"WMake secondCheck a static final constant or non-public and provide accessors if needed.(æîš8
+i
+java:S1104Ğ"RMake SLAB_X a static final constant or non-public and provide accessors if needed.(ïĞÙŒ
+n
+java:S1104Ñ"RMake SLAB_Y a static final constant or non-public and provide accessors if needed.(«ÄÓÉúÿÿÿÿ
+s
+java:S1104Ó"WMake DEVICE_TYPE a static final constant or non-public and provide accessors if needed.(›íÀÖşÿÿÿÿ
+o
+java:S1104Ô"XMake IS_BETA_USER a static final constant or non-public and provide accessors if needed.(í¬¾§
+s
+java:S1104Õ"WMake DEVICE_NAME a static final constant or non-public and provide accessors if needed.(ÇÎ¥Ôûÿÿÿÿ
+t
+java:S1104Ö"XMake CUSTOMER_MOB a static final constant or non-public and provide accessors if needed.(Û˜­éùÿÿÿÿ
+s
+java:S1104Ù"\Make onFinishListener a static final constant or non-public and provide accessors if needed.(˜ùÔñ
+w
+java:S1104Ú"`Make onDriverDataListener a static final constant or non-public and provide accessors if needed.(Ô«Ø
+~
+java:S1104Û"gMake onBioAuthDriverDataListener a static final constant or non-public and provide accessors if needed.(®ÜÌ€
+t
+java:S1104İ"]Make aadharNumberValue a static final constant or non-public and provide accessors if needed.(ËÂãÇ
+t
+java:S1104Ş"]Make mobileNumberValue a static final constant or non-public and provide accessors if needed.(ˆñı
+k
+java:S1104ß"UMake bankValue a static final constant or non-public and provide accessors if needed.(ù‚ã?
+k
+java:S1104à"TMake refeshUI a static final constant or non-public and provide accessors if needed.(æìû„
+u
+java:S1104á"^Make OnBackpressedValue a static final constant or non-public and provide accessors if needed.(æªØĞ
+q
+java:S1104å"ZMake internalFpName a static final constant or non-public and provide accessors if needed.(÷¡ùÏ
+x
+java:S1104æ"\Make manufacture_flag a static final constant or non-public and provide accessors if needed.(º×Ò¯ıÿÿÿÿ
+r
+java:S1104ç"[Make driver_activity a static final constant or non-public and provide accessors if needed.(•È…
+n
+java:S1104è"WMake device_type a static final constant or non-public and provide accessors if needed.(Ë…²ù
+o
+java:S1104é"XMake is_beta_user a static final constant or non-public and provide accessors if needed.(æ¡±
+s
+java:S1104ê"WMake device_name a static final constant or non-public and provide accessors if needed.(şÍÉ•ıÿÿÿÿ
+r
+java:S1104ë"VMake user_email a static final constant or non-public and provide accessors if needed.(üƒ§¼üÿÿÿÿ
+u
+java:S1104ì"^Make user_mobile_number a static final constant or non-public and provide accessors if needed.(äş¢Ë
+m
+java:S1104í"WMake customTheme a static final constant or non-public and provide accessors if needed.(ËÃª
+s
+java:S1104î"]Make receiveDriverData a static final constant or non-public and provide accessors if needed.(ì‚¸m
+l
+java:S1104ï"UMake shop_name a static final constant or non-public and provide accessors if needed.(á•ÌÓ
+r
+java:S1104ğ"VMake brand_name a static final constant or non-public and provide accessors if needed.(¸°Úõüÿÿÿÿ
+F
+java:S1444"+Make this "public static isPOS" field final(¾«øŒøÿÿÿÿ
+K
+java:S1444"0Make this "public static ADMIN_NAME" field final(ñ™ÇÙıÿÿÿÿ
+E
+java:S1444"0Make this "public static CREATED_BY" field final(çá‚
+Q
+java:S1444S"6Make this "public static USER_NAME_NOTIFY" field final(±Ššıÿÿÿÿ
+O
+java:S1444U"4Make this "public static AADHAAR_NUMBER" field final(¯Â¸·øÿÿÿÿ
+M
+java:S1444V"2Make this "public static MOBILENUMBER" field final(¡Í•şÿÿÿÿ
+F
+java:S1444W"0Make this "public static IIN_NUMBER" field final(¬Â‹ß
+E
+java:S1444X"*Make this "public static isSL" field final(Òá£„şÿÿÿÿ
+P
+java:S1444f"5Make this "public static DRIVER_ACTIVITY" field final(µ»ğÃùÿÿÿÿ
+P
+java:S1444g";Make this "public static NOTIFICATION_ACTIVITY" field final(–à´
+L
+java:S1444h"6Make this "public static MANUFACTURE_FLAG" field final(…‹ùŠ
+K
+java:S1444i"0Make this "public static BRAND_NAME" field final(ÏÔ´üÿÿÿÿ
+P
+java:S1444j"5Make this "public static bluetoothDevice" field final(¦Ÿ¤‰şÿÿÿÿ
+H
+java:S1444l"-Make this "public static bankIIN" field final(ö½şÿÿÿÿ
+S
+java:S1444m"8Make this "public static bluetoothConnector" field final(¤µÎîøÿÿÿÿ
+O
+java:S1444o"4Make this "public static internalFPName" field final(ÍÃ üüÿÿÿÿ
+N
+java:S1444r"3Make this "public static Bluetoothname" field final(º‡Òñüÿÿÿÿ
+R
+java:S1444s"7Make this "public static selected_btdevice" field final(¨çòåúÿÿÿÿ
+U
+java:S1444t":Make this "public static selected_fingerPrint" field final(ª˜Üºşÿÿÿÿ
+H
+java:S1444u"-Make this "public static from_RD" field final(óÚ†Ôıÿÿÿÿ
+H
+java:S1444u"-Make this "public static from_BT" field final(óÚ†Ôıÿÿÿÿ
+H
+java:S1444u"-Make this "public static from_PT" field final(óÚ†Ôıÿÿÿÿ
+M
+java:S1444v"7Make this "public static transactionAmount" field final(è§Õ…
+P
+java:S1444w"5Make this "public static transactionType" field final(€úÌøÿÿÿÿ
+B
+java:S1444x",Make this "public static paramA" field final(µòÂ
+B
+java:S1444y",Make this "public static paramB" field final(ªéÙì
+B
+java:S1444z",Make this "public static paramC" field final(œ÷ëş
+T
+java:S1444{"9Make this "public static API_USER_NAME_VALUE" field final(‰‰Ş«ÿÿÿÿÿ
+H
+java:S1444|"3Make this "public static encryptedData" field final(›ÇÂ 
+O
+java:S1444~"4Make this "public static balanceEnquiry" field final(ÿò¾âşÿÿÿÿ
+O
+java:S1444"4Make this "public static cashWithdrawal" field final(ïã…Çúÿÿÿÿ
+J
+java:S1444€"3Make this "public static ministatement" field final(î„Ãç
+F
+java:S1444"/Make this "public static adhaarPay" field final(¸öÚ…
+U
+java:S1444‚"9Make this "public static transactionResponse" field final(Š¸Îğÿÿÿÿÿ
+I
+java:S1444ƒ"-Make this "public static loginID" field final(ıã¥şıÿÿÿÿ
+I
+java:S1444„"2Make this "public static responseData" field final(„ÕØ€
+S
+java:S1444…"7Make this "public static MATM_REQUEST_CODE" field final(¤–øíşÿÿÿÿ
+L
+java:S1444†"6Make this "public static FRESHNESS_FACTOR" field final(Ê’Â|
+K
+java:S1444‡"/Make this "public static USER_NAME" field final(¿†µ¿ÿÿÿÿÿ
+G
+java:S1444‹"0Make this "public static USER_TOKEN" field final(—‡ÿ¿
+M
+java:S1444Œ"6Make this "public static tokenFromCoreApp" field final(ñíœŠ
+U
+java:S1444"9Make this "public static userNameFromCoreApp" field final(°ñš¶üÿÿÿÿ
+Q
+java:S1444"5Make this "public static applicationType" field final(Æñ×¹úÿÿÿÿ
+C
+java:S1444",Make this "public static LogOut" field final(á„éñ
+N
+java:S1444"7Make this "public static BlueToothPairFlag" field final(ÌÚª•
+O
+java:S1444‘"8Make this "public static Matm1BluetoothFlag" field final(ûŠô
+P
+java:S1444’"4Make this "public static deviceSerialNo" field final(½õÁåúÿÿÿÿ
+H
+java:S1444“"1Make this "public static CustomTheme" field final(±áï…
+L
+java:S1444–"5Make this "public static bluetoothLayout" field final(†Ç³
+J
+java:S1444—"3Make this "public static bluetoothItem" field final(ŠÕˆ‚
+E
+java:S1444™"/Make this "public static posLayout" field final(‘µƒ(
+G
+java:S1444š"0Make this "public static cardLayout" field final(áÑØª
+H
+java:S1444œ"1Make this "public static errorLayout" field final(È¥³Â
+H
+java:S1444 "2Make this "public static statusLayout" field final(Ñ÷w
+D
+java:S1444¡"-Make this "public static bioauth" field final(¼¦Şš
+P
+java:S1444¢"9Make this "public static applicationUserName" field final(‡Á©…
+I
+java:S1444£"2Make this "public static REQUEST_CODE" field final(°‘š²
+S
+java:S1444¤"7Make this "public static transactionStatus" field final(Ş¿ ºşÿÿÿÿ
+U
+java:S1444¥"9Make this "public static RECEIVE_DRIVER_DATA" field final(¯§¶ñüÿÿÿÿ
+Q
+java:S1444¨"5Make this "public static dashboardLayout" field final(é”àÇùÿÿÿÿ
+E
+java:S1444©".Make this "public static bankList" field final(¿Öê³
+E
+java:S1444ª".Make this "public static bankItem" field final(°¼Õ°
+O
+java:S1444¬"3Make this "public static bioAuthLayout" field final(«÷öÉúÿÿÿÿ
+R
+java:S1444®"6Make this "public static aepsStatusLayout" field final(õÚÕùÿÿÿÿ
+Q
+java:S1444°"5Make this "public static statementLayout" field final(åÓ£®ùÿÿÿÿ
+O
+java:S1444±"3Make this "public static statementItem" field final(±§šëúÿÿÿÿ
+K
+java:S1444³"/Make this "public static showTrans" field final(±’æ“ÿÿÿÿÿ
+J
+java:S1444µ".Make this "public static editable" field final(·•îÅıÿÿÿÿ
+K
+java:S1444¶"/Make this "public static SHOP_NAME" field final(ß¢Ïºüÿÿÿÿ
+P
+java:S1444·"4Make this "public static USER_MOBILE_NO" field final(´‚ÂÛûÿÿÿÿ
+L
+java:S1444¸"0Make this "public static USER_EMAIL" field final(İ¸†Ùùÿÿÿÿ
+L
+java:S1444¹"0Make this "public static selectBank" field final(ÏÁÎ»ıÿÿÿÿ
+K
+java:S1444º"/Make this "public static BANK_NAME" field final(•œ¥ûÿÿÿÿ
+T
+java:S1444»"8Make this "public static user_feature_array" field final(é¾ÏÜşÿÿÿÿ
+G
+java:S1444¼"+Make this "public static token" field final(¸ºÅ…øÿÿÿÿ
+I
+java:S1444½"2Make this "public static DEVICE_TOKEN" field final(ç‘úÉ
+L
+java:S1444¾"0Make this "public static SERVER_KEY" field final(Ø¿¶ıÿÿÿÿ
+N
+java:S1444¿"2Make this "public static DEVICE_TOPIC" field final(ÒÕıéüÿÿÿÿ
+W
+java:S1444À";Make this "public static COMPLETE_REGISTRATION" field final(î‹ìúÿÿÿÿ
+N
+java:S1444Á"7Make this "public static PUSH_NOTIFICATION" field final(¯øÍ•
+R
+java:S1444Ã"6Make this "public static showNotification" field final(»„ÉŞûÿÿÿÿ
+G
+java:S1444Í"0Make this "public static firstCheck" field final(Î°ÅÀ
+G
+java:S1444Î"1Make this "public static secondCheck" field final(æîš8
+C
+java:S1444Ğ",Make this "public static SLAB_X" field final(ïĞÙŒ
+H
+java:S1444Ñ",Make this "public static SLAB_Y" field final(«ÄÓÉúÿÿÿÿ
+M
+java:S1444Ó"1Make this "public static DEVICE_TYPE" field final(›íÀÖşÿÿÿÿ
+I
+java:S1444Ô"2Make this "public static IS_BETA_USER" field final(í¬¾§
+M
+java:S1444Õ"1Make this "public static DEVICE_NAME" field final(ÇÎ¥Ôûÿÿÿÿ
+N
+java:S1444Ö"2Make this "public static CUSTOMER_MOB" field final(Û˜­éùÿÿÿÿ
+M
+java:S1444Ù"6Make this "public static onFinishListener" field final(˜ùÔñ
+Q
+java:S1444Ú":Make this "public static onDriverDataListener" field final(Ô«Ø
+X
+java:S1444Û"AMake this "public static onBioAuthDriverDataListener" field final(®ÜÌ€
+N
+java:S1444İ"7Make this "public static aadharNumberValue" field final(ËÂãÇ
+N
+java:S1444Ş"7Make this "public static mobileNumberValue" field final(ˆñı
+E
+java:S1444ß"/Make this "public static bankValue" field final(ù‚ã?
+E
+java:S1444à".Make this "public static refeshUI" field final(æìû„
+O
+java:S1444á"8Make this "public static OnBackpressedValue" field final(æªØĞ
+K
+java:S1444å"4Make this "public static internalFpName" field final(÷¡ùÏ
+R
+java:S1444æ"6Make this "public static manufacture_flag" field final(º×Ò¯ıÿÿÿÿ
+L
+java:S1444ç"5Make this "public static driver_activity" field final(•È…
+H
+java:S1444è"1Make this "public static device_type" field final(Ë…²ù
+I
+java:S1444é"2Make this "public static is_beta_user" field final(æ¡±
+M
+java:S1444ê"1Make this "public static device_name" field final(şÍÉ•ıÿÿÿÿ
+L
+java:S1444ë"0Make this "public static user_email" field final(üƒ§¼üÿÿÿÿ
+O
+java:S1444ì"8Make this "public static user_mobile_number" field final(äş¢Ë
+G
+java:S1444í"1Make this "public static customTheme" field final(ËÃª
+M
+java:S1444î"7Make this "public static receiveDriverData" field final(ì‚¸m
+F
+java:S1444ï"/Make this "public static shop_name" field final(á•ÌÓ
+L
+java:S1444ğ"0Make this "public static brand_name" field final(¸°Úõüÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(şÕŠ¤úÿÿÿÿ
+o	java:S115$"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(áßÈµ
+t	java:S115)"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(š–¨Êûÿÿÿÿ
+o	java:S115*"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(°ï“’
+p
+java:S3008"URename this field "ADMIN_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ™ÇÙıÿÿÿÿ
+j
+java:S3008"URename this field "CREATED_BY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çá‚
+v
+java:S3008S"[Rename this field "USER_NAME_NOTIFY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Ššıÿÿÿÿ
+t
+java:S3008U"YRename this field "AADHAAR_NUMBER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Â¸·øÿÿÿÿ
+r
+java:S3008V"WRename this field "MOBILENUMBER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡Í•şÿÿÿÿ
+k
+java:S3008W"URename this field "IIN_NUMBER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬Â‹ß
+u
+java:S3008f"ZRename this field "DRIVER_ACTIVITY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ»ğÃùÿÿÿÿ
+u
+java:S3008g"`Rename this field "NOTIFICATION_ACTIVITY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–à´
+q
+java:S3008h"[Rename this field "MANUFACTURE_FLAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…‹ùŠ
+p
+java:S3008i"URename this field "BRAND_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÔ´üÿÿÿÿ
+s
+java:S3008r"XRename this field "Bluetoothname" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º‡Òñüÿÿÿÿ
+w
+java:S3008s"\Rename this field "selected_btdevice" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨çòåúÿÿÿÿ
+z
+java:S3008t"_Rename this field "selected_fingerPrint" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª˜Üºşÿÿÿÿ
+m
+java:S3008u"RRename this field "from_RD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÚ†Ôıÿÿÿÿ
+m
+java:S3008u"RRename this field "from_BT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÚ†Ôıÿÿÿÿ
+m
+java:S3008u"RRename this field "from_PT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÚ†Ôıÿÿÿÿ
+y
+java:S3008{"^Rename this field "API_USER_NAME_VALUE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰‰Ş«ÿÿÿÿÿ
+x
+java:S3008…"\Rename this field "MATM_REQUEST_CODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤–øíşÿÿÿÿ
+q
+java:S3008†"[Rename this field "FRESHNESS_FACTOR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê’Â|
+p
+java:S3008‡"TRename this field "USER_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿†µ¿ÿÿÿÿÿ
+l
+java:S3008‹"URename this field "USER_TOKEN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—‡ÿ¿
+h
+java:S3008"QRename this field "LogOut" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á„éñ
+s
+java:S3008"\Rename this field "BlueToothPairFlag" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÚª•
+t
+java:S3008‘"]Rename this field "Matm1BluetoothFlag" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûŠô
+m
+java:S3008“"VRename this field "CustomTheme" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±áï…
+n
+java:S3008£"WRename this field "REQUEST_CODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°‘š²
+z
+java:S3008¥"^Rename this field "RECEIVE_DRIVER_DATA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯§¶ñüÿÿÿÿ
+p
+java:S3008¶"TRename this field "SHOP_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß¢Ïºüÿÿÿÿ
+u
+java:S3008·"YRename this field "USER_MOBILE_NO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´‚ÂÛûÿÿÿÿ
+q
+java:S3008¸"URename this field "USER_EMAIL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ¸†Ùùÿÿÿÿ
+p
+java:S3008º"TRename this field "BANK_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•œ¥ûÿÿÿÿ
+y
+java:S3008»"]Rename this field "user_feature_array" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é¾ÏÜşÿÿÿÿ
+n
+java:S3008½"WRename this field "DEVICE_TOKEN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç‘úÉ
+q
+java:S3008¾"URename this field "SERVER_KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø¿¶ıÿÿÿÿ
+s
+java:S3008¿"WRename this field "DEVICE_TOPIC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÕıéüÿÿÿÿ
+|
+java:S3008À"`Rename this field "COMPLETE_REGISTRATION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î‹ìúÿÿÿÿ
+s
+java:S3008Á"\Rename this field "PUSH_NOTIFICATION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯øÍ•
+h
+java:S3008Ğ"QRename this field "SLAB_X" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïĞÙŒ
+m
+java:S3008Ñ"QRename this field "SLAB_Y" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ÄÓÉúÿÿÿÿ
+r
+java:S3008Ó"VRename this field "DEVICE_TYPE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›íÀÖşÿÿÿÿ
+n
+java:S3008Ô"WRename this field "IS_BETA_USER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í¬¾§
+r
+java:S3008Õ"VRename this field "DEVICE_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÎ¥Ôûÿÿÿÿ
+s
+java:S3008Ö"WRename this field "CUSTOMER_MOB" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û˜­éùÿÿÿÿ
+t
+java:S3008á"]Rename this field "OnBackpressedValue" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æªØĞ
+w
+java:S3008æ"[Rename this field "manufacture_flag" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º×Ò¯ıÿÿÿÿ
+q
+java:S3008ç"ZRename this field "driver_activity" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•È…
+m
+java:S3008è"VRename this field "device_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë…²ù
+n
+java:S3008é"WRename this field "is_beta_user" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ¡±
+r
+java:S3008ê"VRename this field "device_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÍÉ•ıÿÿÿÿ
+q
+java:S3008ë"URename this field "user_email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üƒ§¼üÿÿÿÿ
+t
+java:S3008ì"]Rename this field "user_mobile_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äş¢Ë
+k
+java:S3008ï"TRename this field "shop_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á•ÌÓ
+q
+java:S3008ğ"URename this field "brand_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸°Úõüÿÿÿÿ
+w
+java:S1845å"`Rename field "internalFpName" to prevent any misunderstanding/clash with field "internalFPName".(÷¡ùÏ
+€
+java:S1845æ"dRename field "manufacture_flag" to prevent any misunderstanding/clash with field "MANUFACTURE_FLAG".(º×Ò¯ıÿÿÿÿ
+y
+java:S1845ç"bRename field "driver_activity" to prevent any misunderstanding/clash with field "DRIVER_ACTIVITY".(•È…
+q
+java:S1845è"ZRename field "device_type" to prevent any misunderstanding/clash with field "DEVICE_TYPE".(Ë…²ù
+s
+java:S1845é"\Rename field "is_beta_user" to prevent any misunderstanding/clash with field "IS_BETA_USER".(æ¡±
+v
+java:S1845ê"ZRename field "device_name" to prevent any misunderstanding/clash with field "DEVICE_NAME".(şÍÉ•ıÿÿÿÿ
+t
+java:S1845ë"XRename field "user_email" to prevent any misunderstanding/clash with field "USER_EMAIL".(üƒ§¼üÿÿÿÿ
+p
+java:S1845í"ZRename field "customTheme" to prevent any misunderstanding/clash with field "CustomTheme".(ËÃª
+m
+java:S1845ï"VRename field "shop_name" to prevent any misunderstanding/clash with field "SHOP_NAME".(á•ÌÓ
+t
+java:S1845ğ"XRename field "brand_name" to prevent any misunderstanding/clash with field "BRAND_NAME".(¸°Úõüÿÿÿÿ
+_
+java:S1659u"DDeclare "from_BT" and all following declarations on a separate line.(óÚ†Ôıÿÿÿÿ
+9
+java:S2386»"Make this member "protected".(é¾ÏÜşÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(è¼å®úÿÿÿÿ
+V	java:S125&"<This block of commented-out lines of code should be removed.(õÆü˜şÿÿÿÿ
+Q	java:S125<"<This block of commented-out lines of code should be removed.(çö‡Ã
+P	java:S125["<This block of commented-out lines of code should be removed.(–ÆŠ:
+V	java:S125e"<This block of commented-out lines of code should be removed.(‡‹‘ßûÿÿÿÿ
+V	java:S125k"<This block of commented-out lines of code should be removed.(•ß½öıÿÿÿÿ
+R	java:S125Å"<This block of commented-out lines of code should be removed.(Ú•Éá

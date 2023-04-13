@@ -1,0 +1,333 @@
+
+u
+java:S2293‘"YReplace the type specification in this constructor call with the diamond operator ("<>").(Œûêøÿÿÿÿ
+d
+java:S1192«"HDefine a constant instead of duplicating this literal "FAILED" 10 times.(òØ³Şıÿÿÿÿ
+“
+java:S1192«"wDefine a constant instead of duplicating this literal "This transaction got failed, Please check the report.." 4 times.(òØ³Şıÿÿÿÿ
+^
+java:S1192"GDefine a constant instead of duplicating this literal "myjson" 3 times.(ÊùÖä
+g
+java:S1192„"KDefine a constant instead of duplicating this literal "AadhaarPay" 3 times.(óìıÔÿÿÿÿÿ
+E
+java:S1066"/Merge this if statement with the enclosing one.(Ë±±-
+K
+java:S1066È"/Merge this if statement with the enclosing one.(›¤¶Æşÿÿÿÿ
+g	java:S117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï¹Œ
+g	java:S117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï¹Œ
+g	java:S117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï¹Œ
+g	java:S117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï¹Œ
+g	java:S117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï¹Œ
+g	java:S117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï¹Œ
+g	java:S117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï¹Œ
+g	java:S117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï¹Œ
+g	java:S117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï¹Œ
+l	java:S117î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªî‡µúÿÿÿÿ
+g	java:S117ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´‚¼·
+l	java:S117ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(££ß»şÿÿÿÿ
+g	java:S117ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Å­›
+l	java:S117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”“÷Òúÿÿÿÿ
+l	java:S117Í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İãÆ±şÿÿÿÿ
+f	java:S117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğò½
+D
+java:S1604Ú"(Make this anonymous inner class a lambda(ôÖİ–ùÿÿÿÿ
+D
+java:S1604á"(Make this anonymous inner class a lambda(‚ó¨øÿÿÿÿÿ
+D
+java:S1604è"(Make this anonymous inner class a lambda(èŞõ¡úÿÿÿÿ
+D
+java:S1604ğ"(Make this anonymous inner class a lambda(¨×œ¨øÿÿÿÿ
+D
+java:S1604‚"(Make this anonymous inner class a lambda(˜Ş’èÿÿÿÿÿ
+D
+java:S1604´"(Make this anonymous inner class a lambda(òÂ“úÿÿÿÿ
+?
+java:S1604Š"(Make this anonymous inner class a lambda(»ç€à
+?
+java:S1604ñ"(Make this anonymous inner class a lambda(Õä
+D
+java:S1604Ã"(Make this anonymous inner class a lambda(ÙáÌ–úÿÿÿÿ
+D
+java:S1604×"(Make this anonymous inner class a lambda(˜ã¯şÿÿÿÿ
+D
+java:S1604æ"(Make this anonymous inner class a lambda(˜ã¯şÿÿÿÿ
+D
+java:S1604ù"(Make this anonymous inner class a lambda(ÙáÌ–úÿÿÿÿ
+D
+java:S1604¡"(Make this anonymous inner class a lambda(ÙáÌ–úÿÿÿÿ
+D
+java:S1604º"(Make this anonymous inner class a lambda(ÙáÌ–úÿÿÿÿ
+?
+java:S1604Ï"(Make this anonymous inner class a lambda(ÉãÃ®
+D
+java:S1604ë	"(Make this anonymous inner class a lambda(˜ã¯şÿÿÿÿ
+u
+java:S1104^"ZMake iv_status_icon a static final constant or non-public and provide accessors if needed.(É¦œÂûÿÿÿÿ
+q
+java:S1104^"VMake iv_pending a static final constant or non-public and provide accessors if needed.(É¦œÂûÿÿÿÿ
+q
+java:S1104^"VMake sendButton a static final constant or non-public and provide accessors if needed.(É¦œÂûÿÿÿÿ
+{
+java:S1104_"`Make tv_transactionAmount a static final constant or non-public and provide accessors if needed.(¯¯’ãùÿÿÿÿ
+r
+java:S1104_"WMake tv_bankName a static final constant or non-public and provide accessors if needed.(¯¯’ãùÿÿÿÿ
+r
+java:S1104_"WMake tv_dateTime a static final constant or non-public and provide accessors if needed.(¯¯’ãùÿÿÿÿ
+o
+java:S1104_"TMake tv_txnID a static final constant or non-public and provide accessors if needed.(¯¯’ãùÿÿÿÿ
+u
+java:S1104_"ZMake tv_viewDetails a static final constant or non-public and provide accessors if needed.(¯¯’ãùÿÿÿÿ
+}
+java:S1104_"bMake tv_progressViewMessage a static final constant or non-public and provide accessors if needed.(¯¯’ãùÿÿÿÿ
+
+java:S1104_"dMake tv_transactionStatusDecs a static final constant or non-public and provide accessors if needed.(¯¯’ãùÿÿÿÿ
+p
+java:S1104`"UMake btn_print a static final constant or non-public and provide accessors if needed.(Ü¸á¹şÿÿÿÿ
+s
+java:S1104`"XMake btn_download a static final constant or non-public and provide accessors if needed.(Ü¸á¹şÿÿÿÿ
+p
+java:S1104`"UMake btn_close a static final constant or non-public and provide accessors if needed.(Ü¸á¹şÿÿÿÿ
+w
+java:S1104`"\Make btn_updateStatus a static final constant or non-public and provide accessors if needed.(Ü¸á¹şÿÿÿÿ
+m
+java:S1104`"RMake btn_ok a static final constant or non-public and provide accessors if needed.(Ü¸á¹şÿÿÿÿ
+z
+java:S1104a"dMake ll_progressBar_container a static final constant or non-public and provide accessors if needed.(·×‘
+o
+java:S1104b"YMake rl_mainLayout a static final constant or non-public and provide accessors if needed.(Ñê›
+x
+java:S1104c"]Make pb_bigProgressBar a static final constant or non-public and provide accessors if needed.(üŒ°Ùúÿÿÿÿ
+u
+java:S1104d"ZMake countDownTimer a static final constant or non-public and provide accessors if needed.(ì›‰¢ùÿÿÿÿ
+u
+java:S1104e"ZMake onceDataLoaded a static final constant or non-public and provide accessors if needed.(ÁÊÓûüÿÿÿÿ
+l
+java:S1104f"VMake finalTxnID a static final constant or non-public and provide accessors if needed.(Í«âÏ
+v
+java:S1104f"`Make aadhaarNumber_dialog a static final constant or non-public and provide accessors if needed.(Í«âÏ
+q
+java:S1104f"[Make rrNumber_dialog a static final constant or non-public and provide accessors if needed.(Í«âÏ
+x
+java:S1104f"bMake transactionType_dialog a static final constant or non-public and provide accessors if needed.(Í«âÏ
+s
+java:S1104f"]Make balanceAmt_dialog a static final constant or non-public and provide accessors if needed.(Í«âÏ
+m
+java:S1104f"WMake _statusMain a static final constant or non-public and provide accessors if needed.(Í«âÏ
+H
+java:S1153ø"1Directly append the argument of String.valueOf().(â×¸
+I
+java:S1199©"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+O
+java:S2589ú"8Remove this expression which always evaluates to "false"(ÅçŞ‹
+S
+java:S2589ˆ	"7Remove this expression which always evaluates to "true"(€³•úÿÿÿÿ
+T
+java:S2589ô"8Remove this expression which always evaluates to "false"(¯Èãåşÿÿÿÿ
+T
+java:S2589"8Remove this expression which always evaluates to "false"(ŠŸ’¹üÿÿÿÿ
+T
+java:S2589—"8Remove this expression which always evaluates to "false"(­Ò°Ùüÿÿÿÿ
+T
+java:S2589±"8Remove this expression which always evaluates to "false"(ºÙ¸ úÿÿÿÿ
+T
+java:S2589£"8Remove this expression which always evaluates to "false"(åË‹³üÿÿÿÿ
+s	java:S116^"YRename this field "iv_status_icon" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É¦œÂûÿÿÿÿ
+o	java:S116^"URename this field "iv_pending" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É¦œÂûÿÿÿÿ
+y	java:S116_"_Rename this field "tv_transactionAmount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯¯’ãùÿÿÿÿ
+p	java:S116_"VRename this field "tv_bankName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯¯’ãùÿÿÿÿ
+p	java:S116_"VRename this field "tv_dateTime" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯¯’ãùÿÿÿÿ
+m	java:S116_"SRename this field "tv_txnID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯¯’ãùÿÿÿÿ
+s	java:S116_"YRename this field "tv_viewDetails" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯¯’ãùÿÿÿÿ
+{	java:S116_"aRename this field "tv_progressViewMessage" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯¯’ãùÿÿÿÿ
+}	java:S116_"cRename this field "tv_transactionStatusDecs" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯¯’ãùÿÿÿÿ
+n	java:S116`"TRename this field "btn_print" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü¸á¹şÿÿÿÿ
+q	java:S116`"WRename this field "btn_download" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü¸á¹şÿÿÿÿ
+n	java:S116`"TRename this field "btn_close" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü¸á¹şÿÿÿÿ
+u	java:S116`"[Rename this field "btn_updateStatus" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü¸á¹şÿÿÿÿ
+k	java:S116`"QRename this field "btn_ok" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü¸á¹şÿÿÿÿ
+x	java:S116a"cRename this field "ll_progressBar_container" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·×‘
+m	java:S116b"XRename this field "rl_mainLayout" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñê›
+v	java:S116c"\Rename this field "pb_bigProgressBar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üŒ°Ùúÿÿÿÿ
+t	java:S116f"_Rename this field "aadhaarNumber_dialog" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í«âÏ
+o	java:S116f"ZRename this field "rrNumber_dialog" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í«âÏ
+v	java:S116f"aRename this field "transactionType_dialog" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í«âÏ
+q	java:S116f"\Rename this field "balanceAmt_dialog" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í«âÏ
+k	java:S116f"VRename this field "_statusMain" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í«âÏ
+q	java:S116t"\Rename this field "m_AemScrybeDevice" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡µƒ
+q	java:S116u"WRename this field "m_AemPrinter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß«¿Šøÿÿÿÿ
+q	java:S116v"WRename this field "m_cardReader" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¯¼øÿÿÿÿ
+b
+java:S1659^"GDeclare "iv_pending" and all following declarations on a separate line.(É¦œÂûÿÿÿÿ
+c
+java:S1659_"HDeclare "tv_bankName" and all following declarations on a separate line.(¯¯’ãùÿÿÿÿ
+d
+java:S1659`"IDeclare "btn_download" and all following declarations on a separate line.(Ü¸á¹şÿÿÿÿ
+g
+java:S1659f"QDeclare "aadhaarNumber_dialog" and all following declarations on a separate line.(Í«âÏ
+I
+java:S1659g".Declare "mobileTextLayout" on a separate line.(¿ó™‘øÿÿÿÿ
+`
+java:S1659x"EDeclare "tempdata" and all following declarations on a separate line.(‘é•£ûÿÿÿÿ
+<
+java:S1659z"&Declare "response" on a separate line.(£½‘–
+{
+java:S1149ï"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ì­ŠÜúÿÿÿÿ
+{
+java:S1149“"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ì­ŠÜúÿÿÿÿ
+{
+java:S1149¬"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ì­ŠÜúÿÿÿÿ
+S	java:S107ß"=Method has 10 parameters, which is greater than 7 authorized.(Ï¹Œ
+L
+java:S1874j"6Remove this use of "ProgressDialog"; it is deprecated.(ğİıº
+n
+java:S3776ƒ"RRefactor this method to reduce its Cognitive Complexity from 69 to the 15 allowed.(¨Œşÿÿÿÿ
+j
+java:S1854Š"NRemove this useless assignment to local variable "myFirebaseMessagingService".(¶º”Ìıÿÿÿÿ
+[
+java:S1481Š"?Remove this unused "myFirebaseMessagingService" local variable.(¶º”Ìıÿÿÿÿ
+U
+java:S1874"9Remove this use of "getDefaultAdapter"; it is deprecated.(øêıøÿÿÿÿ
+<
+java:S2129’" Remove this "String" constructor(£¥éúÿÿÿÿ
+T	java:S106˜"9Replace this use of System.out or System.err by a logger.(çÙï¡øÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ô¥¾
+W	java:S125Ë"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+R	java:S125Ñ"<This block of commented-out lines of code should be removed.(Ç÷Ïş
+O	java:S106ø"9Replace this use of System.out or System.err by a logger.(â×¸
+U
+java:S1155–">Use isEmpty() to check whether the collection is empty or not.(üõ®½
+U
+java:S1874¬">Remove this use of "startActivityForResult"; it is deprecated.(Ù´š½
+˜
+java:S1186Â"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«û³±
+
+java:S1186Æ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ê¥¾àûÿÿÿÿ
+>
+java:S1125Ñ"'Remove the unnecessary boolean literal.(ÍôØ´
+?
+java:S1185Û"(Remove this method to simply inherit it.(¦°ªö
+`
+java:S1874›"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(¹Î¾
+O
+java:S1854Ù"8Remove this useless assignment to local variable "font".(¹±Çê
+P
+java:S1854Ú"9Remove this useless assignment to local variable "font2".(¥êñä
+P	java:S899«";Do something with the "boolean" value returned by "delete".(ÕŠ‘I
+d
+java:S4042«"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ÕŠ‘I
+@
+java:S1481Ù")Remove this unused "font" local variable.(¹±Çê
+A
+java:S1481Ú"*Remove this unused "font2" local variable.(¥êñä
+W	java:S125©"<This block of commented-out lines of code should be removed.(ãü…ùøÿÿÿÿ
+R	java:S125Å"<This block of commented-out lines of code should be removed.(”Õá
+\
+java:S1854ò"@Remove this useless assignment to local variable "balanceAmtID".(é²ëëıÿÿÿÿ
+g
+java:S3252ì"PUse static access with "android.view.ViewGroup$LayoutParams" for "MATCH_PARENT".(ÓÿÁû
+g
+java:S3252ì"PUse static access with "android.view.ViewGroup$LayoutParams" for "WRAP_CONTENT".(ÓÿÁû
+M
+java:S1481ò"1Remove this unused "balanceAmtID" local variable.(é²ëëıÿÿÿÿ
+U
+java:S1874¬"9Remove this use of "getDefaultAdapter"; it is deprecated.(øêıøÿÿÿÿ
+i
+java:S3776¸"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(†íë 
+i
+java:S3776ƒ"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¶Æ‘Ï
+W	java:S125…"<This block of commented-out lines of code should be removed.(Ä‹¯øÿÿÿÿ
+–
+java:S2159—"zRemove this call to "equals"; comparisons against null always return false; consider using '== null' to check for nullity.(­Ò°Ùüÿÿÿÿ
+–
+java:S2159±"zRemove this call to "equals"; comparisons against null always return false; consider using '== null' to check for nullity.(ºÙ¸ úÿÿÿÿ
+R	java:S125½"<This block of commented-out lines of code should be removed.(ÑÚ¿ˆ
+R
+java:S1874"6Remove this use of "ProgressDialog"; it is deprecated.(¹„Ã­şÿÿÿÿ
+N
+java:S1874ƒ"2Remove this use of "setMessage"; it is deprecated.(ÙæõÛúÿÿÿÿ
+R	java:S125Å"<This block of commented-out lines of code should be removed.(º°Ë¢
+T
+java:S1854Õ"8Remove this useless assignment to local variable "data".(¥ìÄ©ùÿÿÿÿ
+U
+java:S1117Õ"9Rename "data" which hides the field declared at line 120.(¥ìÄ©ùÿÿÿÿ
+E
+java:S1481Õ")Remove this unused "data" local variable.(¥ìÄ©ùÿÿÿÿ
+W	java:S125Ù"<This block of commented-out lines of code should be removed.(£Ëè³ÿÿÿÿÿ
+T
+java:S1854ä"8Remove this useless assignment to local variable "data".(­¤Àùÿÿÿÿ
+U
+java:S1117ä"9Rename "data" which hides the field declared at line 120.(­¤Àùÿÿÿÿ
+E
+java:S1481ä")Remove this unused "data" local variable.(­¤Àùÿÿÿÿ
+W	java:S125è"<This block of commented-out lines of code should be removed.(£Ëè³ÿÿÿÿÿ
+I
+java:S1135õ"2Complete the task associated to this TODO comment.(‡ñÅ¼
+P
+java:S1117÷"9Rename "data" which hides the field declared at line 120.(½õÒ›
+R	java:S125û"<This block of commented-out lines of code should be removed.(¿Óƒ°
+r
+java:S3923’"[Remove this conditional structure or edit its code blocks so that they're not all the same.(è³êû
+I
+java:S1135™"2Complete the task associated to this TODO comment.(‡ñÅ¼
+>	java:S108¦")Either remove or fill this block of code.(´ñÅ
+
+I
+java:S1135²"2Complete the task associated to this TODO comment.(‡ñÅ¼
+>	java:S108¿")Either remove or fill this block of code.(´ñÅ
+
+U
+java:S1117Ç"9Rename "data" which hides the field declared at line 120.(ø¢Ğïûÿÿÿÿ
+U
+java:S1155¡	">Use isEmpty() to check whether the collection is empty or not.(üõ®½
+U
+java:S1874±	">Remove this use of "startActivityForResult"; it is deprecated.(Ù´š½
+Q
+java:S1854
+":Remove this useless assignment to local variable "result".(‰¿ÈÌ
+Q
+java:S1854
+":Remove this useless assignment to local variable "result".(ìÿ§å
+V
+java:S1854‘
+":Remove this useless assignment to local variable "result".(÷éÍ’ıÿÿÿÿ
+V
+java:S1854“
+":Remove this useless assignment to local variable "result".(à¶éÜÿÿÿÿÿ
+V
+java:S1854•
+":Remove this useless assignment to local variable "result".(ãäš‚úÿÿÿÿ
+V
+java:S1854–
+":Remove this useless assignment to local variable "result".(ˆõò¯ûÿÿÿÿ
+Q
+java:S1854—
+":Remove this useless assignment to local variable "result".(ÓØşÕ
+V
+java:S1854˜
+":Remove this useless assignment to local variable "result".(ªòø¿øÿÿÿÿ
+V
+java:S1854™
+":Remove this useless assignment to local variable "result".(…¯‚”şÿÿÿÿ
+Q
+java:S1854›
+":Remove this useless assignment to local variable "result".(ïµ°®
+V
+java:S1854œ
+":Remove this useless assignment to local variable "result".(Ø—ø„üÿÿÿÿ
+V
+java:S1854
+":Remove this useless assignment to local variable "result".(›˜ùãùÿÿÿÿ
+Q
+java:S1854
+":Remove this useless assignment to local variable "result".(Å¿¯å
+Q
+java:S1854Ÿ
+":Remove this useless assignment to local variable "result".(­şøÒ
+Q
+java:S1854 
+":Remove this useless assignment to local variable "result".(àÊÙ
+Q
+java:S1854¡
+":Remove this useless assignment to local variable "result".(Úë–ı
+I
+java:S3398Ç	"2Move this method into "UnifiedPrintReceiptThread".(ŠæÙ

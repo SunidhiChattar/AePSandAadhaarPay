@@ -1,0 +1,18 @@
+
+k
+java:S1192d"PDefine a constant instead of duplicating this literal "ApplicationType" 4 times.(à®Ş–şÿÿÿÿ
+C
+java:S16049"(Make this anonymous inner class a lambda(úûó‚üÿÿÿÿ
+D
+java:S1604™"(Make this anonymous inner class a lambda(úûó‚üÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ç“õà
+V	java:S125"<This block of commented-out lines of code should be removed.(í½ûÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(’”µ
+=	java:S108'")Either remove or fill this block of code.(ïõÙE
+V	java:S125C"<This block of commented-out lines of code should be removed.(ûŠ”¾ûÿÿÿÿ
+>	java:S108G")Either remove or fill this block of code.(”ı¾
+h
+java:S3776X"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ú«Ÿè
+?	java:S108‰")Either remove or fill this block of code.(”ı¾
+W	java:S125£"<This block of commented-out lines of code should be removed.(ûŠ”¾ûÿÿÿÿ
+?	java:S108§")Either remove or fill this block of code.(”ı¾

@@ -1,0 +1,440 @@
+
+E
+java:S3740e"/Provide the parametrized type for this generic.(¢•áë
+j
+java:S1192…	"NDefine a constant instead of duplicating this literal "MOBILE_NUMBER" 5 times.(šª›üÿÿÿÿ
+l
+java:S1192÷"PDefine a constant instead of duplicating this literal "Balance Enquiry" 6 times.(‰Ã™ùÿÿÿÿ
+_
+java:S1192‚	"HDefine a constant instead of duplicating this literal "Success" 5 times.(«Ø¬¿
+c
+java:S1192Æ"GDefine a constant instead of duplicating this literal "status" 5 times.(õÚîßúÿÿÿÿ
+f
+java:S1192—"JDefine a constant instead of duplicating this literal "DATAVALUE" 6 times.(Şéÿ°ùÿÿÿÿ
+^
+java:S1192œ"GDefine a constant instead of duplicating this literal "RDSVER" 6 times.(Ê¥Ù©
+_
+java:S1192¢"HDefine a constant instead of duplicating this literal "MOBUSER" 6 times.(Û•å 
+`
+java:S1192Ù"IDefine a constant instead of duplicating this literal "WITHDRAW" 4 times.(¢«‡é
+]
+java:S1192›"FDefine a constant instead of duplicating this literal "RDSID" 6 times.(ù‹Ê
+b
+java:S1192ò"FDefine a constant instead of duplicating this literal "SUBHA" 6 times.(´–Éòûÿÿÿÿ
+_
+java:S1192¥"HDefine a constant instead of duplicating this literal "Balance" 6 times.(àíæ·
+b
+java:S1192"FDefine a constant instead of duplicating this literal "value" 6 times.(Ô¯É¡ıÿÿÿÿ
+]
+java:S1192Õ"FDefine a constant instead of duplicating this literal "Alert" 4 times.(ãèÒá
+K
+java:S1066ü"/Merge this if statement with the enclosing one.(²ÂùÕÿÿÿÿÿ
+l	java:S117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é¬†üÿÿÿÿ
+g	java:S117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åïí”
+f	java:S117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¥Æ=
+l	java:S117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şéÿ°ùÿÿÿÿ
+l	java:S117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ™¾òúÿÿÿÿ
+g	java:S117™"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–è®Ê
+g	java:S117š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ûÆ
+g	java:S117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù‹Ê
+g	java:S117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê¥Ù©
+l	java:S117±"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é¬†üÿÿÿÿ
+g	java:S117²"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åïí”
+f	java:S117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¥Æ=
+l	java:S117´"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şéÿ°ùÿÿÿÿ
+l	java:S117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ™¾òúÿÿÿÿ
+g	java:S117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–è®Ê
+g	java:S117·"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ûÆ
+g	java:S117¸"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù‹Ê
+g	java:S117¹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê¥Ù©
+l	java:S117Î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é¬†üÿÿÿÿ
+g	java:S117Ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åïí”
+f	java:S117Ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¥Æ=
+l	java:S117Ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şéÿ°ùÿÿÿÿ
+l	java:S117Ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ™¾òúÿÿÿÿ
+g	java:S117Ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–è®Ê
+g	java:S117Ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ûÆ
+g	java:S117Õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù‹Ê
+g	java:S117Ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê¥Ù©
+l	java:S117î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é¬†üÿÿÿÿ
+g	java:S117ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åïí”
+f	java:S117ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¥Æ=
+l	java:S117ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şéÿ°ùÿÿÿÿ
+l	java:S117ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ™¾òúÿÿÿÿ
+g	java:S117ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–è®Ê
+g	java:S117ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ûÆ
+g	java:S117õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù‹Ê
+g	java:S117ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê¥Ù©
+l	java:S117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é¬†üÿÿÿÿ
+g	java:S117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åïí”
+f	java:S117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¥Æ=
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şéÿ°ùÿÿÿÿ
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ™¾òúÿÿÿÿ
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–è®Ê
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ûÆ
+g	java:S117‘"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù‹Ê
+g	java:S117’"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê¥Ù©
+l	java:S117©"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é¬†üÿÿÿÿ
+g	java:S117ª"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åïí”
+f	java:S117«"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¥Æ=
+l	java:S117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şéÿ°ùÿÿÿÿ
+l	java:S117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ™¾òúÿÿÿÿ
+g	java:S117®"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–è®Ê
+g	java:S117¯"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ûÆ
+g	java:S117°"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù‹Ê
+g	java:S117±"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê¥Ù©
+g	java:S117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İıêæ
+l	java:S117Ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”“÷Òúÿÿÿÿ
+?
+java:S1604ä"(Make this anonymous inner class a lambda(°§ÎØ
+>
+java:S1604·"(Make this anonymous inner class a lambda(Œçİ
+D
+java:S1604"(Make this anonymous inner class a lambda(æùÕ„ÿÿÿÿÿ
+D
+java:S1604Ú"(Make this anonymous inner class a lambda(ß«ñ‹üÿÿÿÿ
+>
+java:S1604‰"(Make this anonymous inner class a lambda(ûÏ²
+?
+java:S1604 "(Make this anonymous inner class a lambda(ğ¶½®
+D
+java:S1604´"(Make this anonymous inner class a lambda(êÈúªÿÿÿÿÿ
+D
+java:S1604¾"(Make this anonymous inner class a lambda(Ğ˜ğúÿÿÿÿ
+?
+java:S1604ø"(Make this anonymous inner class a lambda(Î¬¯”
+D
+java:S1604É"(Make this anonymous inner class a lambda(ìé‚›ıÿÿÿÿ
+?
+java:S1604Ú"(Make this anonymous inner class a lambda(»ç€à
+D
+java:S5411Æ"(Use a primitive boolean expression here.(¹¤ĞÅùÿÿÿÿ
+?
+java:S5411Ö"(Use a primitive boolean expression here.(øÃ‘ó
+?
+java:S5411å"(Use a primitive boolean expression here.(Ÿ×˜
+D
+java:S5411è"(Use a primitive boolean expression here.(¹¤ĞÅùÿÿÿÿ
+?
+java:S5411ë"(Use a primitive boolean expression here.(øÃ‘ó
+D
+java:S5411—	"(Use a primitive boolean expression here.(¹¤ĞÅùÿÿÿÿ
+?
+java:S5411š	"(Use a primitive boolean expression here.(øÃ‘ó
+D
+java:S5411ê	"(Use a primitive boolean expression here.(¹¤ĞÅùÿÿÿÿ
+?
+java:S5411í	"(Use a primitive boolean expression here.(øÃ‘ó
+D
+java:S5411†
+"(Use a primitive boolean expression here.(¹¤ĞÅùÿÿÿÿ
+?
+java:S5411‰
+"(Use a primitive boolean expression here.(øÃ‘ó
+D
+java:S5411»
+"(Use a primitive boolean expression here.(¹¤ĞÅùÿÿÿÿ
+?
+java:S5411¾
+"(Use a primitive boolean expression here.(øÃ‘ó
+D
+java:S5411"(Use a primitive boolean expression here.(¹¤ĞÅùÿÿÿÿ
+?
+java:S5411”"(Use a primitive boolean expression here.(øÃ‘ó
+D
+java:S5411±"(Use a primitive boolean expression here.(¹¤ĞÅùÿÿÿÿ
+?
+java:S5411·"(Use a primitive boolean expression here.(øÃ‘ó
+D
+java:S5411Í"(Use a primitive boolean expression here.(Øğ–úÿÿÿÿ
+p
+java:S2259×
+"TA "NullPointerException" could be thrown; "cashWithdrawalResponse" is nullable here.(æî¯÷ùÿÿÿÿ
+Z
+java:S2583õ	"CChange this condition so that it does not always evaluate to "true"(ãâÄ¨
+u	java:S115ƒ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(®Íşÿÿÿÿ
+
+java:S1186¶"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ä­³·úÿÿÿÿ
+˜
+java:S1186»"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŸÑ¥À
+7
+java:S1659h"!Declare "uid" on a separate line.(ü•Äø
+>
+java:S1659i"(Declare "aadharText" on a separate line.(Ë¡áù
+C
+java:S1659r"-Declare "aadharVirtualID" on a separate line.(ÉÉæ
+g
+java:S1659s"QDeclare "cashWithdrawalButton" and all following declarations on a separate line.(ÔÚÌÒ
+^
+java:S1659t"HDeclare "bankspinner" and all following declarations on a separate line.(º»ô¤
+\
+java:S1659u"FDeclare "virtualID" and all following declarations on a separate line.(àÌùÜ
+y
+java:S1450s"cRemove the "cashWithdrawalButton" field and declare it as a local variable in the relevant methods.(ÔÚÌÒ
+u
+java:S1450³"YRemove the "gpsTracker" field and declare it as a local variable in the relevant methods.(ñç—úùÿÿÿÿ
+`
+java:S1124W"EReorder the modifiers to comply with the Java Language Specification.(ÄÜ•¸øÿÿÿÿ
+L
+java:S1874_"6Remove this use of "ProgressDialog"; it is deprecated.(§Ù½²
+N
+java:S1135Š"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+N
+java:S1135’"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+N
+java:S1135˜"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+N
+java:S1135 "2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+N
+java:S1135§"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+N
+java:S1135­"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+o
+java:S3776¸"SRefactor this method to reduce its Cognitive Complexity from 201 to the 15 allowed.(¨Œşÿÿÿÿ
+R	java:S125À"<This block of commented-out lines of code should be removed.(Øşıò
+W	java:S125È"<This block of commented-out lines of code should be removed.(Şåçğşÿÿÿÿ
+R	java:S125‰"<This block of commented-out lines of code should be removed.(Ì€Ü·
+L
+java:S1874²"0Remove this use of "getColor"; it is deprecated.(…ÿ×øÿÿÿÿ
+Q	java:S125µ"<This block of commented-out lines of code should be removed.(ÂºÎK
+W	java:S125º"<This block of commented-out lines of code should be removed.(Ğ©Ú«şÿÿÿÿ
+R	java:S125Ğ"<This block of commented-out lines of code should be removed.(ú÷·Œ
+G
+java:S1874à"0Remove this use of "getColor"; it is deprecated.(¦ÌÆ¾
+Z
+java:S1874ö">Remove this use of "startActivityForResult"; it is deprecated.(ì²’±ùÿÿÿÿ
+W	java:S125¡"<This block of commented-out lines of code should be removed.(ñ±ƒÑúÿÿÿÿ
+?	java:S108¦")Either remove or fill this block of code.(å¥‡
+d
+java:S5361¾"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Í¥Ú•şÿÿÿÿ
+>
+java:S1125Â"'Remove the unnecessary boolean literal.(Û”¸ö
+W	java:S125Ç"<This block of commented-out lines of code should be removed.(ñ±ƒÑúÿÿÿÿ
+W	java:S125û"<This block of commented-out lines of code should be removed.(ñ±ƒÑúÿÿÿÿ
+d
+java:S5361–"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Í¥Ú•şÿÿÿÿ
+W	java:S125 "<This block of commented-out lines of code should be removed.(ñ±ƒÑúÿÿÿÿ
+=
+java:S1125£"'Remove the unnecessary boolean literal.(±¦˜
+˜
+java:S1186¿"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«û³±
+
+java:S1186Ã"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ê¥¾àûÿÿÿÿ
+˜
+java:S1186Ô"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«û³±
+
+java:S1186Ø"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ê¥¾àûÿÿÿÿ
+˜
+java:S1186é"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«û³±
+
+java:S1186í"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ê¥¾àûÿÿÿÿ
+C
+java:S1125ü"'Remove the unnecessary boolean literal.(²ÂùÕÿÿÿÿÿ
+r
+java:S3923ı"[Remove this conditional structure or edit its code blocks so that they're not all the same.(îÅÌÊ
+R	java:S125•"<This block of commented-out lines of code should be removed.(Ò¥É¤
+J
+java:S1874™"3Remove this use of "getDrawable"; it is deprecated.(÷‰Š
+G
+java:S1874š"0Remove this use of "getColor"; it is deprecated.(¸ğí
+L
+java:S1874¨"0Remove this use of "getColor"; it is deprecated.(…ÿ×øÿÿÿÿ
+R	java:S125°"<This block of commented-out lines of code should be removed.(ÇúÛ
+Y
+java:S1854Ä"CRemove this useless assignment to local variable "balanceaadharNo".(òã²*
+W	java:S125Á"<This block of commented-out lines of code should be removed.(Ğ©Ú«şÿÿÿÿ
+P
+java:S1481Â"4Remove this unused "balanceaadharNo" local variable.(æµ®ïùÿÿÿÿ
+C
+java:S1125Æ"'Remove the unnecessary boolean literal.(¹¤ĞÅùÿÿÿÿ
+W	java:S125Ç"<This block of commented-out lines of code should be removed.(íõ„ûÿÿÿÿ
+>
+java:S1125Ö"'Remove the unnecessary boolean literal.(øÃ‘ó
+d
+java:S5361Ù"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¾çİùÿÿÿÿ
+C
+java:S1125ß"'Remove the unnecessary boolean literal.(ş¶Ö™ıÿÿÿÿ
+C
+java:S1125ù"'Remove the unnecessary boolean literal.(è»Ãçıÿÿÿÿ
+R	java:S125ş"<This block of commented-out lines of code should be removed.(Èí£Á
+?	java:S108‚")Either remove or fill this block of code.(Á³À®
+R	java:S125¦"<This block of commented-out lines of code should be removed.(†ÀŞ
+R	java:S125À"<This block of commented-out lines of code should be removed.(†ÀŞ
+R	java:S125Ü"<This block of commented-out lines of code should be removed.(†ÀŞ
+W	java:S125Ì"<This block of commented-out lines of code should be removed.(‹¹ºıÿÿÿÿ
+J
+java:S1874Ó"3Remove this use of "getDrawable"; it is deprecated.(áıë¦
+W	java:S125İ"<This block of commented-out lines of code should be removed.(‰’¡Ğüÿÿÿÿ
+W	java:S125ß"<This block of commented-out lines of code should be removed.(Æšºšüÿÿÿÿ
+R	java:S125à"<This block of commented-out lines of code should be removed.(Ö®Şÿ
+]
+java:S1117ø"FRename "sharedPreferences" which hides the field declared at line 126.(‹Æ©‚
+W
+java:S1117ù";Rename "editor" which hides the field declared at line 111.(ÀÂ©Éÿÿÿÿÿ
+]
+java:S1126ƒ"AReplace this if-then-else statement by a single return statement.(¤Ö“øÿÿÿÿ
+
+java:S1186š"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(é¬“âùÿÿÿÿ
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±ìÑùÿÿÿÿ
+˜
+java:S1186 "€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¬•çŠ
+R	java:S125"<This block of commented-out lines of code should be removed.(¹ØÄ¼
+f
+java:S1874š"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(é¬“âùÿÿÿÿ
+V
+java:S1161š":Add the "@Override" annotation above this method signature(é¬“âùÿÿÿÿ
+V
+java:S1161":Add the "@Override" annotation above this method signature(±ìÑùÿÿÿÿ
+Q
+java:S1161 ":Add the "@Override" annotation above this method signature(¬•çŠ
+?
+java:S1185²"(Remove this method to simply inherit it.(ÍÙ÷¢
+a
+java:S1874¸"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ŸŒ¹Ñ
+W	java:S125á"<This block of commented-out lines of code should be removed.(÷ÃÅ¹ÿÿÿÿÿ
+f
+java:S1854Œ	"JRemove this useless assignment to local variable "transactionStatusModel".(ÂŒ÷˜ûÿÿÿÿ
+C
+java:S1125è"'Remove the unnecessary boolean literal.(¹¤ĞÅùÿÿÿÿ
+R	java:S125é"<This block of commented-out lines of code should be removed.(ÚŸ×‰
+>
+java:S1125ë"'Remove the unnecessary boolean literal.(øÃ‘ó
+W	java:S125î"<This block of commented-out lines of code should be removed.(¼ÀÁäşÿÿÿÿ
+W	java:S125€	"<This block of commented-out lines of code should be removed.(ÿŒ’”ûÿÿÿÿ
+C
+java:S1125—	"'Remove the unnecessary boolean literal.(¹¤ĞÅùÿÿÿÿ
+R	java:S125˜	"<This block of commented-out lines of code should be removed.(ÚŸ×‰
+>
+java:S1125š	"'Remove the unnecessary boolean literal.(øÃ‘ó
+W	java:S125³	"<This block of commented-out lines of code should be removed.(ÿŒ’”ûÿÿÿÿ
+>
+java:S1125´	"'Remove the unnecessary boolean literal.(®š®¬
+W	java:S125Õ	"<This block of commented-out lines of code should be removed.(ÿŒ’”ûÿÿÿÿ
+>
+java:S1125Ö	"'Remove the unnecessary boolean literal.(®š®¬
+Q
+java:S1854ì	":Remove this useless assignment to local variable "aadhar".(’€Ë
+Q
+java:S1854î	":Remove this useless assignment to local variable "aadhar".(¯ıãÊ
+[
+java:S1854ô	"?Remove this useless assignment to local variable "statusvalue".(Ûñ¿šÿÿÿÿÿ
+G
+java:S1481é	"+Remove this unused "aadhar" local variable.(¹«¾ìşÿÿÿÿ
+C
+java:S1125ê	"'Remove the unnecessary boolean literal.(¹¤ĞÅùÿÿÿÿ
+R	java:S125ë	"<This block of commented-out lines of code should be removed.(ÚŸ×‰
+>
+java:S1125í	"'Remove the unnecessary boolean literal.(øÃ‘ó
+L
+java:S1481ô	"0Remove this unused "statusvalue" local variable.(Ûñ¿šÿÿÿÿÿ
+R	java:S125ö	"<This block of commented-out lines of code should be removed.(Œ³²±
+W	java:S125€
+"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+f
+java:S1854¬
+"JRemove this useless assignment to local variable "transactionStatusModel".(ÂŒ÷˜ûÿÿÿÿ
+C
+java:S1125†
+"'Remove the unnecessary boolean literal.(¹¤ĞÅùÿÿÿÿ
+R	java:S125‡
+"<This block of commented-out lines of code should be removed.(ÚŸ×‰
+>
+java:S1125‰
+"'Remove the unnecessary boolean literal.(øÃ‘ó
+W	java:S125
+"<This block of commented-out lines of code should be removed.(¼ÀÁäşÿÿÿÿ
+W	java:S125 
+"<This block of commented-out lines of code should be removed.(ÿŒ’”ûÿÿÿÿ
+>
+java:S1125¡
+"'Remove the unnecessary boolean literal.(®š®¬
+W	java:S125¹
+"<This block of commented-out lines of code should be removed.(ó•Üáıÿÿÿÿ
+C
+java:S1125»
+"'Remove the unnecessary boolean literal.(¹¤ĞÅùÿÿÿÿ
+R	java:S125¼
+"<This block of commented-out lines of code should be removed.(ÚŸ×‰
+>
+java:S1125¾
+"'Remove the unnecessary boolean literal.(øÃ‘ó
+W	java:S125Ä
+"<This block of commented-out lines of code should be removed.(¼ÀÁäşÿÿÿÿ
+>
+java:S1125Ö
+"'Remove the unnecessary boolean literal.(®š®¬
+R
+java:S1874ï
+"6Remove this use of "ProgressDialog"; it is deprecated.(¿åèúÿÿÿÿ
+I
+java:S1874ñ
+"2Remove this use of "setMessage"; it is deprecated.(éé–µ
+N
+java:S1135‡"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+C
+java:S1125‰"'Remove the unnecessary boolean literal.(ñæÎÂùÿÿÿÿ
+C
+java:S1125"'Remove the unnecessary boolean literal.(¹¤ĞÅùÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(¯”æ
+>
+java:S1125”"'Remove the unnecessary boolean literal.(øÃ‘ó
+_
+java:S5361—"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¢Üà©
+?	java:S108›")Either remove or fill this block of code.(šÀ›÷
+J
+java:S1874 "3Remove this use of "getDrawable"; it is deprecated.(áıë¦
+N
+java:S1135¦"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+C
+java:S1125©"'Remove the unnecessary boolean literal.(‚Ë®ğşÿÿÿÿ
+C
+java:S1125±"'Remove the unnecessary boolean literal.(¹¤ĞÅùÿÿÿÿ
+Q	java:S125²"<This block of commented-out lines of code should be removed.(¯”æ
+>
+java:S1125·"'Remove the unnecessary boolean literal.(øÃ‘ó
+_
+java:S5361º"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¢Üà©
+?	java:S108¾")Either remove or fill this block of code.(šÀ›÷
+J
+java:S1874Ã"3Remove this use of "getDrawable"; it is deprecated.(áıë¦
+W	java:S125Ğ"<This block of commented-out lines of code should be removed.(ñ±ƒÑúÿÿÿÿ
+R	java:S125ã"<This block of commented-out lines of code should be removed.(úÿ¨Ÿ
+L
+java:S1874„"0Remove this use of "getColor"; it is deprecated.( à½øÿÿÿÿ
+G
+java:S1874…"0Remove this use of "getColor"; it is deprecated.(¹öİ‹
+R	java:S125ˆ"<This block of commented-out lines of code should be removed.(¸ÊóŠ
+G
+java:S1874–"0Remove this use of "getColor"; it is deprecated.(‹æ¢»
+G
+java:S1874—"0Remove this use of "getColor"; it is deprecated.(ß¸“Ğ
+U
+java:S1854ó">Remove this useless assignment to local variable "statusDesc".(¬Ø¦…
+R	java:S125ï"<This block of commented-out lines of code should be removed.(ˆÛ®¦
+F
+java:S1481ó"/Remove this unused "statusDesc" local variable.(¬Ø¦…
+W	java:S125”"<This block of commented-out lines of code should be removed.(¹Şµıÿÿÿÿ
+U
+java:S1854 ">Remove this useless assignment to local variable "statusDesc".(¬Ø¦…
+R	java:S125›"<This block of commented-out lines of code should be removed.(ˆÛ®¦
+W	java:S125"<This block of commented-out lines of code should be removed.(¾ùÕàşÿÿÿÿ
+F
+java:S1481 "/Remove this unused "statusDesc" local variable.(¬Ø¦…
+W	java:S125ƒ"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ
+d
+java:S5361›"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ÿì íûÿÿÿÿ
+R	java:S125µ"<This block of commented-out lines of code should be removed.(³ÄšÙ
+g
+java:S3252Á"PUse static access with "android.view.ViewGroup$LayoutParams" for "MATCH_PARENT".(ÓÿÁû
+g
+java:S3252Á"PUse static access with "android.view.ViewGroup$LayoutParams" for "WRAP_CONTENT".(ÓÿÁû
+W
+java:S1117—";Rename "editor" which hides the field declared at line 111.(ÀÂ©Éÿÿÿÿÿ
+R	java:S125Ú"<This block of commented-out lines of code should be removed.(İ’–
+d
+java:S1144“"MRemove this unused private "checkVPNstatusForTransactionCashWithdraw" method.(ûÏ²Ô
+C
+java:S1144í",Remove this unused private "expired" method.(Ûş¦ÿ
+G
+java:S1144ş"0Remove this unused private "getSdkToken" method.(•Ù¦÷

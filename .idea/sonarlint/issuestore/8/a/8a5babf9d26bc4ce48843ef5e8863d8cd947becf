@@ -1,0 +1,8 @@
+
+o
+java:S1104
+"YMake aadhaarNumber a static final constant or non-public and provide accessors if needed.(­Ïª
+r
+java:S1104"WMake updatedDate a static final constant or non-public and provide accessors if needed.(–½¦şıÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÃÍ¸£ùÿÿÿÿ
+\	java:S107"BConstructor has 10 parameters, which is greater than 7 authorized.(™Ã¦Àûÿÿÿÿ

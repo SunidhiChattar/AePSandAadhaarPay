@@ -1,0 +1,60 @@
+
+
+java:S1192Í"cDefine a constant instead of duplicating this literal "Please try again after sometime !!" 3 times.(Şâ˜ÿÿÿÿÿ
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï«Œ€şÿÿÿÿ
+C
+java:S1604Q"(Make this anonymous inner class a lambda(·ìŠÉüÿÿÿÿ
+>
+java:S1604X"(Make this anonymous inner class a lambda(²æñÚ
+=
+java:S1604i"(Make this anonymous inner class a lambda(Ø¡™_
+?
+java:S1604³"(Make this anonymous inner class a lambda(Õä
+?
+java:S1604ÿ"(Make this anonymous inner class a lambda(Õä
+l	java:S116)"RRename this field "str_otp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ğúúøÿÿÿÿ
+m	java:S116/"SRename this field "iv_arrow" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„œÛûÿÿÿÿ
+r	java:S1161"XRename this field "beni_bankCode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô€÷­ûÿÿÿÿ
+s	java:S1164"YRename this field "beni_ifsc_code" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©¶Ùñûÿÿÿÿ
+i	java:S1165"URename this field "beni_accno" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²›½|
+i	java:S1166"TRename this field "beni_bank" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©—Ó§
+h	java:S1167"TRename this field "beni_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁƒÕ
+k	java:S116:"QRename this field "_token" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÛÓäøÿÿÿÿ
+p	java:S116<"VRename this field "tv_otptimer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èº«ıÿÿÿÿÿ
+n	java:S116<"TRename this field "tv_resend" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èº«ıÿÿÿÿÿ
+j
+java:S18459"TRename field "username" to prevent any misunderstanding/clash with field "userName".(Ã•¯º
+B
+java:S1659<"'Declare "tv_resend" on a separate line.(Èº«ıÿÿÿÿÿ
+p
+java:S14508"ZRemove the "accountType" field and declare it as a local variable in the relevant methods.(¶æİî
+n
+java:S14505"YRemove the "beni_accno" field and declare it as a local variable in the relevant methods.(²›½|
+n
+java:S14506"XRemove the "beni_bank" field and declare it as a local variable in the relevant methods.(©—Ó§
+w
+java:S14501"\Remove the "beni_bankCode" field and declare it as a local variable in the relevant methods.(ô€÷­ûÿÿÿÿ
+x
+java:S14504"]Remove the "beni_ifsc_code" field and declare it as a local variable in the relevant methods.(©¶Ùñûÿÿÿÿ
+m
+java:S14507"XRemove the "beni_name" field and declare it as a local variable in the relevant methods.(ÁƒÕ
+r
+java:S1450/"WRemove the "iv_arrow" field and declare it as a local variable in the relevant methods.(„œÛûÿÿÿÿ
+l
+java:S14503"VRemove the "pincode" field and declare it as a local variable in the relevant methods.(¢¿ïÜ
+L
+java:S1874'"6Remove this use of "ProgressDialog"; it is deprecated.(é¦‰î
+U
+java:S1161?":Add the "@Override" annotation above this method signature(¨Œşÿÿÿÿ
+Q
+java:S1874B"6Remove this use of "ProgressDialog"; it is deprecated.(ÑÛ µÿÿÿÿÿ
+5
+java:S2119‚"Save and re-use this "Random".(‘Ş°˜
+5
+java:S2119„"Save and re-use this "Random".(–áÍÈ
+/
+java:S2140†"Use "nextInt()" instead.(ææñÛ
+N
+java:S1874"2Remove this use of "setMessage"; it is deprecated.( Ğİ˜ûÿÿÿÿ
+N
+java:S1874Ô"2Remove this use of "setMessage"; it is deprecated.( Ğİ˜ûÿÿÿÿ

@@ -1,0 +1,9 @@
+
+u
+java:S1845¶"^Rename method "getUAuthCode" to prevent any misunderstanding/clash with method "getuAuthCode".(Œý¤¬
+z
+java:S1845º"^Rename method "setUAuthCode" to prevent any misunderstanding/clash with method "setuAuthCode".(¨¡Þñÿÿÿÿÿ
+s
+java:S4144¶"\Update this method so that its implementation is not identical to "getuAuthCode" on line 78.(Œý¤¬
+x
+java:S4144º"\Update this method so that its implementation is not identical to "setuAuthCode" on line 82.(¨¡Þñÿÿÿÿÿ

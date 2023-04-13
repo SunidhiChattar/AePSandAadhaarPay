@@ -1,0 +1,19 @@
+
+
+java:S1319"dThe type of "list" should be an interface such as "List" rather than the implementation "ArrayList".(åßáƒÿÿÿÿÿ
+y
+java:S14889"cImmediately return this expression instead of assigning it to the temporary variable "mViewHolder".(æËð˜
+R
+java:S1874"6Remove this use of "ProgressDialog"; it is deprecated.(ƒžŒ)8¹É¯É÷0
+X
+java:S1874"6Remove this use of "ProgressDialog"; it is deprecated.(åßáƒÿÿÿÿÿ8¹É¯É÷0
+m	java:S116$"SRename this field "date_txt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šœ¬™þÿÿÿÿ
+o	java:S116%"URename this field "amount_txt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ŠŒ­üÿÿÿÿ
+o	java:S116&"URename this field "remark_txt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(žìÌûÿÿÿÿ
+h	java:S116'"SRename this field "crdr_txt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ð ÉÒ
+>	java:S108K")Either remove or fill this block of code.(…°õº
+M
+java:S1874T"0Remove this use of "getColor"; it is deprecated.(úŽ—Í8ÉÉ¯É÷0
+R
+java:S1874V"0Remove this use of "getColor"; it is deprecated.(ÐŽ°÷øÿÿÿÿ8ÉÉ¯É÷0
+>	java:S108[")Either remove or fill this block of code.(å¥ž‡

@@ -1,0 +1,138 @@
+
+f	java:S117Õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğò½
+l	java:S117Ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İãÆ±şÿÿÿÿ
+J
+java:S1604y"(Make this anonymous inner class a lambda(Ùİúçûÿÿÿÿ8¥Ë¯É÷0
+E
+java:S1604"(Make this anonymous inner class a lambda(ŒáËˆ8¥Ë¯É÷0
+F
+java:S1604‡"(Make this anonymous inner class a lambda(ÜğÓ8¥Ë¯É÷0
+D
+java:S1604á"(Make this anonymous inner class a lambda(˜ã¯şÿÿÿÿ
+F
+java:S1604Ü"(Make this anonymous inner class a lambda(ó§­È8¥Ë¯É÷0
+D
+java:S1604Ç"(Make this anonymous inner class a lambda(…·àëûÿÿÿÿ
+D
+java:S1604Ù"(Make this anonymous inner class a lambda(˜ã¯şÿÿÿÿ
+D
+java:S1604æ"(Make this anonymous inner class a lambda(˜ã¯şÿÿÿÿ
+D
+java:S1604÷"(Make this anonymous inner class a lambda(…·àëûÿÿÿÿ
+D
+java:S1604–"(Make this anonymous inner class a lambda(…·àëûÿÿÿÿ
+D
+java:S1604²"(Make this anonymous inner class a lambda(…·àëûÿÿÿÿ
+m	java:S116+"XRename this field "aadhar_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›éø©
+i	java:S116+"TRename this field "date_time" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›éø©
+i	java:S116+"TRename this field "bank_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›éø©
+u	java:S116+"`Rename this field "card_transaction_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›éø©
+ƒ	java:S116,"iRename this field "transaction_details_header_txt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ’õúÿÿÿÿ
+s	java:S116,"YRename this field "aadhar_num_txt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ’õúÿÿÿÿ
+x	java:S116,"^Rename this field "account_balance_txt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ’õúÿÿÿÿ
+w	java:S116,"]Rename this field "transaction_id_txt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ’õúÿÿÿÿ
+r	java:S116,"XRename this field "bank_name_txt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ’õúÿÿÿÿ
+n	java:S116/"YRename this field "statement_list" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êˆî‡
+u	java:S1162"`Rename this field "statementList_adapter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á™óá
+q	java:S1165"\Rename this field "m_AemScrybeDevice" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡µƒ
+q	java:S1166"WRename this field "m_AemPrinter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß«¿Šøÿÿÿÿ
+q	java:S1169"WRename this field "m_cardReader" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¯¼øÿÿÿÿ
+g
+java:S1659*"LDeclare "okSuccessButton" and all following declarations on a separate line.(ÈĞÍ´ûÿÿÿÿ
+\
+java:S1659+"FDeclare "failtxnID" and all following declarations on a separate line.(›éø©
+f
+java:S1659,"KDeclare "aadhar_num_txt" and all following declarations on a separate line.(õ’õúÿÿÿÿ
+[
+java:S16597"EDeclare "tempdata" and all following declarations on a separate line.(ø
+<
+java:S1659;"&Declare "response" on a separate line.(£½‘–
+€
+java:S14501"eRemove the "transactionStatusModel" field and declare it as a local variable in the relevant methods.(¢Üğìùÿÿÿÿ
+{
+java:S1149î"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ì­ŠÜúÿÿÿÿ
+{
+java:S1149†"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ì­ŠÜúÿÿÿÿ
+{
+java:S1149¢"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ì­ŠÜúÿÿÿÿ
+S
+java:S1874."6Remove this use of "ProgressDialog"; it is deprecated.(Ó¾õ8®Î¯É÷0
+m
+java:S3776E"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(¨Œşÿÿÿÿ
+X
+java:S1874N"6Remove this use of "ProgressDialog"; it is deprecated.(ßåıÿÿÿÿ8¸Î¯É÷0
+[
+java:S1874^"9Remove this use of "getDefaultAdapter"; it is deprecated.(øêıøÿÿÿÿ8½Î¯É÷0
+O
+java:S1874r"2Remove this use of "setMessage"; it is deprecated.(Í™ßÒ8½Î¯É÷0
+R	java:S125‘"<This block of commented-out lines of code should be removed.(˜¨·
+U
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(üõ®½
+\
+java:S1874©">Remove this use of "startActivityForResult"; it is deprecated.(Ù´š½8ÍÎ¯É÷0
+Q
+java:S1854‚":Remove this useless assignment to local variable "result".(‰¿ÈÌ
+V
+java:S1854ƒ":Remove this useless assignment to local variable "result".(à¶éÜÿÿÿÿÿ
+V
+java:S1854„":Remove this useless assignment to local variable "result".(÷Õ¢úÿÿÿÿ
+Q
+java:S1854…":Remove this useless assignment to local variable "result".(šßİ¢
+V
+java:S1854†":Remove this useless assignment to local variable "result".(õŞß»úÿÿÿÿ
+Q
+java:S1854‡":Remove this useless assignment to local variable "result".(£åÛŠ
+Q
+java:S1854":Remove this useless assignment to local variable "result".(’ÀÈª
+Q
+java:S1854":Remove this useless assignment to local variable "result".(™òõ
+Q
+java:S1854“":Remove this useless assignment to local variable "result".(Ğ¢õ
+Q
+java:S1854”":Remove this useless assignment to local variable "result".(àÊÙ
+Q
+java:S1854•":Remove this useless assignment to local variable "result".(Úë–ı
+?	java:S108ˆ")Either remove or fill this block of code.(ó‡¬›
+T
+java:S1858½"="get" returns a string, there's no need to call "toString()".(‡ÖÒ•
+2
+java:S3626à"Remove this redundant jump.(ûÁİ…
+N
+java:S1135ß"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+o
+java:S3776æ"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ëä´]8”ëÌÏö0
+A
+java:S1172æ"+Remove this unused method parameter "view".(Ëä´]
+?	java:S108ı")Either remove or fill this block of code.(‚ÌÚ
+R	java:S125›"<This block of commented-out lines of code should be removed.(†€éˆ
+R	java:S125µ"<This block of commented-out lines of code should be removed.(Ÿ¢şÃ
+R	java:S125É"<This block of commented-out lines of code should be removed.(º°Ë¢
+T
+java:S1854Ø"8Remove this useless assignment to local variable "data".(¥ìÄ©ùÿÿÿÿ
+E
+java:S1481Ø")Remove this unused "data" local variable.(¥ìÄ©ùÿÿÿÿ
+W	java:S125Û"<This block of commented-out lines of code should be removed.(£Ëè³ÿÿÿÿÿ
+T
+java:S1854å"8Remove this useless assignment to local variable "data".(­¤Àùÿÿÿÿ
+E
+java:S1481å")Remove this unused "data" local variable.(­¤Àùÿÿÿÿ
+W	java:S125è"<This block of commented-out lines of code should be removed.(£Ëè³ÿÿÿÿÿ
+I
+java:S1135ô"2Complete the task associated to this TODO comment.(‡ñÅ¼
+R	java:S125ù"<This block of commented-out lines of code should be removed.(¿Óƒ°
+r
+java:S3923…"[Remove this conditional structure or edit its code blocks so that they're not all the same.(è³êû
+I
+java:S1135Œ"2Complete the task associated to this TODO comment.(‡ñÅ¼
+R	java:S125"<This block of commented-out lines of code should be removed.(À½÷Å
+R	java:S125’"<This block of commented-out lines of code should be removed.(éË·É
+R	java:S125œ"<This block of commented-out lines of code should be removed.(Á†ÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Õ«á¼üÿÿÿÿ
+I
+java:S1135¨"2Complete the task associated to this TODO comment.(‡ñÅ¼
+R	java:S125¬"<This block of commented-out lines of code should be removed.(À½÷Å
+R	java:S125®"<This block of commented-out lines of code should be removed.(éË·É
+R	java:S125¸"<This block of commented-out lines of code should be removed.(Á†ÿ
+W	java:S125º"<This block of commented-out lines of code should be removed.(Õ«á¼üÿÿÿÿ
+I
+java:S3398¿"2Move this method into "UnifiedPrintReceiptThread".(ŠæÙ

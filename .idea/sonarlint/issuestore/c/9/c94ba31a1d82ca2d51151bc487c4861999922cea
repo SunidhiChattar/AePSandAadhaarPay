@@ -1,0 +1,17 @@
+
+u
+java:S1104"_Make REQUIRED_PERMISSION a static final constant or non-public and provide accessors if needed.(†ø’î
+p
+java:S1104"ZMake GPS_PERMISSION a static final constant or non-public and provide accessors if needed.(ëÇ®°
+O
+java:S1444"9Make this "public static REQUIRED_PERMISSION" field final(†ø’î
+J
+java:S1444"4Make this "public static GPS_PERMISSION" field final(ëÇ®°
+t
+java:S3008"^Rename this field "REQUIRED_PERMISSION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ø’î
+o
+java:S3008"YRename this field "GPS_PERMISSION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÇ®°
+3
+java:S2386"Make this member "protected".(†ø’î
+3
+java:S2386"Make this member "protected".(ëÇ®°

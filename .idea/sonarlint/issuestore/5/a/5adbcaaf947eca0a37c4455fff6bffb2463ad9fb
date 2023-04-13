@@ -1,0 +1,81 @@
+
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(íãÓ
+o
+java:S2293)"YReplace the type specification in this constructor call with the diamond operator ("<>").(íãÓ
+o
+java:S22938"YReplace the type specification in this constructor call with the diamond operator ("<>").(íãÓ
+o
+java:S2293F"YReplace the type specification in this constructor call with the diamond operator ("<>").(íãÓ
+o
+java:S2293T"YReplace the type specification in this constructor call with the diamond operator ("<>").(íãÓ
+o
+java:S2293c"YReplace the type specification in this constructor call with the diamond operator ("<>").(íãÓ
+o
+java:S2293v"YReplace the type specification in this constructor call with the diamond operator ("<>").(íãÓ
+p
+java:S2293”"YReplace the type specification in this constructor call with the diamond operator ("<>").(íãÓ
+]
+java:S1192"GDefine a constant instead of duplicating this literal "Title1" 8 times.(­Â«ê
+C
+java:S1604"(Make this anonymous inner class a lambda(¢ÄÊåùÿÿÿÿ
+C
+java:S1604#"(Make this anonymous inner class a lambda(¢ÄÊåùÿÿÿÿ
+C
+java:S16042"(Make this anonymous inner class a lambda(¢ÄÊåùÿÿÿÿ
+C
+java:S1604@"(Make this anonymous inner class a lambda(¢ÄÊåùÿÿÿÿ
+C
+java:S1604N"(Make this anonymous inner class a lambda(¢ÄÊåùÿÿÿÿ
+C
+java:S1604]"(Make this anonymous inner class a lambda(¢ÄÊåùÿÿÿÿ
+C
+java:S1604p"(Make this anonymous inner class a lambda(¢ÄÊåùÿÿÿÿ
+D
+java:S1604"(Make this anonymous inner class a lambda(¢ÄÊåùÿÿÿÿ
+D
+java:S1604ª"(Make this anonymous inner class a lambda(¢ÄÊåùÿÿÿÿ
+b
+java:S1301–"KReplace this "switch" statement by "if" statements to increase readability.(ÍÖèü
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(şÕŠ¤úÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ÎØ—•
+L
+java:S1874"1Remove this use of "AsyncTask"; it is deprecated.(¢ÄÊåùÿÿÿÿ
+J
+java:S1874"/Remove this use of "execute"; it is deprecated.(¢ÄÊåùÿÿÿÿ
+L
+java:S1874#"1Remove this use of "AsyncTask"; it is deprecated.(¢ÄÊåùÿÿÿÿ
+J
+java:S1874#"/Remove this use of "execute"; it is deprecated.(¢ÄÊåùÿÿÿÿ
+L
+java:S18742"1Remove this use of "AsyncTask"; it is deprecated.(¢ÄÊåùÿÿÿÿ
+J
+java:S18742"/Remove this use of "execute"; it is deprecated.(¢ÄÊåùÿÿÿÿ
+L
+java:S1874@"1Remove this use of "AsyncTask"; it is deprecated.(¢ÄÊåùÿÿÿÿ
+J
+java:S1874@"/Remove this use of "execute"; it is deprecated.(¢ÄÊåùÿÿÿÿ
+L
+java:S1874N"1Remove this use of "AsyncTask"; it is deprecated.(¢ÄÊåùÿÿÿÿ
+J
+java:S1874N"/Remove this use of "execute"; it is deprecated.(¢ÄÊåùÿÿÿÿ
+L
+java:S1874]"1Remove this use of "AsyncTask"; it is deprecated.(¢ÄÊåùÿÿÿÿ
+J
+java:S1874]"/Remove this use of "execute"; it is deprecated.(¢ÄÊåùÿÿÿÿ
+L
+java:S1874p"1Remove this use of "AsyncTask"; it is deprecated.(¢ÄÊåùÿÿÿÿ
+J
+java:S1874p"/Remove this use of "execute"; it is deprecated.(¢ÄÊåùÿÿÿÿ
+7	java:S131x""Add a default case to this switch.(ÍÖèü
+M
+java:S1874"1Remove this use of "AsyncTask"; it is deprecated.(¢ÄÊåùÿÿÿÿ
+K
+java:S1874"/Remove this use of "execute"; it is deprecated.(¢ÄÊåùÿÿÿÿ
+8	java:S131–""Add a default case to this switch.(ÍÖèü
+W	java:S125›"<This block of commented-out lines of code should be removed.(Ï¢ŸÃúÿÿÿÿ
+M
+java:S1874ª"1Remove this use of "AsyncTask"; it is deprecated.(¢ÄÊåùÿÿÿÿ
+K
+java:S1874ª"/Remove this use of "execute"; it is deprecated.(¢ÄÊåùÿÿÿÿ

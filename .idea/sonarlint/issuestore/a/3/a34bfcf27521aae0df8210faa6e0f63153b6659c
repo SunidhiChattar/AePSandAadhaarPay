@@ -1,0 +1,18 @@
+
+x
+java:S1104"]Make transactionStatus a static final constant or non-public and provide accessors if needed.(×öÌıÿÿÿÿ
+m
+java:S1104"RMake status a static final constant or non-public and provide accessors if needed.(¥ß®üÿÿÿÿ
+k
+java:S1104"PMake txId a static final constant or non-public and provide accessors if needed.(’Ïßğÿÿÿÿÿ
+h
+java:S1104	"RMake errors a static final constant or non-public and provide accessors if needed.(ÀãĞ
+s
+java:S1104
+"]Make transactionAmount a static final constant or non-public and provide accessors if needed.(³œ›Ê
+j
+java:S1104"TMake bankName a static final constant or non-public and provide accessors if needed.(äÄÿ½
+m
+java:S1104"XMake mobileNumber a static final constant or non-public and provide accessors if needed.(ğó‰o
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÃÍ¸£ùÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(“Â¹³

@@ -1,0 +1,41 @@
+
+Q
+java:S1141Þ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+>
+java:S1604u"(Make this anonymous inner class a lambda(øÛ¬
+>
+java:S1604"(Make this anonymous inner class a lambda(À»“û
+`
+java:S2259ã"DA "NullPointerException" could be thrown; "digest" is nullable here.(·•Õ¨þÿÿÿÿ
+f	java:S116A"RRename this field "rb_mini" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Ò¼o
+k	java:S116A"WRename this field "rb_adhaarpay" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Ò¼o
+o	java:S116C"ZRename this field "btn_proceedaeps" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ¼ã¢
+Y
+java:S1659A"DDeclare "rb_mini" and all following declarations on a separate line.(˜Ò¼o
+[
+java:S1124>"EReorder the modifiers to comply with the Java Language Specification.(Š·Àž
+V	java:S125N"<This block of commented-out lines of code should be removed.(Ÿ˜Çáúÿÿÿÿ
+V	java:S125Q"<This block of commented-out lines of code should be removed.(öüèûüÿÿÿÿ
+S	java:S106T"9Replace this use of System.out or System.err by a logger.(öûåäùÿÿÿÿ
+V	java:S125a"<This block of commented-out lines of code should be removed.(Ð‹áýÿÿÿÿ
+Q	java:S125x"<This block of commented-out lines of code should be removed.(¶è´í
+Q	java:S125z"<This block of commented-out lines of code should be removed.(¡Õ±š
+i
+java:S1871"MThis branch's code block is the same as the block for the branch on line 130.(ÚøûÏúÿÿÿÿ
+i
+java:S1871”"MThis branch's code block is the same as the block for the branch on line 137.(§‡»ûÿÿÿÿ
+`
+java:S1874Ÿ"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(¹Î¾
+5
+java:S2178¡"Correct this "&" to "&&".(Ú¥¤õüÿÿÿÿ
+T	java:S106§"9Replace this use of System.out or System.err by a logger.(ØˆÕüÿÿÿÿ
+W	java:S125¨"<This block of commented-out lines of code should be removed.(¾ÆÒ¨üÿÿÿÿ
+T	java:S106¯"9Replace this use of System.out or System.err by a logger.(ØˆÕüÿÿÿÿ
+W	java:S125°"<This block of commented-out lines of code should be removed.(¾ÆÒ¨üÿÿÿÿ
+W	java:S125Ä"<This block of commented-out lines of code should be removed.(œÕèøÿÿÿÿ
+W	java:S125Æ"<This block of commented-out lines of code should be removed.(­•É´üÿÿÿÿ
+M
+java:S1854Ö"7Remove this useless assignment to local variable "str".(ØŒ‚O
+>
+java:S1481Ö"(Remove this unused "str" local variable.(ØŒ‚O
+R	java:S125×"<This block of commented-out lines of code should be removed.(ŽŽÌ„

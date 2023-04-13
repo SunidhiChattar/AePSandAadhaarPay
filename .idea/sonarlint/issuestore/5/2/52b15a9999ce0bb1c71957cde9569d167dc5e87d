@@ -1,0 +1,10 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Òôã¯ùÿÿÿÿ
+c
+java:S1874"HRemove this use of "OnNavigationItemSelectedListener"; it is deprecated.(Ï—³ûÿÿÿÿ
+U
+java:S1854":Remove this useless assignment to local variable "itemId".(œÂÅÔıÿÿÿÿ
+F
+java:S1481"+Remove this unused "itemId" local variable.(œÂÅÔıÿÿÿÿ
+H
+java:S1068"-Remove this unused "viewPager" private field.(åÙ¬Ïûÿÿÿÿ

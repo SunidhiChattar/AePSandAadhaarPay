@@ -1,0 +1,14 @@
+
+C
+java:S16043"(Make this anonymous inner class a lambda(äë¬±üÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Òôã¯ùÿÿÿÿ
+e	java:S116"PRename this field "TOKEN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š¡
+`
+java:S1659"EDeclare "download" and all following declarations on a separate line.(…°Ï‘ÿÿÿÿÿ
+W
+java:S18543"<Remove this useless assignment to local variable "runnable".(äë¬±üÿÿÿÿ
+V	java:S1250"<This block of commented-out lines of code should be removed.(ş‰Ú•ÿÿÿÿÿ
+H
+java:S14813"-Remove this unused "runnable" local variable.(äë¬±üÿÿÿÿ
+Q	java:S125n"<This block of commented-out lines of code should be removed.(‹µ»¿
+S	java:S106t"9Replace this use of System.out or System.err by a logger.(èÇ¨îıÿÿÿÿ

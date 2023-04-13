@@ -1,0 +1,76 @@
+
+u
+java:S2293‚"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÃÏÉÁüÿÿÿÿ
+u
+java:S2293Ä"YReplace the type specification in this constructor call with the diamond operator ("<>").(éÎ¸şüÿÿÿÿ
+D
+java:S1604ş"(Make this anonymous inner class a lambda(˜ã¯şÿÿÿÿ
+?
+java:S1604è"(Make this anonymous inner class a lambda(å•¢Ø
+D
+java:S1604"(Make this anonymous inner class a lambda(æ«Êûÿÿÿÿ
+g
+java:S1301›"KReplace this "switch" statement by "if" statements to increase readability.(Õ©à½ûÿÿÿÿ
+g
+java:S1301š"KReplace this "switch" statement by "if" statements to increase readability.(×ö³–úÿÿÿÿ
+g
+java:S1301¶"KReplace this "switch" statement by "if" statements to increase readability.(øå´¡ÿÿÿÿÿ
+i
+java:S3008!"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â£“úıÿÿÿÿ
+J
+java:S1874"4Remove this use of "ListActivity"; it is deprecated.(ä²‚ì
+[
+java:S1124$"EReorder the modifiers to comply with the Java Language Specification.(â«é¯
+`
+java:S1124%"EReorder the modifiers to comply with the Java Language Specification.(õŒòûÿÿÿÿ
+[
+java:S1124&"EReorder the modifiers to comply with the Java Language Specification.(×ÿ°™
+[
+java:S1124'"EReorder the modifiers to comply with the Java Language Specification.(ÄÉç¶
+[
+java:S1124)"EReorder the modifiers to comply with the Java Language Specification.(Ü¬úå
+Z
+java:S1124/"EReorder the modifiers to comply with the Java Language Specification.(«Ú›,
+V	java:S125-"<This block of commented-out lines of code should be removed.(Â®¶Ëùÿÿÿÿ
+Q
+java:S2696["6Make the enclosing method "static" or remove this set.(ë…âûÿÿÿÿ
+Q
+java:S2696d"6Make the enclosing method "static" or remove this set.(İîÙçøÿÿÿÿ
+Q
+java:S2696k"6Make the enclosing method "static" or remove this set.(¹©£µúÿÿÿÿ
+V	java:S125n"<This block of commented-out lines of code should be removed.(‚ê‘øÿÿÿÿ
+L
+java:S2696w"6Make the enclosing method "static" or remove this set.(Úì£
+O
+java:S1874w"9Remove this use of "getDefaultAdapter"; it is deprecated.(Úì£
+R
+java:S2696‚"6Make the enclosing method "static" or remove this set.(ÃÏÉÁüÿÿÿÿ
+R
+java:S1874„"6Remove this use of "setListAdapter"; it is deprecated.(ãô›ıÿÿÿÿ
+h
+java:S3776˜"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(éçïq
+=	java:S131›""Add a default case to this switch.(Õ©à½ûÿÿÿÿ
+Z
+java:S1155¢">Use isEmpty() to check whether the collection is empty or not.(“Ÿ‚±ûÿÿÿÿ
+>
+java:S1125¥"'Remove the unnecessary boolean literal.(Á‡ñ§
+R
+java:S2696Ä"6Make the enclosing method "static" or remove this set.(éÎ¸şüÿÿÿÿ
+f
+java:S1874Ö"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ì‚–Óúÿÿÿÿ
+M
+java:S1874Ø"7Remove this use of "onListItemClick"; it is deprecated.(µ˜ÊU
+Q
+java:S1854í";Remove this useless assignment to local variable "gotuuid".(˜¢‹n
+B
+java:S1481í",Remove this unused "gotuuid" local variable.(˜¢‹n
+M
+java:S2696ñ"6Make the enclosing method "static" or remove this set.(ÿ˜—‡
+R
+java:S2696ü"6Make the enclosing method "static" or remove this set.(ë…âûÿÿÿÿ
+F
+java:S1197™"*Move the array designators [] to the type.(ÿÃ²şÿÿÿÿ
+=	java:S131š""Add a default case to this switch.(×ö³–úÿÿÿÿ
+=	java:S131¶""Add a default case to this switch.(øå´¡ÿÿÿÿÿ
+B
+java:S1068+",Remove this unused "SPP_UUID" private field.(©öÓ¤

@@ -1,0 +1,69 @@
+
+u
+java:S2293”"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾ª˜«ÿÿÿÿÿ
+e
+java:S1192d"ODefine a constant instead of duplicating this literal "Mini Statement" 3 times.(ÁÎâÉ
+^
+java:S1192["HDefine a constant instead of duplicating this literal "Success" 7 times.(•»£Ù
+k
+java:S1192_"UDefine a constant instead of duplicating this literal "Ministatement Status" 3 times.(¯ªì°
+y
+java:S1192‘"]Define a constant instead of duplicating this literal "No Transaction Details Found" 4 times.(——™øÿÿÿÿ
+€
+java:S1319°"jThe type of "tempRemark" should be an interface such as "List" rather than the implementation "ArrayList".(æ¢¯x
+g	java:S117Ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ’­±
+l	java:S117Ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ìŠØÿÿÿÿÿ
+D
+java:S1604”"(Make this anonymous inner class a lambda(Ùİúçûÿÿÿÿ
+?
+java:S1604"(Make this anonymous inner class a lambda(ŒáËˆ
+t
+java:S11041"YMake DATE_PATTERN1 a static final constant or non-public and provide accessors if needed.(Ö†©Èÿÿÿÿÿ
+t
+java:S11043"YMake DATE_PATTERN2 a static final constant or non-public and provide accessors if needed.(¶‚ØÉÿÿÿÿÿ
+m	java:S116("XRename this field "aadhar_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›éø©
+i	java:S116("TRename this field "date_time" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›éø©
+i	java:S116("TRename this field "bank_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›éø©
+u	java:S116("`Rename this field "card_transaction_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›éø©
+ƒ	java:S116)"iRename this field "transaction_details_header_txt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ’õúÿÿÿÿ
+s	java:S116)"YRename this field "aadhar_num_txt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ’õúÿÿÿÿ
+x	java:S116)"^Rename this field "account_balance_txt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ’õúÿÿÿÿ
+w	java:S116)"]Rename this field "transaction_id_txt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ’õúÿÿÿÿ
+r	java:S116)"XRename this field "bank_name_txt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ’õúÿÿÿÿ
+n	java:S116."YRename this field "statement_list" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êˆî‡
+u	java:S1160"`Rename this field "statementList_adapter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»–¼²
+r	java:S1161"XRename this field "DATE_PATTERN1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö†©Èÿÿÿÿÿ
+r	java:S1163"XRename this field "DATE_PATTERN2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶‚ØÉÿÿÿÿÿ
+C
+java:S1659'"-Declare "okSuccessButton" on a separate line.(ÅÏÁ
+\
+java:S1659("FDeclare "failtxnID" and all following declarations on a separate line.(›éø©
+f
+java:S1659)"KDeclare "aadhar_num_txt" and all following declarations on a separate line.(õ’õúÿÿÿÿ
+L
+java:S1874-"6Remove this use of "ProgressDialog"; it is deprecated.(Ó¾õ
+m
+java:S37767"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¨Œşÿÿÿÿ
+L
+java:S1874@"6Remove this use of "ProgressDialog"; it is deprecated.( ²Úï
+P	java:S125^"<This block of commented-out lines of code should be removed.(öÜŒ$
+P	java:S125j"<This block of commented-out lines of code should be removed.(öÜŒ$
+V	java:S125l"<This block of commented-out lines of code should be removed.(¼ª¸‡ıÿÿÿÿ
+Q	java:S125€"<This block of commented-out lines of code should be removed.(öÜŒ$
+R	java:S125—"<This block of commented-out lines of code should be removed.(Ş´»
+Q	java:S125²"<This block of commented-out lines of code should be removed.(ƒ¨›L
+Q
+java:S1117Ò":Rename "amount" which hides the field declared at line 43.(¥…û
+n
+java:S3776ú"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(æµ§ûÿÿÿÿ
+Q
+java:S1854ş"5Remove this useless assignment to local variable "a".(²¨Å„ıÿÿÿÿ
+B
+java:S1481ş"&Remove this unused "a" local variable.(²¨Å„ıÿÿÿÿ
+_
+java:S5361‹"HReplace this call to "replaceAll()" by a call to the "replace()" method.(÷Óµ–
+d
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(„şÏÌùÿÿÿÿ
+T	java:S106©"9Replace this use of System.out or System.err by a logger.(©ÅŞ»ÿÿÿÿÿ
+T
+java:S1858³"="get" returns a string, there's no need to call "toString()".(‡ÖÒ•

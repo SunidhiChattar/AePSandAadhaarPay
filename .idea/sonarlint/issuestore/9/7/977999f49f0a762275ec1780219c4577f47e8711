@@ -1,0 +1,19 @@
+
+W	java:S107A"BConstructor has 14 parameters, which is greater than 7 authorized.(‡º¾ë
+\	java:S107R"BConstructor has 13 parameters, which is greater than 7 authorized.(‰áù¶üÿÿÿÿ
+C
+java:S3010N"(Remove this assignment of "apiUserName".(Ý§¬Žüÿÿÿÿ
+G
+java:S3010O",Remove this assignment of "gatewayPriority".(ü§€Òþÿÿÿÿ
+P
+java:S2209N"5Change this instance-reference to a static reference.(Ý§¬Žüÿÿÿÿ
+P
+java:S2209O"5Change this instance-reference to a static reference.(ü§€Òþÿÿÿÿ
+C
+java:S3010_"(Remove this assignment of "apiUserName".(Ý§¬Žüÿÿÿÿ
+P
+java:S2209_"5Change this instance-reference to a static reference.(Ý§¬Žüÿÿÿÿ
+R
+java:S2696Í"6Make the enclosing method "static" or remove this set.(Ý§¬Žüÿÿÿÿ
+Q
+java:S2209Í"5Change this instance-reference to a static reference.(Ý§¬Žüÿÿÿÿ

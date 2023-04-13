@@ -1,0 +1,970 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="_device_class_phone" />
+        <device id="pixel_5" />
+      </config>
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b5f1cb1e-f220-465e-b28f-8d4c946afde1" name="Changes" comment="commit initial project">
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/8/8825cc440098fdf8ad80b8a530e086f820a2efc5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/4/d44f2f0a1008ee490f79c3ac9ee149c837070782" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/6/d6636d1cacb272d8dfe908840974331e9af051ee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/8/d8c480bddfb32e1b831895660f18f0d66de51a9f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e02516bf1a8914a80cdffddde84f4025947bb146" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e0286444501af928e3f42c7ddc4858b081e47316" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/a/fa417993b085df0f27e7dd64f0f6874449c65391" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/8/8825cc440098fdf8ad80b8a530e086f820a2efc5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/4/d44f2f0a1008ee490f79c3ac9ee149c837070782" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/6/d6636d1cacb272d8dfe908840974331e9af051ee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/8/d8c480bddfb32e1b831895660f18f0d66de51a9f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/0/e02516bf1a8914a80cdffddde84f4025947bb146" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/0/e0286444501af928e3f42c7ddc4858b081e47316" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/a/fa417993b085df0f27e7dd64f0f6874449c65391" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/MATMSDK.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/consumer-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/libs/EasyLinkSdk_V2.00.00_20190111.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/libs/EcrProtocol_V1.01.00_20190115.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/libs/GLComm_ V1.03.02_20181030.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/libs/GLImgProcessing_V1.01.00_20181030.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/libs/GLUtils_V1.00.00_20180309.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/libs/NeptuneLiteApi_V3.25.00_20210706.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/libs/SDK4BaseBinderV2.2.22.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/libs/arm64-v8a/libserialport.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/libs/armeabi-v7a/libserialport.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/libs/armeabi/libserialport.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/libs/mips/libserialport.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/libs/x86/libserialport.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/androidTest/java/com/matm/matmsdk/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/assets/EasyLinkParam/full/contact/default/emv_param.emv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/assets/EasyLinkParam/full/contactless/default/clss_param.clss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/assets/EasyLinkParam/lite/contact/ae/AXP_EMV_027.emv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/assets/EasyLinkParam/lite/contact/default/emv_param.emv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/assets/EasyLinkParam/lite/contact/master/M TIP03 Test 05 Scenario 04b.emv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/assets/EasyLinkParam/lite/contact/master/M TIP50 Test 03 Scenario 01.emv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/assets/EasyLinkParam/lite/contactless/default/clss_param.clss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/assets/EasyLinkParam/lite/ui/ui_d180.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/assets/EasyLinkParam/server/contact/ae/AXP_EMV_001.emv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/assets/EasyLinkParam/server/contact/default/emv_param.emv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/assets/EasyLinkParam/server/contact/visa/test_case_01a.emv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/assets/EasyLinkParam/server/contactless/ae/AXP_EP001.clss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/assets/EasyLinkParam/server/contactless/default/clss_param.clss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/assets/EasyLinkParam/server/contactless/paypass/MP17.Test.01.Scenario.01b.clss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/assets/EasyLinkParam/server/contactless/paypass/MP17.Test.01.Scenario.01c.clss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/assets/EasyLinkParam/server/contactless/paypass/MP17.Test.01.Scenario.01d.clss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/assets/EasyLinkParam/server/contactless/paypass/MP17.Test.01.Scenario.01e.clss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/assets/EasyLinkParam/server/contactless/paypass/PPC.MCD.02.Test.01.Scenario.02.clss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/assets/EasyLinkParam/server/contactless/paypass/PPC.MCD.02.Test.01.Scenario.02c.clss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/assets/EasyLinkParam/server/contactless/paypass/PPC.MCD.02.Test.01.Scenario.02e.clss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/assets/EasyLinkParam/server/contactless/paypass/PPC.MCD.06.Test.01.Scenario.01.clss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/assets/EasyLinkParam/server/contactless/paypass/PPC.MCD.4A.Test.01.Scenario.01.clss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/assets/EasyLinkParam/server/contactless/paypass/PPC.MCD.4A.Test.02.Scenario.01.clss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/assets/fonts/brandon_bold.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/assets/fonts/brandon_bold_2.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/assets/fonts/brandon_light.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/assets/fonts/brandon_medium.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/assets/iinlist.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/assets/paxfile/emv_param.emv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/assets/paxfile/ui_d180.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/assets/staging_signature_privateKey.p12" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Bluetooth/BluetoothActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Bluetooth/BluetoothConnectorActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Bluetooth/BluetoothController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Bluetooth/BluetoothDiscoveryDeviceListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Bluetooth/BluetoothPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Bluetooth/BroadcastReceiverDelegator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Bluetooth/DeviceRecyclerViewAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Bluetooth/ListInteractionListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Bluetooth/RecyclerViewProgressEmptySupport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Bluetooth/SharePreferenceClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/ChooseCard/ChooseCardActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/CustomThemes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Dashboard/DashBoardActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Dashboard/FileDownLoadActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Dashboard/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Error/Error2Activity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Error/ErrorActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Error/ErrorMatm1Activity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/FileUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/GpsTracker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Interface/Bluetooth/IObservable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Interface/Dashboard/DashboardApiInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Interface/Login/LoginApiInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Interface/MPOS/PosApiInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/MPOS/BluetoothServiceActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/MPOS/BluetoothServiceActivity_structure.puml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/MPOS/LibActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/MPOS/MorefunServiceActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/MPOS/NewlandServiceActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/MPOS/POSTransactionDetailsActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/MPOS/PaxA910ServiceActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/MPOS/PosActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/MPOS/PosServiceActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/MPOS/PosServiceActivity_structure.puml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/MPOS/WiseasyServiceActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Model/Dashboard/Dashboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Model/Dashboard/UserFeature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Model/Dashboard/UserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Model/Dashboard/UserProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Model/LoginResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Model/MPOS/BankSearchUserResponseModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Model/MPOS/CompleteTranRequestModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Model/MPOS/CompleteTranResponseModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Model/MPOS/GetTransDetailsRequestModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Model/MPOS/GethAuthRequestModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Model/MPOS/GethAuthResponseModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Model/MPOS/PosTransRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Model/MPOS/PosTransResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Model/MPOS/TestUrlApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Model/SettingList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Model/otpmodel/GetOtpServiceRequestModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Model/otpmodel/GetOtpServiceResponseModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Model/otpmodel/MessagedataEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/OnboardServiceActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/PosOtpActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/SNTPClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Service/ApiAuthFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Service/ApiFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Service/BankResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Service/DataSetting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Service/JsonAssets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Service/LoginSession.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Service/PaxConditional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Service/PosServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Service/RecyclerTouchListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Service/ShowMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Service/Snackbar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Service/TempApiAuthFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Utils/ConfigManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Utils/DataWatcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Utils/Dialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Utils/EnvData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Utils/Event.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Utils/GetUserAuthToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Utils/JWTUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Utils/PAXScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Utils/PreferenceUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Utils/PrintUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Utils/PrinterCommands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Utils/RequestInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Utils/ResponseConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Utils/ResultEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Utils/SdkConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Utils/Session.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Utils/Tools.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Utils/TransactionResponseHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/Utils/getToneGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/AEPS2HomeActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/AEPSHomeActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/BioAuthActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/CoreAEPSHomeActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/LocationActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/aeps3/AEPS3_TransactionReceipt_ministatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/aeps3/AEPS3_Transaction_Status_Activity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/aeps3/AEPS3sdkActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/aeps3/MinistatemenTxnList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/aeps3/MinistatementListAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/alertShow/SingletonClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/balanceenquiry/BalanceEnquiry3Contract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/balanceenquiry/BalanceEnquiryAEPS2Presenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/balanceenquiry/BalanceEnquiryAEPS2RequestModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/balanceenquiry/BalanceEnquiryAEPS3Presenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/balanceenquiry/BalanceEnquiryAEPS3RequestModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/balanceenquiry/BalanceEnquiryAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/balanceenquiry/BalanceEnquiryContract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/balanceenquiry/BalanceEnquiryPresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/balanceenquiry/BalanceEnquiryRequestModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/balanceenquiry/BalanceEnquiryResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/balanceenquiry/BalanceInqAeps2Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/balanceenquiry/CoreBalanceEnquiryAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/balanceenquiry/CoreBalanceEnquiryContract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/balanceenquiry/CoreBalanceEnquiryPresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/bankspinner/BankNameContract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/bankspinner/BankNameListActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/bankspinner/BankNameListAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/bankspinner/BankNameListPresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/bankspinner/BankNameModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/cashwithdrawal/AepsResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/cashwithdrawal/CashWithDrawalContract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/cashwithdrawal/CashWithdrawalAEPS2Presenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/cashwithdrawal/CashWithdrawalAEPS2RequestModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/cashwithdrawal/CashWithdrawalAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/cashwithdrawal/CashWithdrawalPresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/cashwithdrawal/CashWithdrawalRequestModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/cashwithdrawal/CashWithdrawalResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/cashwithdrawal/CoreCashWithDrawalContract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/cashwithdrawal/CoreCashWithdrawalAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/cashwithdrawal/CoreCashWithdrawalPresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/maskedittext/MaskedEditText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/maskedittext/Range.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/maskedittext/RawText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/ministatement/StatementList_Adapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/ministatement/StatementResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/ministatement/StatementTransactionActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/ministatement/TransactionList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/network/api/ApiInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/network/api/NetworkConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/network/api/RetrofitInstance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/network/model/AadharVerificationResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/network/model/BankListsSetGet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/network/model/Base64Response.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/network/model/BioAuthRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/network/model/BioAuthResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/network/model/CashwithdrawalResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/network/model/Response.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/network/model/addressupdate/AadhaaarUpdateRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/network/model/addressupdate/AddressUpdateResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/network/model/balanceEnquiry/BalanceEnquiryResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/network/model/pincode/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/network/model/pincode/Data__1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/network/model/pincode/PinCodeRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/network/model/pincode/PinCodeResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/signer/DigitalSigner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/signer/XMLSigner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/transactionstatus/DrawPDFAeps2Activity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/transactionstatus/DrawPdfAadhaarPayActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/transactionstatus/DrawPdfAeps1Activity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/transactionstatus/DrawPdfMatm2Activity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/transactionstatus/TransactionStatusAeps2Activity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/transactionstatus/TransactionStatusModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/transactionstatus/TransactionStatusNewActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/unifiedaeps/TransactionType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/unifiedaeps/UnifiedAepsActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/unifiedaeps/UnifiedAepsContract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/unifiedaeps/UnifiedAepsMiniStatementActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/unifiedaeps/UnifiedAepsPresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/unifiedaeps/UnifiedAepsRequestModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/unifiedaeps/UnifiedAepsTransactionActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/unifiedaeps/UnifiedBioAuthActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/unifiedaeps/UnifiedStatementListAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/unifiedaeps/UnifiedTxnStatusModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/utils/AEPSAPIService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/utils/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/utils/GetPosConnectedPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/utils/Session.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/utils/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/utils/Verhoff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/utils/aadharpay/AadhaarpayReceiptActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/utils/aadharpay/AadharpayActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/utils/aadharpay/Model/AadharpayRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/utils/aadharpay/Model/AadharpayResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/utils/aadharpay/Model/FCMNotificationData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/utils/aadharpay/Model/GetAuthenticationRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/utils/aadharpay/Model/VPNStatusResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/bluetoothprinter/BluetoothDeviceList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/callbacks/OnBioAuthDriverDataListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/callbacks/OnDriverDataListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/callbacks/OnFinishListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/matm1/Matm1TransactionStatusActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/matm1/MatmActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/matm1/MatmConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/matm1/MicroAtmAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/matm1/MicroAtmContract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/matm1/MicroAtmPresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/matm1/MicroAtmRequestModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/matm1/MicroAtmResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/matm1/MicroAtmTransactionModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/notification/NotificationHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/notification/service/ForegroundCheckTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/notification/service/MyFirebaseMessagingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/notification/service/SubscribeGlobal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/permission/PermissionsActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/permission/PermissionsChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/posverification/AccountListAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/posverification/AutoSuggestAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/posverification/ModelBankSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/posverification/POSSettlementAccountActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/posverification/TransactionStatusPOSActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/posverification/Validate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/posverification/response/CheckKycStatusRequestModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/posverification/response/CheckKycStatusResponseModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/posverification/response/CommonOnboardingStatusEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/posverification/response/DataEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/posverification/response/PosOnboardingStatusEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/posverification/responsemodel/BankDetailsEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/posverification/responsemodel/MerchantOnboardRequestModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/posverification/responsemodel/MerchantOnboardResponseModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/posverification/responsemodel/PosFetchAccountResponseModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/posverification/responsemodel/ResultEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/posverification/retrofit/ApiService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/posverification/retrofit/NetworkConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/posverification/retrofit/RetrofitInstance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/readfile/PreviewPDFActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/transaction_report/APIResponseHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/transaction_report/TransactionStatusActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/transaction_report/print/GetConnectToPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/transaction_report/print/GetDalFromNeptuneLiteListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/upitransaction/Session.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/upitransaction/UPIConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/vriddhi/AEMPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/vriddhi/AEMScrybeDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/vriddhi/CardReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/vriddhi/IAemCardScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/vriddhi/IAemScrybe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/vriddhi/PrintRasterImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/jniLibs/arm64-v8a/libDCL.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/jniLibs/arm64-v8a/libDeviceConfig.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/jniLibs/arm64-v8a/libIGLBarDecoder.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/jniLibs/arm64-v8a/libZBarDecoder.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/jniLibs/arm64-v8a/libiconv.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/jniLibs/arm64-v8a/libserialport.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/jniLibs/armeabi-v7a/libDCL.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/jniLibs/armeabi-v7a/libDeviceConfig.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/jniLibs/armeabi-v7a/libIGLBarDecoder.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/jniLibs/armeabi-v7a/libZBarDecoder.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/jniLibs/armeabi-v7a/libiconv.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/jniLibs/armeabi-v7a/libserialport.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/jniLibs/armeabi/libDCL.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/jniLibs/armeabi/libDeviceConfig.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/jniLibs/armeabi/libIGLBarDecoder.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/jniLibs/armeabi/libZBarDecoder.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/jniLibs/armeabi/libiconv.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/jniLibs/armeabi/libserialport.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/jniLibs/mips/libDCL.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/jniLibs/mips/libDeviceConfig.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/jniLibs/mips/libIGLBarDecoder.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/jniLibs/mips/libZBarDecoder.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/jniLibs/mips/libiconv.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/jniLibs/mips/libserialport.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/jniLibs/x86/libDCL.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/jniLibs/x86/libDeviceConfig.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/jniLibs/x86/libIGLBarDecoder.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/jniLibs/x86/libZBarDecoder.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/jniLibs/x86/libiconv.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/jniLibs/x86/libserialport.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/color/navigation_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/amount_shape.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/background_btn.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/btn_bkg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/btn_finish.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/button_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/button_background_fail.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/button_background_success.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/button_background_transaction_success.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/button_background_transaction_success_close.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/button_backgroundtransaction_fail.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/button_backgroundtransaction_success.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/button_cancel_dialog_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/button_check.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/button_pay_dialog_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/button_submit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/button_submit_blue.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/button_uncheck.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/calendar_rect_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/cancel_btn.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/circle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/circular_orange_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/circular_progressbar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/custom_thumb.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/custom_track.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/email_icon.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/eyepos.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/gray_stoke.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/hero_failure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/hero_success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/homescreen.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_accessibility_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_account_balance_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_account_circle_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_add.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_aeps3_pending.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_arrow_drop_down_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_arrow_white.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_atm_blue.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_attach_money_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_back.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_bank.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_baseline_arrow_back_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_baseline_autorenew_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_baseline_info_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_baseline_print_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_baseline_remove_red_eye_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_blue_outline.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_blue_solid__outline.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_bluetooth_black_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_bluetooth_connected_black_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_bluetooth_logo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_bluetooth_searching_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_bluetooth_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_cached_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_check_circle_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_check_circle_blue_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_check_circle_grey_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_checked.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_clear_24px.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_close_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_close_red_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_cloud_download_outline.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_curve_card_white.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_dashboard_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_dashboardtitle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_delete.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_demouser.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_download.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_download_newmatm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_download_to_storage_drive.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_draft.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_error.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_errorrr.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_fingerprint_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_fingerprint_blue.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_fingerprint_grey.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_home_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_language.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_language_blue.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_lock_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_login_art1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_login_art2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_login_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_memu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_menuleft.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_menuright.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_money.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_mpos.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_multi_ben.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_notifications_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_outline_remove_red_eye.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_phone.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_phone_blue.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_print_icon.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_printer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_printer_newmatm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_refresh.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_refresh_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_refresh_black_2_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_rupee.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_scanner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_scanner_grey.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_search.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_send.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_settings_gears.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_smartphone_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_speaker_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_statistics.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_status_check.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_status_error.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_status_transaction.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_success.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_uncheck.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_user.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_user_ben.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_wallet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ic_warning_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/icn_bluetooth.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/icons8_clipboard_80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/icons8_exit_filled_50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/layout_bg_border.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/line_divider.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/logo_login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/main_logo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/mastercard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/money.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/otp_graphics.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/password_icon.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/pending.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/pmoney_splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/pos_success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/primary_gardiant.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/print.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/print_btn_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/print_receipt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/progress.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/progress_bar_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/rect_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/rectangular_outside_border.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/red_button_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/ripple_effect.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/rounded_shape_btn.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/roundedprogress.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/rupaycard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/selector_ble.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/shadow_button_layer_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/splash_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/statement_btn.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/submit_btn.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/transaction_details_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/try_again.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/vertical_line.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/visacard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/drawable/white_curved_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/font/roboto_regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/font/segui.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/aadhaarpay_service_charges_dialog.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/account_list_row.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/acitivity_pos_otp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/activity_aadhaarpay_receipt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/activity_aeps3_home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/activity_aeps3_transaction_receipt_ministatement.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/activity_aeps3_transaction_status_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/activity_aeps_home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/activity_bank_details.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/activity_bank_list_spinner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/activity_bank_name_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/activity_bio_auth.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/activity_bluetooth.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/activity_choose_card.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/activity_dash_board.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/activity_draw_p_d_f.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/activity_draw_pdf_aadhaar_pay.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/activity_draw_pdf_aeps1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/activity_draw_pdf_matm2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/activity_error.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/activity_error_matm1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/activity_filedownload.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/activity_main2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/activity_matm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/activity_matm1_transaction_status.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/activity_matmtransaction_status.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/activity_micro_atm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/activity_micro_atm_report.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/activity_preview_pdf.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/activity_print.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/activity_settelment_account_info.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/activity_statement_transaction.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/activity_terms_conditions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/activity_transaction_pos.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/activity_transaction_status.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/activity_transaction_status_aeps1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/activity_transactionstatus_unifiedaeps.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/activity_unified_aeps.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/activity_upi_home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/bank_list_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/bluetooth_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/circle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/custom_ble_actionbar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/custom_dialog.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/custom_progress_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/custom_progressbar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/list_device_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/newdmt_row_bank_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/progress_dialog.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/shimmer_bank_row.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/shimmer_bluetooth_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/snackbar_container.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/statement_list_items.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/term_conditions_dilog_popup.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/toolbar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/transaction_aeps_details_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/transaction_matm1_details_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/layout/transaction_matm_details_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/menu/bank_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/menu/main_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/menu/navigation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/menu/top_menu_popup.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/values/attrs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/xml/network_security_config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/main/res/xml/provider_paths.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MATMSDK/src/test/java/com/matm/matmsdk/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PAX_SDK_APP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/lib/simple-xml-2.7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/pax/pax_sdk_app/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/fonts/brandon_bold.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/fonts/brandon_bold_2.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/fonts/brandon_light.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/fonts/brandon_medium.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/iinlist.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/staging_signature_privateKey.p12" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/pax/pax_sdk_app/ConnectionLostCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/pax/pax_sdk_app/DriverActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/pax/pax_sdk_app/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/pax/pax_sdk_app/PlugInControlReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/pax/pax_sdk_app/SessionManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/pax/pax_sdk_app/login/LoginActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/pax/pax_sdk_app/login/LoginConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/pax/pax_sdk_app/login/LoginContract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/pax/pax_sdk_app/login/LoginPresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/pax/pax_sdk_app/login/OnboardActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/pax/pax_sdk_app/login/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/pax/pax_sdk_app/retrofitService/DMTRetrofitInstance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/pax/pax_sdk_app/retrofitService/DataModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/pax/pax_sdk_app/retrofitService/GetDataService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/fingerprintmodel/CustOpts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/fingerprintmodel/DeviceInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/fingerprintmodel/EvoluteDeviceInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/fingerprintmodel/EvolutePidData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/fingerprintmodel/FM220DeviceInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/fingerprintmodel/FM220PidData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/fingerprintmodel/MorphoDeviceInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/fingerprintmodel/MorphoPidData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/fingerprintmodel/Opts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/fingerprintmodel/Param.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/fingerprintmodel/PidData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/fingerprintmodel/PidOptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/fingerprintmodel/PrecisionDeviceInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/fingerprintmodel/PrecisionPidData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/fingerprintmodel/Resp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/fingerprintmodel/additional_info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/fingerprintmodel/uid/AuthReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/fingerprintmodel/uid/AuthRes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/fingerprintmodel/uid/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/fingerprintmodel/uid/Meta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/fingerprintmodel/uid/Skey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/fingerprintmodel/uid/Uses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/fingerprintmodel/wiseasyfpmodel/AratekDeviceInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/fingerprintmodel/wiseasyfpmodel/AratekPidData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/fingerprintmodel/wiseasyfpmodel/AratekResp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/fingerprintmodel/wiseasyfpmodel/Aratek_additional_info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/signer/DigitalSigner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/signer/XMLSigner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jniLibs/arm64-v8a/libDCL.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jniLibs/arm64-v8a/libDeviceConfig.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jniLibs/arm64-v8a/libIGLBarDecoder.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jniLibs/arm64-v8a/libZBarDecoder.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jniLibs/arm64-v8a/libiconv.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jniLibs/arm64-v8a/libserialport.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jniLibs/armeabi-v7a/libDCL.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jniLibs/armeabi-v7a/libDeviceConfig.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jniLibs/armeabi-v7a/libIGLBarDecoder.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jniLibs/armeabi-v7a/libZBarDecoder.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jniLibs/armeabi-v7a/libiconv.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jniLibs/armeabi-v7a/libserialport.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jniLibs/armeabi/libDCL.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jniLibs/armeabi/libDeviceConfig.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jniLibs/armeabi/libIGLBarDecoder.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jniLibs/armeabi/libZBarDecoder.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jniLibs/armeabi/libiconv.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jniLibs/armeabi/libserialport.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jniLibs/mips/libDCL.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jniLibs/mips/libDeviceConfig.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jniLibs/mips/libIGLBarDecoder.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jniLibs/mips/libZBarDecoder.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jniLibs/mips/libiconv.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jniLibs/mips/libserialport.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jniLibs/x86/libDCL.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jniLibs/x86/libDeviceConfig.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jniLibs/x86/libIGLBarDecoder.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jniLibs/x86/libZBarDecoder.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jniLibs/x86/libiconv.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/jniLibs/x86/libserialport.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ripple_effect.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/button_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/button_backgroundtransaction_fail.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/button_backgroundtransaction_success.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/button_check.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/button_uncheck.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/email_icon.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/fingerprint.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_back.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_blue_solid__outline.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_bluetooth_logo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_check_circle_blue_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_check_circle_grey_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_checked.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_close_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_curve_card_white.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_dashboardtitle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_demouser.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_download.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_error.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_errorrr.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_home_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_login_art1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_login_art2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_login_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_menuleft.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_menuright.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_mpos.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_notifications_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_refresh.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_search.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_settings_gears.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_statistics.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_uncheck.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_user.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/icn_bluetooth.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/main_logo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/otp_graphics.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/password_icon.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/primary_gardiant.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ripple_effect.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/rounded_shape_btn.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/selector_ble.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/splash_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/vertical_line.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/white_curved_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_driver.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_pos_otp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_upi_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/custom_activity_aeps_home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/custom_activity_bank_list_spinner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/custom_activity_bluetooth.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/custom_activity_choose_card.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/custom_activity_transaction_status.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/custom_activity_transaction_statusssss.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/custom_aeps_transaction_status.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/custom_bank_list_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/custom_bio_auth.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/custom_bluetooth_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/custom_error_activity.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/custom_pos.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/custom_statement_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/custom_statement_transaction.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/shimmer_bank_row.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/shimmer_bluetooth_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/xml/network_security_config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/xml/profile_trans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/xml/provider_paths.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/test/java/com/pax/pax_sdk_app/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\Sunidhi Chattar\.android\avd\Nexus_5X_API_30.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="PAX_SDK_APP" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2NwuOmpEpvk2oXAqkmzlaRP5fa7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DEBUGGABLE_DEVICE": "realme-rmx1825-SWAAX4U4KV79B6LZ",
+    "DEBUGGABLE_PROCESS": "com.pax.pax_sdk_app",
+    "DEBUGGER_ID": "Auto",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "SHOW_ALL_PROCESSES": "false",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "android-custom-viewC:/Users/Sunidhi Chattar/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.2.1/f0f93e67af3f7417bdd560d5142f6dec4fe629c3/recyclerview-1.2.1-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_SELECTED": "RecyclerView",
+    "android-custom-viewC:/Users/Sunidhi Chattar/.gradle/caches/modules-2/files-2.1/com.moos/Material-ProgressView/1.0.6/31510ee942f2b670584b227145b2c856f001a42a/Material-ProgressView-1.0.6-sources.jar!/com/moos/library/HorizontalProgressView.java_SELECTED": "HorizontalProgressView",
+    "android-custom-viewC:/Users/Sunidhi Chattar/AppData/Local/Android/Sdk/sources/android-32/android/view/View.java_SELECTED": "View",
+    "android-custom-viewC:/Users/Sunidhi Chattar/AppData/Local/Android/Sdk/sources/android-32/android/widget/EditText.java_SELECTED": "EditText",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "C:/Users/Sunidhi Chattar/Desktop/AePSandAadharPay/isu-aeps-sdk1",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Sunidhi Chattar\Desktop\AePSandAadharPay\isu-aeps-sdk1\MATMSDK\src\main\java\com\matm\matmsdk\aepsmodule" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.matm.matmsdk.aepsmodule.network.model.balanceEnquiry" />
+      <recent name="com.matm.matmsdk.aepsmodule.aadharpay.Model" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="PAX_SDK_APP.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5f1cb1e-f220-465e-b28f-8d4c946afde1" name="Changes" comment="" />
+      <created>1680587438524</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680587438524</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit initial project" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit initial project" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MATMSDK/src/main/java/com/matm/matmsdk/aepsmodule/unifiedaeps/UnifiedBioAuthActivity.java</url>
+          <line>415</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

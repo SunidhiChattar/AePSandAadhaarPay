@@ -1,0 +1,11 @@
+
+_
+java:S1659"DDeclare "receipt" and all following declarations on a separate line.(¨šóŞùÿÿÿÿ
+r
+java:S1450"WRemove the "bankName" field and declare it as a local variable in the relevant methods.(ŠóŞËÿÿÿÿÿ
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(¨Œşÿÿÿÿ
+G
+java:S1068",Remove this unused "bankName" private field.(ŠóŞËÿÿÿÿÿ
+Q
+java:S1068"6Remove this unused "operationPerformed" private field.(ËÕœøÿÿÿÿ

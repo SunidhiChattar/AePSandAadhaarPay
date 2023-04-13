@@ -1,0 +1,89 @@
+
+t
+java:S2293O"YReplace the type specification in this constructor call with the diamond operator ("<>").(ËÖ«ùÿÿÿÿ
+g	java:S117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Ù¨œ
+l	java:S117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–©šûıÿÿÿÿ
+l	java:S117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–©šûıÿÿÿÿ
+g	java:S117Ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”¥Ğë
+l	java:S117Ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆªÏóûÿÿÿÿ
+=
+java:S1604X"(Make this anonymous inner class a lambda(×ÆÒ9
+?
+java:S1604”"(Make this anonymous inner class a lambda(»Ç‰¼
+w
+java:S1488Ÿ"[Immediately return this expression instead of assigning it to the temporary variable "res".(ëÖ¤Øşÿÿÿÿ
+v
+java:S1104,"`Make iscancelfiledownload a static final constant or non-public and provide accessors if needed.(’¦Üâ
+P
+java:S1444,":Make this "public static iscancelfiledownload" field final(’¦Üâ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Òôã¯ùÿÿÿÿ
+^
+java:S2259Ë"BA "NullPointerException" could be thrown; "file" is nullable here.(¦ûÒıÿÿÿÿ
+j
+java:S2095å"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(øˆš•ıÿÿÿÿ
+i
+java:S2637O"NParameter 4 to this constructor is marked "@NonNull" but null could be passed.(ËÖ«ùÿÿÿÿ
+t
+java:S1450)"YRemove the "fileListtt" field and declare it as a local variable in the relevant methods.(Ì‘ñäùÿÿÿÿ
+x
+java:S1450+"]Remove the "progressDialog" field and declare it as a local variable in the relevant methods.(·á…Çùÿÿÿÿ
+Q
+java:S1874+"6Remove this use of "ProgressDialog"; it is deprecated.(·á…Çùÿÿÿÿ
+Q
+java:S1874."6Remove this use of "ProgressDialog"; it is deprecated.(ûÏàıÿÿÿÿ
+L
+java:S18749"6Remove this use of "ProgressDialog"; it is deprecated.(©ß¡
+^
+java:S1874>"CRemove this use of "FLAG_TRANSLUCENT_NAVIGATION"; it is deprecated.(ÄÇ¬´şÿÿÿÿ
+S	java:S106L"9Replace this use of System.out or System.err by a logger.(‰ÄóÄÿÿÿÿÿ
+Q
+java:S1874_"6Remove this use of "ProgressDialog"; it is deprecated.(ı´İÆüÿÿÿÿ
+M
+java:S1874`"2Remove this use of "setMessage"; it is deprecated.(ÑÉ–êøÿÿÿÿ
+N
+java:S1874a"8Remove this use of "setIndeterminate"; it is deprecated.(Ùùü‚
+I
+java:S1874b".Remove this use of "setMax"; it is deprecated.(¸›Ó‚üÿÿÿÿ
+S
+java:S1874c"8Remove this use of "setProgressStyle"; it is deprecated.(‰¥Íæûÿÿÿÿ
+Q
+java:S1874c"6Remove this use of "ProgressDialog"; it is deprecated.(‰¥Íæûÿÿÿÿ
+S
+java:S1874c"8Remove this use of "STYLE_HORIZONTAL"; it is deprecated.(‰¥Íæûÿÿÿÿ
+r
+java:S3252|"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(¸šÁÿÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(İÙ™“
+?	java:S108†")Either remove or fill this block of code.(å¥‡
+a
+java:S1874Œ"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(¯ÜÑñ
+A
+java:S1197Œ"*Move the array designators [] to the type.(¯ÜÑñ
+D	java:S108")Either remove or fill this block of code.(ƒÁìÀùÿÿÿÿ
+F
+java:S1172œ"/Remove this unused method parameter "filename".( Ù¨œ
+W	java:S125"<This block of commented-out lines of code should be removed.(µª°ôÿÿÿÿÿ
+J
+java:S1874¤".Remove this use of "setMax"; it is deprecated.(ƒË×öûÿÿÿÿ
+i
+java:S2975©"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(™”” 
+>
+java:S1185©"(Remove this method to simply inherit it.(™”” 
+R	java:S125¸"<This block of commented-out lines of code should be removed.(éÔâÜ
+W	java:S125»"<This block of commented-out lines of code should be removed.(çÒÊÀûÿÿÿÿ
+J
+java:S1874¼"3Remove this use of "setProgress"; it is deprecated.(Ê•
+R
+java:S1854Å"6Remove this useless assignment to local variable "am".(«ÚÏûÿÿÿÿ
+C
+java:S1481Å"'Remove this unused "am" local variable.(«ÚÏûÿÿÿÿ
+R	java:S125É"<This block of commented-out lines of code should be removed.(¿¯å
+O	java:S106Ù"9Replace this use of System.out or System.err by a logger.(¶ƒŞ 
+B
+java:S1075Ü"&Remove this hard-coded path-delimiter.(’œøÿÿÿÿ
+B
+java:S1075Ü"&Remove this hard-coded path-delimiter.(’œøÿÿÿÿ
+W	java:S125ä"<This block of commented-out lines of code should be removed.(Îõşÿÿÿÿ
+A
+java:S1197æ"*Move the array designators [] to the type.(î¨İ«
+M
+java:S1068+"2Remove this unused "progressDialog" private field.(·á…Çùÿÿÿÿ

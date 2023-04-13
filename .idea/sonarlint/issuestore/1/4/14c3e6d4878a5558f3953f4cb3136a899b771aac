@@ -1,0 +1,9 @@
+
+l	java:S117Ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( •‹¹ûÿÿÿÿ
+u
+java:S1845°"^Rename method "getVirtualId" to prevent any misunderstanding/clash with method "getVirtualid".(ã‡ÇÌ
+z
+java:S1845´"^Rename method "setVirtualId" to prevent any misunderstanding/clash with method "setVirtualid".(¾¬„‹ÿÿÿÿÿ
+t
+java:S4144°"]Update this method so that its implementation is not identical to "getVirtualid" on line 160.(ã‡ÇÌ
+X	java:S107‚"BConstructor has 26 parameters, which is greater than 7 authorized.(òžª×

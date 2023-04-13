@@ -1,0 +1,14 @@
+
+[	java:S112t"FDefine and throw a dedicated exception instead of using a generic one.(¶–ÏŠ
+>
+java:S1604a"(Make this anonymous inner class a lambda(£Ó
+p
+java:S1450"ZRemove the "charsInMask" field and declare it as a local variable in the relevant methods.(çöæï
+u
+java:S3012®"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(İÉ‹”úÿÿÿÿ
+P
+java:S1854é"9Remove this useless assignment to local variable "chars".(÷ıòı
+A
+java:S1481é"*Remove this unused "chars" local variable.(÷ıòı
+E
+java:S1068"/Remove this unused "charsInMask" private field.(çöæï

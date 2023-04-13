@@ -1,0 +1,23 @@
+
+p	java:S116"VRename this field "tv_shopName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ֵ±¥לרÿÿÿÿ
+o	java:S116"URename this field "tv_receipt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ֵ±¥לרÿÿÿÿ
+q	java:S116"WRename this field "tv_txnStatus" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ֵ±¥לרÿÿÿÿ
+p	java:S116"VRename this field "tv_dateTime" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ֵ±¥לרÿÿÿÿ
+s	java:S116"YRename this field "tv_operPerform" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ֵ±¥לרÿÿÿÿ
+m	java:S116"SRename this field "tv_txnId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ֵ±¥לרÿÿÿÿ
+q	java:S116"WRename this field "tv_aadhaarNo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ֵ±¥לרÿÿÿÿ
+p	java:S116"VRename this field "tv_bankName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ֵ±¥לרÿÿÿÿ
+m	java:S116"SRename this field "tv_rrnNo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ֵ±¥לרÿÿÿÿ
+o	java:S116"URename this field "tv_blncAmt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ֵ±¥לרÿÿÿÿ
+n	java:S116"TRename this field "tv_txnAmt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ֵ±¥לרÿÿÿÿ
+o	java:S116"URename this field "tv_txnType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ֵ±¥לרÿÿÿÿ
+7
+java:S1170"!Make this final field static too.(‘‚‏ְ
+b
+java:S1659"GDeclare "tv_receipt" and all following declarations on a separate line.(ֵ±¥לרÿÿÿÿ
+s
+java:S1450"XRemove the "brandName" field and declare it as a local variable in the relevant methods.(»₪קסÿÿÿÿÿ
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(¨‏ÿÿÿÿ
+H
+java:S1068"-Remove this unused "brandName" private field.(»₪קסÿÿÿÿÿ

@@ -1,0 +1,104 @@
+
+]
+java:S1192¬"FDefine a constant instead of duplicating this literal "state" 4 times.(òûë­
+d
+java:S1192«"HDefine a constant instead of duplicating this literal "pincode" 4 times.(£œç‘ÿÿÿÿÿ
+c
+java:S1192§"GDefine a constant instead of duplicating this literal "status" 4 times.(õÚîßúÿÿÿÿ
+F
+java:S1066¸"/Merge this if statement with the enclosing one.(¯Ñ˜ˆ
+g	java:S117“"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹Í´Ç
+g	java:S117ª"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šô—¥
+g	java:S117ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜üÎÜ
+g	java:S117ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ì‹°
+g	java:S117¦"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹Í´Ç
+D
+java:S1604Ç"(Make this anonymous inner class a lambda(ÒÂûäşÿÿÿÿ
+?
+java:S1604°"(Make this anonymous inner class a lambda(Õä
+T
+java:S2589±"8Remove this expression which always evaluates to "false"(ï¾ì™úÿÿÿÿ
+T
+java:S2589±"8Remove this expression which always evaluates to "false"(ï¾ì™úÿÿÿÿ
+T
+java:S2589±"8Remove this expression which always evaluates to "false"(ï¾ì™úÿÿÿÿ
+T
+java:S2589±"8Remove this expression which always evaluates to "false"(ï¾ì™úÿÿÿÿ
+T
+java:S2589±"8Remove this expression which always evaluates to "false"(ï¾ì™úÿÿÿÿ
+T
+java:S2589±"8Remove this expression which always evaluates to "false"(ï¾ì™úÿÿÿÿ
+r	java:S116B"XRename this field "location_flag" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹š¿áûÿÿÿÿ
+R
+java:S1874:"7Remove this use of "GoogleApiClient"; it is deprecated.(ôĞûÿÿÿÿ
+V
+java:S1874:";Remove this use of "ConnectionCallbacks"; it is deprecated.(ôĞûÿÿÿÿ
+R
+java:S1874:"7Remove this use of "GoogleApiClient"; it is deprecated.(ôĞûÿÿÿÿ
+]
+java:S1874:"BRemove this use of "OnConnectionFailedListener"; it is deprecated.(ôĞûÿÿÿÿ
+M
+java:S1874="7Remove this use of "GoogleApiClient"; it is deprecated.(©üß¦
+[
+java:S1124>"EReorder the modifiers to comply with the Java Language Specification.(ìşšÿ
+[
+java:S1124?"EReorder the modifiers to comply with the Java Language Specification.(šúÎı
+L
+java:S1874D"6Remove this use of "ProgressDialog"; it is deprecated.(§Ù½²
+R
+java:S1874P"7Remove this use of "GoogleApiClient"; it is deprecated.(ÂÂ´»ûÿÿÿÿ
+J
+java:S1874P"/Remove this use of "Builder"; it is deprecated.(ÂÂ´»ûÿÿÿÿ
+r
+java:S3252i"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(´±Ëèûÿÿÿÿ
+e
+java:S1874z"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Ó»×¶şÿÿÿÿ
+N
+java:S1874"8Remove this use of "FusedLocationApi"; it is deprecated.(”ûÃ
+
+n
+java:S3776¶"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(æÑ†Ìøÿÿÿÿ
+O
+java:S1874¼"8Remove this use of "FusedLocationApi"; it is deprecated.(äíÏÁ
+S
+java:S1874½"7Remove this use of "LocationRequest"; it is deprecated.(ºä‚¤üÿÿÿÿ
+T
+java:S1874Ä"8Remove this use of "FusedLocationApi"; it is deprecated.(ú½ÿûÿÿÿÿ
+O
+java:S1874Å"3Remove this use of "SettingsApi"; it is deprecated.(éó¡úıÿÿÿÿ
+8	java:S131Ì""Add a default case to this switch.(Û ‰¹
+w
+java:S3252Í"[Use static access with "com.google.android.gms.common.api.CommonStatusCodes" for "SUCCESS".(Ì˜™áüÿÿÿÿ
+O
+java:S1874Ô"8Remove this use of "FusedLocationApi"; it is deprecated.(äíÏÁ
+ƒ
+java:S3252Ø"gUse static access with "com.google.android.gms.common.api.CommonStatusCodes" for "RESOLUTION_REQUIRED".(Âş†²ûÿÿÿÿ
+W	java:S125ñ"<This block of commented-out lines of code should be removed.(Ø´æÀùÿÿÿÿ
+Z
+java:S1155ş">Use isEmpty() to check whether the collection is empty or not.(¦Áøÿÿÿÿ
+N
+java:S1135‡"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(İ£ğ½şÿÿÿÿ
+V
+java:S1854§":Remove this useless assignment to local variable "status".(õÚîßúÿÿÿÿ
+U
+java:S1854¨">Remove this useless assignment to local variable "statusDesc".(¬Ø¦…
+G
+java:S1481§"+Remove this unused "status" local variable.(õÚîßúÿÿÿÿ
+F
+java:S1481¨"/Remove this unused "statusDesc" local variable.(¬Ø¦…
+W	java:S125°"<This block of commented-out lines of code should be removed.(ë¤í»ÿÿÿÿÿ
+W	java:S125í"<This block of commented-out lines of code should be removed.(¾ùÕàşÿÿÿÿ
+W
+java:S1117ó";Rename "pincode" which hides the field declared at line 65.(ÔÊÇ úÿÿÿÿ
+R	java:S125õ"<This block of commented-out lines of code should be removed.(³î©£
+L
+java:S1874›"6Remove this use of "ProgressDialog"; it is deprecated.(ú×„
+I
+java:S1874"2Remove this use of "setMessage"; it is deprecated.(éé–µ
+?	java:S108§")Either remove or fill this block of code.(”ı¾
+Y
+java:S1068?"CRemove this unused "REQUEST_ID_MULTIPLE_PERMISSIONS" private field.(šúÎı
+L
+java:S1068B"1Remove this unused "location_flag" private field.(¹š¿áûÿÿÿÿ

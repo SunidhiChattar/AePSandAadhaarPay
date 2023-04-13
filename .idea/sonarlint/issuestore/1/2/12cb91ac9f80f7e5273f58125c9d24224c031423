@@ -1,0 +1,79 @@
+
+a	java:S112‹"FDefine and throw a dedicated exception instead of using a generic one.(î´ûëıÿÿÿÿ
+^
+java:S1192¾"GDefine a constant instead of duplicating this literal "status" 3 times.(ÊæÂ
+b
+java:S1192"FDefine a constant instead of duplicating this literal "token" 4 times.(¨¿¹ùùÿÿÿÿ
+Q
+java:S1141€"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨¿¹ùùÿÿÿÿ
+l	java:S117Ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§äğıûÿÿÿÿ
+C
+java:S1604l"(Make this anonymous inner class a lambda(¶ˆê˜ùÿÿÿÿ
+C
+java:S1604t"(Make this anonymous inner class a lambda(ˆ¢“øÿÿÿÿ
+?
+java:S1604ƒ"(Make this anonymous inner class a lambda(±Ä­”
+>
+java:S5411Š"(Use a primitive boolean expression here.(éÖ„o
+i	java:S116?"TRename this field "user_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïñ»
+o	java:S116B"URename this field "_user_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êúâœüÿÿÿÿ
+n	java:S116B"TRename this field "_password" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êúâœüÿÿÿÿ
+t	java:S116F"_Rename this field "edit_layout_mobileNo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ©‚æ
+t	java:S116F"_Rename this field "edit_layout_password" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ©‚æ
+h	java:S116J"SRename this field "_message" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒéÃÑ
+t	java:S116K"ZRename this field "create_new_user" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û­Ÿ…ûÿÿÿÿ
+n	java:S116M"TRename this field "CrashTest" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÃøÿÿÿÿ
+l
+java:S1845?"VRename field "user_name" to prevent any misunderstanding/clash with field "USER_NAME".(ïñ»
+<
+java:S1659?"&Declare "password" on a separate line.(ïñ»
+B
+java:S1659B"'Declare "_password" on a separate line.(êúâœüÿÿÿÿ
+H
+java:S1659F"2Declare "edit_layout_password" on a separate line.(Ñ©‚æ
+V	java:S125b"<This block of commented-out lines of code should be removed.(³ËæÊÿÿÿÿÿ
+=
+java:S1125Š"'Remove the unnecessary boolean literal.(éÖ„o
+W	java:S125"<This block of commented-out lines of code should be removed.(†ÖÓÖÿÿÿÿÿ
+R	java:S125¨"<This block of commented-out lines of code should be removed.(ˆ÷
+R
+java:S1874Æ"6Remove this use of "getPackageInfo"; it is deprecated.(Îƒ¢¶ÿÿÿÿÿ
+>	java:S108È")Either remove or fill this block of code.(ïõÙE
+W	java:S125Í"<This block of commented-out lines of code should be removed.(¤£ó£ÿÿÿÿÿ
+W	java:S125ı"<This block of commented-out lines of code should be removed.(û¼¥ûÿÿÿÿ
+Q
+java:S1854¾":Remove this useless assignment to local variable "status".(ÊæÂ
+W	java:S125µ"<This block of commented-out lines of code should be removed.(àÏÕ×ùÿÿÿÿ
+W	java:S125¹"<This block of commented-out lines of code should be removed.(‘ûŒşÿÿÿÿ
+B
+java:S1481¾"+Remove this unused "status" local variable.(ÊæÂ
+R	java:S125Ã"<This block of commented-out lines of code should be removed.(Éúù
+
+java:S1186ï"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(°»ğ÷şÿÿÿÿ
+a
+java:S2147è"ECombine this catch with the one at line 358, which has the same body.(ĞĞ¹óúÿÿÿÿ
+T	java:S106à"9Replace this use of System.out or System.err by a logger.(ßÄ˜øÿÿÿÿ
+P
+java:S4719â"9Replace charset name argument with StandardCharsets.UTF_8(òŠ¡î
+R	java:S125ã"<This block of commented-out lines of code should be removed.(º¶·İ
+M
+java:S1874ø"6Remove this use of "ProgressDialog"; it is deprecated.(¢º™×
+M
+java:S1874ø"6Remove this use of "ProgressDialog"; it is deprecated.(¢º™×
+N
+java:S1874ù"2Remove this use of "setMessage"; it is deprecated.(…×“˜üÿÿÿÿ
+W	java:S125ı"<This block of commented-out lines of code should be removed.(à´ƒ—ÿÿÿÿÿ
+W
+java:S1854";Remove this useless assignment to local variable "message".(ëè Øúÿÿÿÿ
+H
+java:S1481",Remove this unused "message" local variable.(ëè Øúÿÿÿÿ
+f
+java:S1874ş"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(œƒƒ©ùÿÿÿÿ
+R	java:S125Ö"<This block of commented-out lines of code should be removed.(ÓÀº‰
+R
+java:S1144Ã"6Remove this unused private "appInstalledOrNot" method.(µÂÜ¦øÿÿÿÿ
+N
+java:S1144Ö"2Remove this unused private "loginWithMpin" method.(ÖåœÛÿÿÿÿÿ
+G
+java:S1144Ï"0Remove this unused private "getDeviceID" method.(¯‚­È

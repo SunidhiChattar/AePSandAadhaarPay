@@ -1,0 +1,46 @@
+
+t
+java:S2293u"YReplace the type specification in this constructor call with the diamond operator ("<>").(ö‘Ã‡ùÿÿÿÿ
+p
+java:S2293˜"YReplace the type specification in this constructor call with the diamond operator ("<>").(ºãûó
+p
+java:S2293Ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ºãûó
+`
+java:S1192F"JDefine a constant instead of duplicating this literal "IS_INTENT" 4 times.(¤ë§
+ˆ
+java:S1319t"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(åÒ€ûùÿÿÿÿ
+„
+java:S1319—"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(¶êÖú
+‰
+java:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(ù¿€Ğúÿÿÿÿ
+f	java:S117W"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö€¡
+f	java:S117]"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ÄÒÛ
+k	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ŠèØûÿÿÿÿ
+k	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ŠèØûÿÿÿÿ
+k	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ŠèØûÿÿÿÿ
+k	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ŠèØûÿÿÿÿ
+k	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ŠèØûÿÿÿÿ
+k	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ŠèØûÿÿÿÿ
+k	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ŠèØûÿÿÿÿ
+k	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ŠèØûÿÿÿÿ
+f	java:S117n"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡£¬À
+f	java:S117n"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡£¬À
+t	java:S115""ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ƒ¶áÿÿÿÿÿ
+o	java:S115#"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ĞôÃ¤
+o	java:S115$"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(­™ÑÛ
+t	java:S115&"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(åúûŞûÿÿÿÿ
+o	java:S115'"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Û»Î
+o	java:S115("ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ıÜ‚ç
+o	java:S115)"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¦öéï
+n	java:S115*"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¼Év
+t	java:S115,"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(í™Á«øÿÿÿÿ
+o	java:S115-"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÒÛğÁ
+h	java:S116"SRename this field "_context" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òº€²
+k	java:S116"WRename this field "PRIVATE_MODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š™èo
+V	java:S107b"<Method has 8 parameters, which is greater than 7 authorized.(’ŠèØûÿÿÿÿ
+h	java:S100@"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï÷Êíÿÿÿÿÿ
+\
+java:S1126J"AReplace this if-then-else statement by a single return statement.(…¶”šøÿÿÿÿ
+V
+java:S1854]"@Remove this useless assignment to local variable "banklist_arr".(£ÄÒÛ
+P	java:S125|"<This block of commented-out lines of code should be removed.(Í¥£c

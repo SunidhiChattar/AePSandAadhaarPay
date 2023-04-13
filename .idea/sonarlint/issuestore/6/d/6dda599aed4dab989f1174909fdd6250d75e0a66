@@ -1,0 +1,80 @@
+
+e
+java:S1192w"JDefine a constant instead of duplicating this literal "APPR_CODE" 4 times.(İë›×ûÿÿÿÿ
+]
+java:S1192n"GDefine a constant instead of duplicating this literal "RRN_NO" 4 times.(Ø´£ 
+_
+java:S1192p"IDefine a constant instead of duplicating this literal "APP_NAME" 4 times.(¡Ñ«é
+]
+java:S1192r"GDefine a constant instead of duplicating this literal "AMOUNT" 4 times.(€¤–±
+^
+java:S1192v"HDefine a constant instead of duplicating this literal "INVOICE" 4 times.(´á¨‘
+i
+java:S1192m"SDefine a constant instead of duplicating this literal "TRANSACTION_AMOUNT" 4 times.(º¯şÌ
+d
+java:S1192o"NDefine a constant instead of duplicating this literal "RESPONSE_CODE" 4 times.(ê·ÇÍ
+b
+java:S1192x"LDefine a constant instead of duplicating this literal "CARD_NUMBER" 4 times.(íõ™‡
+b
+java:S1192u"GDefine a constant instead of duplicating this literal "TXN_ID" 4 times.(Âå®²ûÿÿÿÿ
+g
+java:S1192l"QDefine a constant instead of duplicating this literal "TRANSACTION_TYPE" 4 times.(·»±¨
+d
+java:S1192\"NDefine a constant instead of duplicating this literal "errorResponse" 4 times.(µõŒä
+]
+java:S1192º"FDefine a constant instead of duplicating this literal "Alert" 3 times.(ËûÏˆ
+j
+java:S1192k"ODefine a constant instead of duplicating this literal "TRANSACTION_ID" 4 times.(ŸØ£…ûÿÿÿÿ
+g	java:S117¹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬¶ ï
+D
+java:S1604¼"(Make this anonymous inner class a lambda(úûó‚üÿÿÿÿ
+D
+java:S1604Â"(Make this anonymous inner class a lambda(ò¥ªƒşÿÿÿÿ
+D
+java:S1604ê"(Make this anonymous inner class a lambda(úûó‚üÿÿÿÿ
+?
+java:S1604ë"(Make this anonymous inner class a lambda(²™æê
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ç“õà
+B
+java:S1659'"'Declare "longitude" on a separate line.(×¨èÙşÿÿÿÿ
+x
+java:S1450*"bRemove the "dataObjectAsAString" field and declare it as a local variable in the relevant methods.(Î¤Ç•
+t
+java:S1450("YRemove the "gpsTracker" field and declare it as a local variable in the relevant methods.(ñç—úùÿÿÿÿ
+L
+java:S1874)"6Remove this use of "ProgressDialog"; it is deprecated.(é¦‰î
+Q
+java:S1874/"6Remove this use of "ProgressDialog"; it is deprecated.(¤æ÷–şÿÿÿÿ
+=	java:S108P")Either remove or fill this block of code.(ïõÙE
+_
+java:S1874W"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(¹Î¾
+W	java:S125‘"<This block of commented-out lines of code should be removed.(È±èÒıÿÿÿÿ
+?	java:S108Ë")Either remove or fill this block of code.(”ı¾
+W	java:S125ô"<This block of commented-out lines of code should be removed.(ûŠ”¾ûÿÿÿÿ
+?	java:S108ø")Either remove or fill this block of code.(”ı¾
+W	java:S125’"<This block of commented-out lines of code should be removed.(æáœÒÿÿÿÿÿ
+Z
+java:S1874–">Remove this use of "startActivityForResult"; it is deprecated.(åËœ ıÿÿÿÿ
+R	java:S125š"<This block of commented-out lines of code should be removed.(ÓÄìú
+?	java:S108¡")Either remove or fill this block of code.(”ı¾
+h
+java:S3776¥"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Š†Ù^
+N
+java:S1874¦"2Remove this use of "setMessage"; it is deprecated.( Ğİ˜ûÿÿÿÿ
+X
+java:S1854¸"ARemove this useless assignment to local variable "posStatusDesc".(õÁ­¼
+\
+java:S1854·"@Remove this useless assignment to local variable "posSubStatus".(¶½í’üÿÿÿÿ
+U
+java:S1854´">Remove this useless assignment to local variable "onboarding".(œà°­
+_
+java:S1854³"HRemove this useless assignment to local variable "onBoardingStatusDesc".(Ì¡¤·
+P
+java:S1481³"9Remove this unused "onBoardingStatusDesc" local variable.(Ì¡¤·
+F
+java:S1481´"/Remove this unused "onboarding" local variable.(œà°­
+M
+java:S1481·"1Remove this unused "posSubStatus" local variable.(¶½í’üÿÿÿÿ
+I
+java:S1481¸"2Remove this unused "posStatusDesc" local variable.(õÁ­¼
+?	java:S108õ")Either remove or fill this block of code.(”ı¾

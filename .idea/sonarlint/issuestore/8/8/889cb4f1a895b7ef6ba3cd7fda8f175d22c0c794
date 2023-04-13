@@ -1,0 +1,20 @@
+
+‹
+java:S1319w"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ëÇï°üÿÿÿÿ
+l	java:S117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼šû‹úÿÿÿÿ
+l	java:S117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼šû‹úÿÿÿÿ
+l	java:S117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼šû‹úÿÿÿÿ
+l	java:S117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼šû‹úÿÿÿÿ
+q	java:S116k"\Rename this field "origin_identifier" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÊ¥ˆ
+Z
+java:S3358."DExtract this nested ternary operation into an independent statement.(æŸòØ
+e	java:S116‡"ORename this field "Date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤¢‹¿
+j	java:S116ˆ"ORename this field "Type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÁª“ûÿÿÿÿ
+l	java:S116‰"QRename this field "Amount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÂ‰ûÿÿÿÿ
+l	java:S116Š"VRename this field "DebitCredit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õå 
+H
+java:S1128"-Remove this unused import 'android.os.Build'.(ãÇ¤Úıÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ
+L
+java:S1128"1Remove this unused import 'java.io.Serializable'.(èãîÂÿÿÿÿÿ

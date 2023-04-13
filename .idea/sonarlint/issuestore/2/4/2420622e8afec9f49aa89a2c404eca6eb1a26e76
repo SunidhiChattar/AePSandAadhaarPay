@@ -1,0 +1,160 @@
+
+c
+java:S1192í"LDefine a constant instead of duplicating this literal "Select Bank" 3 times.(§À¶è
+c
+java:S1192Ã"LDefine a constant instead of duplicating this literal "BANK_SEARCH" 3 times.(Ü“ÏË
+c
+java:S1192Ò"LDefine a constant instead of duplicating this literal "Add Account" 3 times.(¾Íôå
+K
+java:S1066Á"/Merge this if statement with the enclosing one.(šÎ şıÿÿÿÿ
+g	java:S117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ç×Ş
+g	java:S117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı–İû
+g	java:S117ˆ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©Ñğ¥
+g	java:S117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îşËú
+g	java:S117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½”Ÿ¡
+l	java:S117Ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï«Œ€şÿÿÿÿ
+D
+java:S1604½"(Make this anonymous inner class a lambda(ˆ”´ùÿÿÿÿ
+D
+java:S1604–"(Make this anonymous inner class a lambda(Ã¯äıÿÿÿÿ
+?
+java:S1604¡"(Make this anonymous inner class a lambda(Ÿ¹¸œ
+?
+java:S1604Ï"(Make this anonymous inner class a lambda(±Ä­”
+?
+java:S1604"(Make this anonymous inner class a lambda(¬‰Ùš
+?
+java:S1604•"(Make this anonymous inner class a lambda(ì”·‰
+?
+java:S1604ò"(Make this anonymous inner class a lambda(Õä
+?
+java:S1604Ô"(Make this anonymous inner class a lambda(Õä
+s
+java:S1104["XMake bankListSize a static final constant or non-public and provide accessors if needed.(†ÀÃ¿üÿÿÿÿ
+o	java:S116]"URename this field "pincode_TV" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞŠÏ‘ûÿÿÿÿ
+u	java:S116^"[Rename this field "benificiary_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÕîøÿÿÿÿ
+k	java:S116^"QRename this field "acc_no" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÕîøÿÿÿÿ
+o	java:S116^"URename this field "cnf_acc_no" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÕîøÿÿÿÿ
+n	java:S116_"TRename this field "bank_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸÷âÇûÿÿÿÿ
+p	java:S116b"VRename this field "pincode_str" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù÷°çıÿÿÿÿ
+i	java:S116c"TRename this field "beni_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã£ñÅ
+i	java:S116c"TRename this field "beni_bank" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã£ñÅ
+l	java:S116c"WRename this field "beni_ifscode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã£ñÅ
+j	java:S116c"URename this field "beni_accno" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã£ñÅ
+m	java:S116d"XRename this field "cnf_beni_bank" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë‰Î€
+o	java:S116d"ZRename this field "fetch_beni_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë‰Î€
+s	java:S116e"YRename this field "beni_ifsc_code" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ÏËùøÿÿÿÿ
+s	java:S116e"YRename this field "beni_bank_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ÏËùøÿÿÿÿ
+t	java:S116e"ZRename this field "beni_acccountNo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ÏËùøÿÿÿÿ
+r	java:S116e"XRename this field "beni_bankCode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ÏËùøÿÿÿÿ
+h	java:S116n"SRename this field "IFSCCode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à›’
+i	java:S116n"TRename this field "AccountNo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à›’
+l	java:S116n"WRename this field "AcHolderName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à›’
+k	java:S116w"QRename this field "_token" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÛÓäøÿÿÿÿ
+o	java:S116y"ZRename this field "is_new_existing" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¶°©
+l	java:S116|"WRename this field "check_accept" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎêÒ
+7
+java:S1170V"!Make this final field static too.(•¡¹²
+<
+java:S1170W"!Make this final field static too.(Âıçúÿÿÿÿ
+<
+java:S1170X"!Make this final field static too.(ÎÚâ·üÿÿÿÿ
+7
+java:S1170Y"!Make this final field static too.(É·ø
+<
+java:S1170Z"!Make this final field static too.(£É—Éÿÿÿÿÿ
+o
+java:S1845i"TRename field "userName" to prevent any misunderstanding/clash with field "username".(•Á–ëÿÿÿÿÿ
+_
+java:S1659^"DDeclare "ifscode" and all following declarations on a separate line.(ëÕîøÿÿÿÿ
+W
+java:S1659a"ADeclare "shop" and all following declarations on a separate line.(Ã’ö‘
+i
+java:S1659f"NDeclare "isMobileAvailable" and all following declarations on a separate line.(ªª§êøÿÿÿÿ
+g
+java:S1659g"QDeclare "aadhaarFrontImageUri" and all following declarations on a separate line.(”í„Ú
+\
+java:S1659n"FDeclare "AccountNo" and all following declarations on a separate line.(à›’
+m
+java:S1450{"WRemove the "deviceId" field and declare it as a local variable in the relevant methods.(Á¤Ü
+Q
+java:S1874r"6Remove this use of "ProgressDialog"; it is deprecated.(í§Ùãÿÿÿÿÿ
+n
+java:S3776€"RRefactor this method to reduce its Cognitive Complexity from 49 to the 15 allowed.(¨Œşÿÿÿÿ
+R
+java:S1874„"6Remove this use of "ProgressDialog"; it is deprecated.(ÑÛ µÿÿÿÿÿ
+
+java:S1186§"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÛË¹”øÿÿÿÿ
+˜
+java:S1186µ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±¾ê
+W	java:S125¹"<This block of commented-out lines of code should be removed.(ĞáÑùÿÿÿÿ
+K
+java:S1874½"/Remove this use of "Handler"; it is deprecated.(ˆ”´ùÿÿÿÿ
+W	java:S125Ã"<This block of commented-out lines of code should be removed.(¿œ÷¯üÿÿÿÿ
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹Æº×şÿÿÿÿ
+C
+java:S1125ó"'Remove the unnecessary boolean literal.(ø§öµşÿÿÿÿ
+i	java:S100‚"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×éàüÿÿÿÿ
+\
+java:S1854‡"ERemove this useless assignment to local variable "tv_nameOfRetailer".(ı–İû
+R
+java:S1854†";Remove this useless assignment to local variable "tv_date".(€ç×Ş
+C
+java:S1481†",Remove this unused "tv_date" local variable.(€ç×Ş
+M
+java:S1481‡"6Remove this unused "tv_nameOfRetailer" local variable.(ı–İû
+R	java:S125‹"<This block of commented-out lines of code should be removed.(§ â¬
+N
+java:S1874¢"2Remove this use of "setMessage"; it is deprecated.( Ğİ˜ûÿÿÿÿ
+5
+java:S2119Í"Save and re-use this "Random".(‘Ş°˜
+5
+java:S2119Ï"Save and re-use this "Random".(–áÍÈ
+/
+java:S2140Ñ"Use "nextInt()" instead.(ææñÛ
+N
+java:S1874Û"2Remove this use of "setMessage"; it is deprecated.( Ğİ˜ûÿÿÿÿ
+T	java:S106«"9Replace this use of System.out or System.err by a logger.(ßÄ˜øÿÿÿÿ
+Q
+java:S1854¿":Remove this useless assignment to local variable "fields".(Õ¯¿Š
+B
+java:S1481¿"+Remove this unused "fields" local variable.(Õ¯¿Š
+W	java:S125Û"<This block of commented-out lines of code should be removed.(¹®çëøÿÿÿÿ
+i	java:S100Ó"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨í‰ùÿÿÿÿ
+W	java:S125ó"<This block of commented-out lines of code should be removed.(Ÿ°‰ƒùÿÿÿÿ
+N
+java:S1874×"2Remove this use of "setMessage"; it is deprecated.(Ô½¤åûÿÿÿÿ
+V
+java:S1854ß":Remove this useless assignment to local variable "status".(æáÛËûÿÿÿÿ
+G
+java:S1481ß"+Remove this unused "status" local variable.(æáÛËûÿÿÿÿ
+W	java:S125õ"<This block of commented-out lines of code should be removed.(ô˜æóûÿÿÿÿ
+N
+java:S1874¥"2Remove this use of "setMessage"; it is deprecated.(‰Ã“Íşÿÿÿÿ
+S
+java:S1117´"<Rename "username" which hides the field declared at line 97.(Ê«Û¼
+n
+java:S3776á"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(å¬…øÿÿÿÿ
+B
+java:S1068R"'Remove this unused "TAG" private field.(Â–¤ıÿÿÿÿ
+E
+java:S1068V"/Remove this unused "panImageURL" private field.(•¡¹²
+S
+java:S1068W"8Remove this unused "frontAadhaarImageURL" private field.(Âıçúÿÿÿÿ
+R
+java:S1068X"7Remove this unused "backAadhaarImageURL" private field.(ÎÚâ·üÿÿÿÿ
+H
+java:S1068Y"2Remove this unused "selfieImageURL" private field.(É·ø
+P
+java:S1068Z"5Remove this unused "geoTaggedImageURL" private field.(£É—Éÿÿÿÿÿ
+Q
+java:S1068s"6Remove this unused "accountListAdapter" private field.(Ôóßúÿÿÿÿ
+G
+java:S1068t"1Remove this unused "layoutManager" private field.(üÉÙ¼
+P
+java:S1068v"5Remove this unused "bankDetailsEntity" private field.(˜·¸Ôøÿÿÿÿ
+E
+java:S1068w"*Remove this unused "_token" private field.(ëÛÓäøÿÿÿÿ
+B
+java:S1068{",Remove this unused "deviceId" private field.(Á¤Ü

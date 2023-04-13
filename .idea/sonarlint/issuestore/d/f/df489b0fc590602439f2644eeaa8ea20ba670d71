@@ -1,0 +1,167 @@
+
+l
+java:S1104"QMake token a static final constant or non-public and provide accessors if needed.(¸ºÅ…øÿÿÿÿ
+p
+java:S1104"UMake AdminName a static final constant or non-public and provide accessors if needed.(ş¡”ûÿÿÿÿ
+o
+java:S1104"TMake UserName a static final constant or non-public and provide accessors if needed.(ß½¡íÿÿÿÿÿ
+r
+java:S1104"WMake UserBalance a static final constant or non-public and provide accessors if needed.(¯·ÀÔúÿÿÿÿ
+o
+java:S1104"TMake UserType a static final constant or non-public and provide accessors if needed.(¨¬ıÿÿÿÿ
+p
+java:S1104"UMake hexAmount a static final constant or non-public and provide accessors if needed.(«•¡Éıÿÿÿÿ
+m
+java:S1104"WMake userProfile a static final constant or non-public and provide accessors if needed.(¸Œë
+w
+java:S1104"\Make Transaction_Type a static final constant or non-public and provide accessors if needed.(…˜ßşÿÿÿÿ
+
+java:S1104"dMake Transaction_Type_Enquery a static final constant or non-public and provide accessors if needed.(é±¦øÿÿÿÿ
+{
+java:S1104"eMake Transaction_Currency_Code a static final constant or non-public and provide accessors if needed.(Ùï×£
+w
+java:S1104"\Make CurrencyExponent a static final constant or non-public and provide accessors if needed.(°ëÄ¸ùÿÿÿÿ
+s
+java:S1104"XMake AmountOthers a static final constant or non-public and provide accessors if needed.(Å¨ˆîúÿÿÿÿ
+s
+java:S1104"]Make PINEncryptionType a static final constant or non-public and provide accessors if needed.(æğü
+|
+java:S1104 "aMake DataEncryptionType_No a static final constant or non-public and provide accessors if needed.(áÛ¸úÿÿÿÿ
+u
+java:S1104!"_Make PINEncryptionKeyIdx a static final constant or non-public and provide accessors if needed.(¶ı±Ó
+y
+java:S1104""^Make DataEncryptionType a static final constant or non-public and provide accessors if needed.(ŸŞéœøÿÿÿÿ
+{
+java:S1104#"`Make DataEncryptionKeyIdx a static final constant or non-public and provide accessors if needed.(‚òÙüÿÿÿÿ
+s
+java:S1104$"XMake PINBlockMode a static final constant or non-public and provide accessors if needed.(ç• ÿÿÿÿÿ
+€
+java:S1104%"eMake TransactionProcessingMode a static final constant or non-public and provide accessors if needed.(Ğ –¦ûÿÿÿÿ
+o
+java:S1104&"YMake CardEntryMode a static final constant or non-public and provide accessors if needed.(¶ÿ‚®
+x
+java:S1104'"]Make FallBackAllowFlag a static final constant or non-public and provide accessors if needed.(Î—ç½şÿÿÿÿ
+s
+java:S1104("XMake PosEntryMode a static final constant or non-public and provide accessors if needed.(Æ”ãıÿÿÿÿ
+{
+java:S1104)"`Make TerminalCapabilities a static final constant or non-public and provide accessors if needed.(¿şßœüÿÿÿÿ
+z
+java:S1104*"_Make RequestPinBlockAuto a static final constant or non-public and provide accessors if needed.(±é•Ûüÿÿÿÿ
+u
+java:S1104+"ZMake OnlinePinInput a static final constant or non-public and provide accessors if needed.(†Æ¬Šûÿÿÿÿ
+n
+java:S1104-"XMake TerminalType a static final constant or non-public and provide accessors if needed.(ôäµ”
+€
+java:S1104."jMake AdditionalTerminalCapabilities a static final constant or non-public and provide accessors if needed.(Êñ¦
+n
+java:S11044"SMake user_id a static final constant or non-public and provide accessors if needed.(Ğğª‘üÿÿÿÿ
+F
+java:S1444"+Make this "public static token" field final(¸ºÅ…øÿÿÿÿ
+J
+java:S1444"/Make this "public static AdminName" field final(ş¡”ûÿÿÿÿ
+I
+java:S1444".Make this "public static UserName" field final(ß½¡íÿÿÿÿÿ
+L
+java:S1444"1Make this "public static UserBalance" field final(¯·ÀÔúÿÿÿÿ
+I
+java:S1444".Make this "public static UserType" field final(¨¬ıÿÿÿÿ
+G
+java:S1444"1Make this "public static userProfile" field final(¸Œë
+Q
+java:S1444"6Make this "public static Transaction_Type" field final(…˜ßşÿÿÿÿ
+Y
+java:S1444">Make this "public static Transaction_Type_Enquery" field final(é±¦øÿÿÿÿ
+U
+java:S1444"?Make this "public static Transaction_Currency_Code" field final(Ùï×£
+Q
+java:S1444"6Make this "public static CurrencyExponent" field final(°ëÄ¸ùÿÿÿÿ
+M
+java:S1444"2Make this "public static AmountOthers" field final(Å¨ˆîúÿÿÿÿ
+M
+java:S1444"7Make this "public static PINEncryptionType" field final(æğü
+V
+java:S1444 ";Make this "public static DataEncryptionType_No" field final(áÛ¸úÿÿÿÿ
+O
+java:S1444!"9Make this "public static PINEncryptionKeyIdx" field final(¶ı±Ó
+S
+java:S1444""8Make this "public static DataEncryptionType" field final(ŸŞéœøÿÿÿÿ
+U
+java:S1444#":Make this "public static DataEncryptionKeyIdx" field final(‚òÙüÿÿÿÿ
+M
+java:S1444$"2Make this "public static PINBlockMode" field final(ç• ÿÿÿÿÿ
+Z
+java:S1444%"?Make this "public static TransactionProcessingMode" field final(Ğ –¦ûÿÿÿÿ
+I
+java:S1444&"3Make this "public static CardEntryMode" field final(¶ÿ‚®
+R
+java:S1444'"7Make this "public static FallBackAllowFlag" field final(Î—ç½şÿÿÿÿ
+M
+java:S1444("2Make this "public static PosEntryMode" field final(Æ”ãıÿÿÿÿ
+U
+java:S1444)":Make this "public static TerminalCapabilities" field final(¿şßœüÿÿÿÿ
+T
+java:S1444*"9Make this "public static RequestPinBlockAuto" field final(±é•Ûüÿÿÿÿ
+O
+java:S1444+"4Make this "public static OnlinePinInput" field final(†Æ¬Šûÿÿÿÿ
+H
+java:S1444-"2Make this "public static TerminalType" field final(ôäµ”
+Z
+java:S1444."DMake this "public static AdditionalTerminalCapabilities" field final(Êñ¦
+H
+java:S14444"-Make this "public static user_id" field final(Ğğª‘üÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(şÕŠ¤úÿÿÿÿ
+o
+java:S3008"TRename this field "AdminName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş¡”ûÿÿÿÿ
+n
+java:S3008"SRename this field "UserName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß½¡íÿÿÿÿÿ
+q
+java:S3008"VRename this field "UserBalance" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯·ÀÔúÿÿÿÿ
+n
+java:S3008"SRename this field "UserType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨¬ıÿÿÿÿ
+v
+java:S3008"[Rename this field "Transaction_Type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…˜ßşÿÿÿÿ
+~
+java:S3008"cRename this field "Transaction_Type_Enquery" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é±¦øÿÿÿÿ
+z
+java:S3008"dRename this field "Transaction_Currency_Code" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùï×£
+v
+java:S3008"[Rename this field "CurrencyExponent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ëÄ¸ùÿÿÿÿ
+r
+java:S3008"WRename this field "AmountOthers" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å¨ˆîúÿÿÿÿ
+r
+java:S3008"\Rename this field "PINEncryptionType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æğü
+{
+java:S3008 "`Rename this field "DataEncryptionType_No" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÛ¸úÿÿÿÿ
+t
+java:S3008!"^Rename this field "PINEncryptionKeyIdx" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ı±Ó
+x
+java:S3008""]Rename this field "DataEncryptionType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸŞéœøÿÿÿÿ
+z
+java:S3008#"_Rename this field "DataEncryptionKeyIdx" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚òÙüÿÿÿÿ
+r
+java:S3008$"WRename this field "PINBlockMode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç• ÿÿÿÿÿ
+
+java:S3008%"dRename this field "TransactionProcessingMode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ –¦ûÿÿÿÿ
+n
+java:S3008&"XRename this field "CardEntryMode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ÿ‚®
+w
+java:S3008'"\Rename this field "FallBackAllowFlag" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î—ç½şÿÿÿÿ
+r
+java:S3008("WRename this field "PosEntryMode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ”ãıÿÿÿÿ
+z
+java:S3008)"_Rename this field "TerminalCapabilities" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿şßœüÿÿÿÿ
+y
+java:S3008*"^Rename this field "RequestPinBlockAuto" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±é•Ûüÿÿÿÿ
+t
+java:S3008+"YRename this field "OnlinePinInput" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Æ¬Šûÿÿÿÿ
+m
+java:S3008-"WRename this field "TerminalType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôäµ”
+
+java:S3008."iRename this field "AdditionalTerminalCapabilities" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êñ¦
+m
+java:S30084"RRename this field "user_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğğª‘üÿÿÿÿ
+V	java:S125	"<This block of commented-out lines of code should be removed.(›çœÿÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(´èŸ¥şÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(…˜ßşÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(é±¦øÿÿÿÿ
+Q	java:S1250"<This block of commented-out lines of code should be removed.(…¼œÜ

@@ -1,0 +1,10 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŸãÁ÷ùÿÿÿÿ
+–
+java:S1186,"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(í»¨]
+œ
+java:S11860"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(úêøüÿÿÿÿ
+N
+java:S1874"8Remove this use of "getChildPosition"; it is deprecated.(™Îú
+N
+java:S1874&"8Remove this use of "getChildPosition"; it is deprecated.(¿¢Ï

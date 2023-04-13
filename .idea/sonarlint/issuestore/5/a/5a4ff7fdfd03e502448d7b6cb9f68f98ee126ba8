@@ -1,0 +1,21 @@
+
+s
+java:S1192ˆ"WDefine a constant instead of duplicating this literal "Balance Enquiry Failed" 4 times.(äÇÒÿúÿÿÿÿ
+V	java:S125?"<This block of commented-out lines of code should be removed.(¼ıà©ÿÿÿÿÿ
+_
+java:S2147d"DCombine this catch with the one at line 98, which has the same body.(ĞĞ¹óúÿÿÿÿ
+S	java:S106\"9Replace this use of System.out or System.err by a logger.(ßÄ˜øÿÿÿÿ
+O
+java:S4719^"9Replace charset name argument with StandardCharsets.UTF_8(òŠ¡î
+N	java:S106m"9Replace this use of System.out or System.err by a logger.(°¥‘¦
+Q	java:S125r"<This block of commented-out lines of code should be removed.(‹ìŒá
+m
+java:S3776y"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(‹¿Àÿÿÿÿÿ
+W	java:S125‚"<This block of commented-out lines of code should be removed.(ÕºÖìÿÿÿÿÿ
+W	java:S125Œ"<This block of commented-out lines of code should be removed.(øâ·‰ÿÿÿÿÿ
+N
+java:S1874"2Remove this use of "JsonParser"; it is deprecated.(ªµ’ÿùÿÿÿÿ
+I
+java:S1874“"-Remove this use of "parse"; it is deprecated.(“šƒøÿÿÿÿ
+F
+java:S10681"+Remove this unused "session" private field.(ÔÂòáÿÿÿÿÿ

@@ -1,0 +1,39 @@
+
+Q
+java:S1141´"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141¸"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141»"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+8
+java:S1643‹"Use a StringBuilder instead.(°àš²øÿÿÿÿ
+3
+java:S1643Ï"Use a StringBuilder instead.(¼ï×È
+3
+java:S1643Ó"Use a StringBuilder instead.(¼ï×È
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›œÍÈ
+T
+java:S3034ç">Prevent "int" promotion by adding "& 0xff" to this expression.(¹„t
+`
+java:S2259¹"DA "NullPointerException" could be thrown; "socket" is nullable here.(à»¾òÿÿÿÿÿ
+i
+java:S2095µ"MUse try-with-resources or close this "BluetoothSocket" in a "finally" clause.(—èëùÿÿÿÿ
+v
+java:S1149‡"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(§Ê®—
+J
+java:S18747"/Remove this use of "execute"; it is deprecated.(¢Ú¬âúÿÿÿÿ
+H
+java:S1874£"1Remove this use of "AsyncTask"; it is deprecated.(ø¬é
+?	java:S108¶")Either remove or fill this block of code.(ï­£Ä
+T
+java:S3878¼"8Remove this array creation and simply pass the elements.(’Şğúÿÿÿÿ
+f
+java:S1874Ì"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(³§´ üÿÿÿÿ
+n
+java:S3776‚"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¦¯Üşÿÿÿÿ
+=
+java:S1168¡"&Return an empty array instead of null.(¥¹ï
+=
+java:S1168©"&Return an empty array instead of null.(¥¹ï
+B
+java:S1168à"&Return an empty array instead of null.(úüÑ©úÿÿÿÿ

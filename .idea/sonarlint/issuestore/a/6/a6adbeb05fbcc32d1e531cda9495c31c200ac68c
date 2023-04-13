@@ -1,0 +1,19 @@
+
+n
+java:S1192Ÿ"WDefine a constant instead of duplicating this literal "Cash Withdrawal Failed" 4 times.(ŞÅşÌ
+V	java:S125@"<This block of commented-out lines of code should be removed.(ë‹Èôûÿÿÿÿ
+O
+java:S4719]"9Replace charset name argument with StandardCharsets.UTF_8(ğÛûì
+Q	java:S125o"<This block of commented-out lines of code should be removed.(Âù…ñ
+R	java:S125Š"<This block of commented-out lines of code should be removed.(‹ìŒá
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(şÁ±
+W	java:S125˜"<This block of commented-out lines of code should be removed.(±È°Óÿÿÿÿÿ
+W	java:S125š"<This block of commented-out lines of code should be removed.(ÕºÖìÿÿÿÿÿ
+W	java:S125¢"<This block of commented-out lines of code should be removed.(ĞÂˆâüÿÿÿÿ
+N
+java:S1874§"2Remove this use of "JsonParser"; it is deprecated.(ªµ’ÿùÿÿÿÿ
+I
+java:S1874ª"-Remove this use of "parse"; it is deprecated.(“šƒøÿÿÿÿ
+F
+java:S10682"+Remove this unused "session" private field.(ÔÂòáÿÿÿÿÿ

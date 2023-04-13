@@ -1,0 +1,16 @@
+
+
+java:S1319*"dThe type of "list" should be an interface such as "List" rather than the implementation "ArrayList".(™Ù•±ûÿÿÿÿ
+y
+java:S14888"cImmediately return this expression instead of assigning it to the temporary variable "mViewHolder".(Œå®¿
+7
+java:S1170("!Make this final field static too.(ßî¿¯
+m	java:S116"SRename this field "date_txt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æï»éøÿÿÿÿ
+o	java:S116"URename this field "amount_txt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªüØüÿÿÿÿ
+j	java:S116"URename this field "remark_txt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“”†Ò
+K
+java:S1874F"0Remove this use of "getColor"; it is deprecated.(ú­ú§üÿÿÿÿ
+F
+java:S1874J"0Remove this use of "getColor"; it is deprecated.(Ì´ô
+J
+java:S1068("4Remove this unused "selectedPosition" private field.(ßî¿¯

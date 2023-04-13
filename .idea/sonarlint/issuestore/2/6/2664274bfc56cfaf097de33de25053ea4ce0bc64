@@ -1,0 +1,40 @@
+
+D
+java:S1604¦"(Make this anonymous inner class a lambda(²ü´­ÿÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(°áäİ
+Q	java:S125S"<This block of commented-out lines of code should be removed.(úŠÓî
+R
+java:S6353X"<Use concise character class syntax '\\d' instead of '[0-9]'.(ƒ¶Îş
+b
+java:S5998v"LRefactor this repetition that can lead to a stack overflow for large inputs.(ëÑÙí
+9
+java:S6396"#Remove this unnecessary quantifier.(†±Ú×
+R
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(†±Ú×
+?
+java:S6396‰"#Remove this unnecessary quantifier.(«Åå¯øÿÿÿÿ
+?
+java:S6396‰"#Remove this unnecessary quantifier.(«Åå¯øÿÿÿÿ
+?
+java:S6396Š"#Remove this unnecessary quantifier.(•°¼åıÿÿÿÿ
+S
+java:S6353ˆ"<Use concise character class syntax '\\d' instead of '[0-9]'.(ÓŒ†Â
+S
+java:S6353ˆ"<Use concise character class syntax '\\d' instead of '[0-9]'.(ÓŒ†Â
+R	java:S125£"<This block of commented-out lines of code should be removed.(Ï›¿‡
+W	java:S125ª"<This block of commented-out lines of code should be removed.(Àµ®ãüÿÿÿÿ
+W	java:S125®"<This block of commented-out lines of code should be removed.(ûŠ”¾ûÿÿÿÿ
+?	java:S108±")Either remove or fill this block of code.(”ı¾
+i	java:S100Ì"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶™ªúÿÿÿÿ
+i	java:S100Ú"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ÚĞûÿÿÿÿ
+U
+java:S4719é"9Replace charset name argument with StandardCharsets.UTF_8(ùêÎùÿÿÿÿ
+P
+java:S4719ô"9Replace charset name argument with StandardCharsets.UTF_8(˜Ì‹İ
+3
+java:S1116ô"Remove this empty statement.(˜Ì‹İ
+G
+java:S1128"1Remove this unused import 'android.app.Activity'.(‡ÊÍÆ
+H
+java:S1128"3Remove this unused import 'android.content.Intent'.(³ğ‹G

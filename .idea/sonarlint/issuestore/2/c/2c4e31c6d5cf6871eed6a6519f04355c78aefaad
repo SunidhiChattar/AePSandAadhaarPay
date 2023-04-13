@@ -1,0 +1,81 @@
+
+f
+java:S1192Õ"JDefine a constant instead of duplicating this literal "APPR_CODE" 4 times.(İë›×ûÿÿÿÿ
+^
+java:S1192Ë"GDefine a constant instead of duplicating this literal "RRN_NO" 4 times.(Ø´£ 
+`
+java:S1192Í"IDefine a constant instead of duplicating this literal "APP_NAME" 4 times.(¡Ñ«é
+^
+java:S1192Ï"GDefine a constant instead of duplicating this literal "AMOUNT" 4 times.(€¤–±
+_
+java:S1192Ó"HDefine a constant instead of duplicating this literal "INVOICE" 4 times.(´á¨‘
+j
+java:S1192Ê"SDefine a constant instead of duplicating this literal "TRANSACTION_AMOUNT" 4 times.(º¯şÌ
+e
+java:S1192Ì"NDefine a constant instead of duplicating this literal "RESPONSE_CODE" 4 times.(ê·ÇÍ
+`
+java:S1192Ô"JDefine a constant instead of duplicating this literal "CARD_TYPE" 4 times.(äëÛ)
+c
+java:S1192ç"LDefine a constant instead of duplicating this literal "CARD_NUMBER" 4 times.(íõ™‡
+c
+java:S1192Ò"GDefine a constant instead of duplicating this literal "TXN_ID" 4 times.(Âå®²ûÿÿÿÿ
+h
+java:S1192É"QDefine a constant instead of duplicating this literal "TRANSACTION_TYPE" 4 times.(·»±¨
+e
+java:S1192¶"NDefine a constant instead of duplicating this literal "errorResponse" 4 times.(µõŒä
+k
+java:S1192È"ODefine a constant instead of duplicating this literal "TRANSACTION_ID" 4 times.(ŸØ£…ûÿÿÿÿ
+>
+java:S1604R"(Make this anonymous inner class a lambda(ÃêçÖ
+C
+java:S1604Y"(Make this anonymous inner class a lambda(ê¢›ııÿÿÿÿ
+D
+java:S1604"(Make this anonymous inner class a lambda(úûó‚üÿÿÿÿ
+D
+java:S1604Ÿ"(Make this anonymous inner class a lambda(úûó‚üÿÿÿÿ
+D
+java:S1604¥"(Make this anonymous inner class a lambda(ò¥ªƒşÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ç“õà
+n	java:S1160"TRename this field "amount_et" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹İ˜ıúÿÿÿÿ
+l	java:S1162"RRename this field "back_iv" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û´Ëüÿÿÿÿ
+l
+java:S1845/"VRename field "transType" to prevent any misunderstanding/clash with field "transtype".(™şØ¹
+B
+java:S16590"'Declare "amount_et" on a separate line.(‹İ˜ıúÿÿÿÿ
+?
+java:S16591"$Declare "cancel" on a separate line.(¬Äğ¶øÿÿÿÿ
+B
+java:S16595"'Declare "longitude" on a separate line.(×¨èÙşÿÿÿÿ
+k
+java:S1450."VRemove the "spinner" field and declare it as a local variable in the relevant methods.(Ï‰¯
+m
+java:S3776;"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(¨Œşÿÿÿÿ
+Q	java:S125D"<This block of commented-out lines of code should be removed.(–Ó›Å
+V	java:S125e"<This block of commented-out lines of code should be removed.(¨ş›ìûÿÿÿÿ
+V	java:S125y"<This block of commented-out lines of code should be removed.(ú¢¿ùÿÿÿÿ
+`
+java:S4201¤"IRemove this unnecessary null check; "instanceof" returns false for nulls.(š³Ôş
+W	java:S125ª"<This block of commented-out lines of code should be removed.(¼í¡ñıÿÿÿÿ
+
+java:S1186»"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñ¢®Êøÿÿÿÿ
+r
+java:S3923´"[Remove this conditional structure or edit its code blocks so that they're not all the same.(÷¦¦Ò
+?	java:S108´")Either remove or fill this block of code.(÷¦¦Ò
+R	java:S125¶"<This block of commented-out lines of code should be removed.(èèä
+R	java:S125ê"<This block of commented-out lines of code should be removed.(ÓÄìú
+?	java:S108ñ")Either remove or fill this block of code.(”ı¾
+>	java:S108û")Either remove or fill this block of code.(ïõÙE
+W	java:S125˜"<This block of commented-out lines of code should be removed.(ûŠ”¾ûÿÿÿÿ
+?	java:S108œ")Either remove or fill this block of code.(”ı¾
+`
+java:S1874±"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(¹Î¾
+W	java:S125Ä"<This block of commented-out lines of code should be removed.(È±èÒıÿÿÿÿ
+W	java:S125ò"<This block of commented-out lines of code should be removed.(È±èÒıÿÿÿÿ
+?	java:S108Œ")Either remove or fill this block of code.(å¥‡
+?	java:S108®")Either remove or fill this block of code.(”ı¾
+F
+java:S1068-"+Remove this unused "pattern" private field.(†ºšúÿÿÿÿ
+C
+java:S1068/"-Remove this unused "transType" private field.(™şØ¹
+P
+java:S1144¢"4Remove this unused private "setSpinnerError" method.(˜Ñ®£úÿÿÿÿ

@@ -1,0 +1,23 @@
+
+d
+java:S1192J"NDefine a constant instead of duplicating this literal "errorResponse" 4 times.(µõŒä
+C
+java:S1604~"(Make this anonymous inner class a lambda(úûó‚üÿÿÿÿ
+D
+java:S1604„"(Make this anonymous inner class a lambda(ò¥ªƒşÿÿÿÿ
+D
+java:S1604¬"(Make this anonymous inner class a lambda(úûó‚üÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ç“õà
+B
+java:S1659"'Declare "longitude" on a separate line.(×¨èÙşÿÿÿÿ
+t
+java:S1450"YRemove the "gpsTracker" field and declare it as a local variable in the relevant methods.(ñç—úùÿÿÿÿ
+=	java:S108>")Either remove or fill this block of code.(ïõÙE
+_
+java:S1874E"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(¹Î¾
+V	java:S125U"<This block of commented-out lines of code should be removed.(È±èÒıÿÿÿÿ
+?	java:S108")Either remove or fill this block of code.(”ı¾
+W	java:S125¶"<This block of commented-out lines of code should be removed.(ûŠ”¾ûÿÿÿÿ
+?	java:S108º")Either remove or fill this block of code.(”ı¾
+R	java:S125ğ"<This block of commented-out lines of code should be removed.(ÓÄìú
+?	java:S108÷")Either remove or fill this block of code.(”ı¾

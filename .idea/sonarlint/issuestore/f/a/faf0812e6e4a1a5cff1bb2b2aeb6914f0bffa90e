@@ -1,0 +1,6 @@
+
+f	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì’±Ó
+l	java:S116"WRename this field "bank_pincode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²˜Ä”
+\	java:S107Q"BConstructor has 10 parameters, which is greater than 7 authorized.(³Õšœÿÿÿÿÿ
+c	java:S100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãàˆæ
+c	java:S100+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì’±Ó

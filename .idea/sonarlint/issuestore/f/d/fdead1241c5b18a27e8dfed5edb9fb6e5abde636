@@ -1,0 +1,12 @@
+
+
+java:S1319"zThe type of "FetchAccountResponseModels" should be an interface such as "List" rather than the implementation "ArrayList".(Êõó
+e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êõó
+e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êõó
+ˆ
+java:S1488%"mImmediately return this expression instead of assigning it to the temporary variable "accountListViewHolder".( šùÙøÿÿÿÿ
+s	java:S116"^Rename this field "AccountListActivity" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›·Âß
+Q	java:S125$"<This block of commented-out lines of code should be removed.(ò¢…Ò
+V	java:S1254"<This block of commented-out lines of code should be removed.(ß±†ÿÿÿÿÿ
+]
+java:S1659:"GDeclare "tvBankName" and all following declarations on a separate line.(êû™§

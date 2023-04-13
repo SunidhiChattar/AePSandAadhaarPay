@@ -1,0 +1,19 @@
+
+^
+java:S1192I"HDefine a constant instead of duplicating this literal "message" 4 times.(¾ª¨¤
+r	java:S116"^Rename this field "FCMNotificationData" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü°Ä+
+Q	java:S125"<This block of commented-out lines of code should be removed.(†ÈÓÆ
+>
+java:S1185""(Remove this method to simply inherit it.(À»•ø
+t
+java:S2142P"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(åÅç“
+T
+java:S1854’"8Remove this useless assignment to local variable "txId".(‘±¼ûÿÿÿÿ
+V	java:S125p"<This block of commented-out lines of code should be removed.(Ôë„Áıÿÿÿÿ
+V	java:S125r"<This block of commented-out lines of code should be removed.(”Şºğúÿÿÿÿ
+V	java:S125t"<This block of commented-out lines of code should be removed.(ğ¥Êóúÿÿÿÿ
+V	java:S125v"<This block of commented-out lines of code should be removed.(µùˆøÿÿÿÿ
+P	java:S125x"<This block of commented-out lines of code should be removed.(Û®§t
+V	java:S125z"<This block of commented-out lines of code should be removed.(İ±­¥şÿÿÿÿ
+E
+java:S1481’")Remove this unused "txId" local variable.(‘±¼ûÿÿÿÿ

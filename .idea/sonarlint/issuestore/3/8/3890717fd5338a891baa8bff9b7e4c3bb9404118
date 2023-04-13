@@ -1,0 +1,30 @@
+
+j
+java:S1104"TMake commType a static final constant or non-public and provide accessors if needed.(È®–û
+q
+java:S11045"VMake serverAddr a static final constant or non-public and provide accessors if needed.(¨¶½¤ıÿÿÿÿ
+q
+java:S11048"VMake serverPort a static final constant or non-public and provide accessors if needed.(õùŒùÿÿÿÿ
+s
+java:S1104:"XMake bluetoothMac a static final constant or non-public and provide accessors if needed.(Æîıÿÿÿÿ
+u
+java:S1104;"ZMake receiveTimeout a static final constant or non-public and provide accessors if needed.(¯î•¶ûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(şÕŠ¤úÿÿÿÿ
+\
+java:S2259"FA "NullPointerException" could be thrown; "settings" is nullable here.(€øÚ…
+\
+java:S2259-"FA "NullPointerException" could be thrown; "settings" is nullable here.(ƒ¨€œ
+i
+java:S3008"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é°ššúÿÿÿÿ
+J
+java:S2209"5Change this instance-reference to a static reference.(Æ²š,
+J
+java:S2209*"5Change this instance-reference to a static reference.(Æ²š,
+V	java:S1254"<This block of commented-out lines of code should be removed.(€ö„’şÿÿÿÿ
+Q	java:S1257"<This block of commented-out lines of code should be removed.(Ëå×²
+J
+java:S2209R"5Change this instance-reference to a static reference.(Æ²š,
+Q	java:S125V"<This block of commented-out lines of code should be removed.(ìå»Ì
+O	java:S125`"<This block of commented-out lines of code should be removed.(ğİ?
+H
+java:S1068>"2Remove this unused "connectTimeout" private field.(¹åºÈ

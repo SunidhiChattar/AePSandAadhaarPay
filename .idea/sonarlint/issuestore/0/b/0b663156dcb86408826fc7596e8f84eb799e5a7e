@@ -1,0 +1,11 @@
+
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(Ã‰®‘ùÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.( öØþÿÿÿÿ
+V	java:S125)"<This block of commented-out lines of code should be removed.(±È°Óÿÿÿÿÿ
+V	java:S125+"<This block of commented-out lines of code should be removed.(ÕºÖìÿÿÿÿÿ
+M
+java:S18745"2Remove this use of "JsonParser"; it is deprecated.(ªµ’ÿùÿÿÿÿ
+H
+java:S18748"-Remove this use of "parse"; it is deprecated.(“šƒøÿÿÿÿ
+V	java:S125O"<This block of commented-out lines of code should be removed.(–•“¢ùÿÿÿÿ

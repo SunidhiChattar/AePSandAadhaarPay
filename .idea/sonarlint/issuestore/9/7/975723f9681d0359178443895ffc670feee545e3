@@ -1,0 +1,10 @@
+
+Q	java:S125i"<This block of commented-out lines of code should be removed.(ë•ËÃ
+E
+java:S2093B"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+>
+java:S1905«"'Remove this unnecessary cast to "long".(²Á¬
+Q
+java:S1854Í":Remove this useless assignment to local variable "offset".(´Áå¡
+T
+java:S1068"9Remove this unused "REFERENCE_TIME_OFFSET" private field.(Ÿğ×ÿÿÿÿÿ

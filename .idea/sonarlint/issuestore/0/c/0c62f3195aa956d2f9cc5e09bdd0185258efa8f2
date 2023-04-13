@@ -1,0 +1,325 @@
+
+F
+java:S1066Õ"/Merge this if statement with the enclosing one.(½‹ôñ
+K
+java:S1066ú"/Merge this if statement with the enclosing one.(ÿ¸áªùÿÿÿÿ
+F
+java:S1066€"/Merge this if statement with the enclosing one.(àÿÕÜ
+l	java:S117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—–©´øÿÿÿÿ
+g	java:S117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã³Ë
+l	java:S117Ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ó­Ÿùÿÿÿÿ
+g	java:S117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÏºÌ
+l	java:S117²"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤êêÄüÿÿÿÿ
+j
+java:S1104"TMake ESC_font a static final constant or non-public and provide accessors if needed.(º„†Í
+w
+java:S1104 "\Make ESC_alignmenText a static final constant or non-public and provide accessors if needed.( °€Ãøÿÿÿÿ
+t
+java:S11042"^Make ESC_dollors_nL_nHp a static final constant or non-public and provide accessors if needed.(ÍÓÎ–
+s
+java:S11043"]Make ESC_dollors_nL_nH a static final constant or non-public and provide accessors if needed.(êƒş
+m
+java:S11044"RMake GS_w_n a static final constant or non-public and provide accessors if needed.(÷±ÍÅÿÿÿÿÿ
+m
+java:S11045"RMake GS_H_n a static final constant or non-public and provide accessors if needed.(Õ„áºÿÿÿÿÿ
+h
+java:S11046"RMake GS_f_n a static final constant or non-public and provide accessors if needed.(¸ÿŒÕ
+h
+java:S11047"RMake GS_h_n a static final constant or non-public and provide accessors if needed.(ºÑ¬
+k
+java:S11048"UMake GS_k_m_n_ a static final constant or non-public and provide accessors if needed.(í’Òı
+{
+java:S11049"`Make GS_exclamationmark_n a static final constant or non-public and provide accessors if needed.(õÜ†Ñÿÿÿÿÿ
+i
+java:S1104:"SMake ESC_M_n a static final constant or non-public and provide accessors if needed.(ºµîÒ
+m
+java:S1104;"RMake GS_E_n a static final constant or non-public and provide accessors if needed.(»¯¦øùÿÿÿÿ
+l
+java:S1104<"VMake ESC_line_n a static final constant or non-public and provide accessors if needed.(È×î›
+u
+java:S1104="ZMake ESC_lbracket_n a static final constant or non-public and provide accessors if needed.(àèïäûÿÿÿÿ
+m
+java:S1104>"RMake GS_B_n a static final constant or non-public and provide accessors if needed.(ÇÿÛãøÿÿÿÿ
+i
+java:S1104?"SMake ESC_V_n a static final constant or non-public and provide accessors if needed.(€Ä¢Š
+p
+java:S1104@"UMake FS_line_n a static final constant or non-public and provide accessors if needed.(ÏµÏÕÿÿÿÿÿ
+h
+java:S1104A"SMake ESC_a_n a static final constant or non-public and provide accessors if needed.(¡€ \
+n
+java:S1104B"SMake ESC_3_n a static final constant or non-public and provide accessors if needed.(úñÿıÿÿÿÿ
+j
+java:S1104C"TMake ESC_SP_n a static final constant or non-public and provide accessors if needed.(¶°ÑÀ
+l
+java:S1104D"VMake GS_W_nL_nH a static final constant or non-public and provide accessors if needed.(í¹óÔ
+p
+java:S1104E"[Make ESC_font_normal a static final constant or non-public and provide accessors if needed.(ã“¤H
+v
+java:S1104H"[Make ESC_FONT_NORMAL a static final constant or non-public and provide accessors if needed.(ğ±²ûÿÿÿÿ
+r
+java:S1104I"\Make ESC_FONT_CALIBRI a static final constant or non-public and provide accessors if needed.(üòÈˆ
+v
+java:S1104J"[Make ESC_FONT_TAHOMA a static final constant or non-public and provide accessors if needed.(ÜŒÉüÿÿÿÿ
+r
+java:S1104K"\Make ESC_FONT_VERDANA a static final constant or non-public and provide accessors if needed.(¦óô—
+o
+java:S1104L"TMake ESC_LEFT a static final constant or non-public and provide accessors if needed.(•¤¢šıÿÿÿÿ
+p
+java:S1104M"UMake ESC_RIGHT a static final constant or non-public and provide accessors if needed.(Å×ßûÿÿÿÿ
+l
+java:S1104N"VMake ESC_CENTER a static final constant or non-public and provide accessors if needed.(ÊÿØÃ
+w
+java:S1104O"\Make ESC_NEGATIVETEXT a static final constant or non-public and provide accessors if needed.(§Ÿæ³ıÿÿÿÿ
+s
+java:S1104P"]Make ESC_DOUBLE_HIEGHT a static final constant or non-public and provide accessors if needed.(¤ éÈ
+w
+java:S1104Q"\Make ESC_DOUBLE_WIDTH a static final constant or non-public and provide accessors if needed.(±ããÌúÿÿÿÿ
+{
+java:S1104R"`Make ESC_DOUBLE_UNDERLINE a static final constant or non-public and provide accessors if needed.(¼Ï‚“ùÿÿÿÿ
+x
+java:S1104S"bMake ESC_Initialize_printer a static final constant or non-public and provide accessors if needed.(„
+t
+java:S1104Z"^Make ESC_HORIZANTAL_TAB a static final constant or non-public and provide accessors if needed.(ÁÆä¿
+p
+java:S1104\"ZMake ESC_BOLD_ADDED a static final constant or non-public and provide accessors if needed.(°’÷”
+t
+java:S1104]"^Make ESC_FEED_PAPERLINE a static final constant or non-public and provide accessors if needed.(­Œñ½
+|
+java:S1104^"aMake ESC_FEED_MINIMUM_UNIT a static final constant or non-public and provide accessors if needed.(ô‚³÷üÿÿÿÿ
+j
+java:S1104`"TMake ESC_BOLD a static final constant or non-public and provide accessors if needed.(½ã§‚
+r
+java:S1104a"\Make ESC_FEED_AUTOCUT a static final constant or non-public and provide accessors if needed.(Óåñ†
+q
+java:S1104b"[Make ESC_PARTIAL_CUT a static final constant or non-public and provide accessors if needed.(â †
+q
+java:S1104c"[Make ESC_LEFT_MARGIN a static final constant or non-public and provide accessors if needed.(Ö´äà
+y
+java:S1104e"cMake ESC_CHANGECHARACTERFONT a static final constant or non-public and provide accessors if needed.(Ï¶ä®
+{
+java:S1104f"eMake ESC_Select_character_size a static final constant or non-public and provide accessors if needed.(ãÜşÂ
+u
+java:S1104g"_Make ESC_IMAGE_ALIGNMENT a static final constant or non-public and provide accessors if needed.(¾­Óõ
+t
+java:S1104Î"]Make ESC_NEGATIVE_TEXT a static final constant or non-public and provide accessors if needed.(ßÈ¦Û
+u
+java:S1104Ú"^Make ESC_font_highlight a static final constant or non-public and provide accessors if needed.(èòÄÛ
+u
+java:S1104à"YMake ESC_font_bold a static final constant or non-public and provide accessors if needed.(ÏÈ™²úÿÿÿÿ
+e
+java:S1104î"NMake LF a static final constant or non-public and provide accessors if needed.(ÀÜè¼
+e
+java:S1104ï"NMake CR a static final constant or non-public and provide accessors if needed.(²›¬ç
+c
+java:S2184Ô"GCast one of the operands of this multiplication operation to a "float".(ïÈõøÿÿÿÿÿ
+z
+java:S4165"dRemove this useless assignment; "socket" already holds the assigned value along all execution paths.(¥—¶™
+t	java:S115#"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(èÎŒ¼ıÿÿÿÿ
+o	java:S115$"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Öªİ
+u	java:S115Å"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ñ³£òÿÿÿÿÿ
+h	java:S116"SRename this field "ESC_font" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º„†Í
+u	java:S116 "[Rename this field "ESC_alignmenText" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( °€Ãøÿÿÿÿ
+r	java:S1162"]Rename this field "ESC_dollors_nL_nHp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÓÎ–
+q	java:S1163"\Rename this field "ESC_dollors_nL_nH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êƒş
+k	java:S1164"QRename this field "GS_w_n" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷±ÍÅÿÿÿÿÿ
+k	java:S1165"QRename this field "GS_H_n" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ„áºÿÿÿÿÿ
+f	java:S1166"QRename this field "GS_f_n" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ÿŒÕ
+f	java:S1167"QRename this field "GS_h_n" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÑ¬
+i	java:S1168"TRename this field "GS_k_m_n_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í’Òı
+y	java:S1169"_Rename this field "GS_exclamationmark_n" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÜ†Ñÿÿÿÿÿ
+g	java:S116:"RRename this field "ESC_M_n" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºµîÒ
+k	java:S116;"QRename this field "GS_E_n" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»¯¦øùÿÿÿÿ
+j	java:S116<"URename this field "ESC_line_n" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È×î›
+s	java:S116="YRename this field "ESC_lbracket_n" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àèïäûÿÿÿÿ
+k	java:S116>"QRename this field "GS_B_n" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÿÛãøÿÿÿÿ
+g	java:S116?"RRename this field "ESC_V_n" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€Ä¢Š
+n	java:S116@"TRename this field "FS_line_n" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏµÏÕÿÿÿÿÿ
+f	java:S116A"RRename this field "ESC_a_n" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡€ \
+l	java:S116B"RRename this field "ESC_3_n" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úñÿıÿÿÿÿ
+h	java:S116C"SRename this field "ESC_SP_n" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶°ÑÀ
+j	java:S116D"URename this field "GS_W_nL_nH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í¹óÔ
+n	java:S116E"ZRename this field "ESC_font_normal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã“¤H
+t	java:S116H"ZRename this field "ESC_FONT_NORMAL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ±²ûÿÿÿÿ
+p	java:S116I"[Rename this field "ESC_FONT_CALIBRI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üòÈˆ
+t	java:S116J"ZRename this field "ESC_FONT_TAHOMA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜŒÉüÿÿÿÿ
+p	java:S116K"[Rename this field "ESC_FONT_VERDANA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦óô—
+m	java:S116L"SRename this field "ESC_LEFT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•¤¢šıÿÿÿÿ
+n	java:S116M"TRename this field "ESC_RIGHT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å×ßûÿÿÿÿ
+j	java:S116N"URename this field "ESC_CENTER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÿØÃ
+u	java:S116O"[Rename this field "ESC_NEGATIVETEXT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Ÿæ³ıÿÿÿÿ
+q	java:S116P"\Rename this field "ESC_DOUBLE_HIEGHT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ éÈ
+u	java:S116Q"[Rename this field "ESC_DOUBLE_WIDTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ããÌúÿÿÿÿ
+y	java:S116R"_Rename this field "ESC_DOUBLE_UNDERLINE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Ï‚“ùÿÿÿÿ
+v	java:S116S"aRename this field "ESC_Initialize_printer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„
+r	java:S116Z"]Rename this field "ESC_HORIZANTAL_TAB" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÆä¿
+n	java:S116\"YRename this field "ESC_BOLD_ADDED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°’÷”
+r	java:S116]"]Rename this field "ESC_FEED_PAPERLINE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­Œñ½
+z	java:S116^"`Rename this field "ESC_FEED_MINIMUM_UNIT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô‚³÷üÿÿÿÿ
+h	java:S116`"SRename this field "ESC_BOLD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ã§‚
+p	java:S116a"[Rename this field "ESC_FEED_AUTOCUT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óåñ†
+o	java:S116b"ZRename this field "ESC_PARTIAL_CUT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â †
+o	java:S116c"ZRename this field "ESC_LEFT_MARGIN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö´äà
+w	java:S116e"bRename this field "ESC_CHANGECHARACTERFONT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï¶ä®
+y	java:S116f"dRename this field "ESC_Select_character_size" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÜşÂ
+s	java:S116g"^Rename this field "ESC_IMAGE_ALIGNMENT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾­Óõ
+r	java:S116Î"\Rename this field "ESC_NEGATIVE_TEXT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÈ¦Û
+s	java:S116Ú"]Rename this field "ESC_font_highlight" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èòÄÛ
+s	java:S116à"XRename this field "ESC_font_bold" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÈ™²úÿÿÿÿ
+c	java:S116î"MRename this field "LF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÜè¼
+c	java:S116ï"MRename this field "CR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²›¬ç
+r	java:S116«"\Rename this field "BARCODE_TYPE_UPCA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú¥Ûğ
+s	java:S116¬"]Rename this field "BARCODE_TYPE_EAN13" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ï×Ò
+w	java:S116­"\Rename this field "BARCODE_TYPE_EAN8" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê¨â‚ûÿÿÿÿ
+t	java:S116®"^Rename this field "BARCODE_TYPE_CODE39" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åºè
+u	java:S116¯"_Rename this field "BARCODE_TYPE_CODE128" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡¦©¢
+o	java:S116Ê"TRename this field "m_Context" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸áÌÚúÿÿÿÿ
+8
+java:S1170«"!Make this final field static too.(ú¥Ûğ
+8
+java:S1170¬"!Make this final field static too.(—ï×Ò
+=
+java:S1170­"!Make this final field static too.(ê¨â‚ûÿÿÿÿ
+8
+java:S1170®"!Make this final field static too.(Åºè
+8
+java:S1170¯"!Make this final field static too.(‡¦©¢
+f
+java:S18457"PRename field "GS_h_n" to prevent any misunderstanding/clash with field "GS_H_n".(ºÑ¬
+}
+java:S1845H"bRename field "ESC_FONT_NORMAL" to prevent any misunderstanding/clash with field "ESC_font_normal".(ğ±²ûÿÿÿÿ
+P	java:S125"<This block of commented-out lines of code should be removed.(®·—F
+E
+java:S1656"/Remove or correct this useless self-assignment.(¥—¶™
+V	java:S125["<This block of commented-out lines of code should be removed.(·Ò£ëüÿÿÿÿ
+V	java:S125d"<This block of commented-out lines of code should be removed.(¶İ¾ûÿÿÿÿ
+h	java:S100i"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ôòğ”ıÿÿÿÿ
+c	java:S100m"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ ¿
+h	java:S100q"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ¬œ×ûÿÿÿÿ
+h	java:S100u"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á·¤áûÿÿÿÿ
+c	java:S100y"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ€Ó†
+h	java:S100}"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë’¥­şÿÿÿÿ
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“œÌ÷ÿÿÿÿÿ
+d	java:S100…"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®æãµ
+d	java:S100‰"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·øè¬
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê¿Ô£ùÿÿÿÿ
+i	java:S100’"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™üéóıÿÿÿÿ
+i	java:S100—"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÍŠ®üÿÿÿÿ
+i	java:S100œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚©Œãıÿÿÿÿ
+c	java:S100¡"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ƒâI
+i	java:S100¦"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì¾×³ÿÿÿÿÿ
+i	java:S100«"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êñ¹¦şÿÿÿÿ
+i	java:S100°"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï«Âäùÿÿÿÿ
+d	java:S100µ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ÎÖ
+i	java:S100º"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô—ôÎıÿÿÿÿ
+d	java:S100¿"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ÍšÓ
+d	java:S100Ä"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’™¾Ù
+i	java:S100É"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ûó¬úÿÿÿÿ
+i	java:S100Ï"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†£©üÿÿÿÿ
+d	java:S100Ô"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÓ°Ä
+i	java:S100Û"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»á…†úÿÿÿÿ
+d	java:S100á"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Éê¸ó
+d	java:S100æ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ©üİ
+i	java:S100ğ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷¥€òúÿÿÿÿ
+d	java:S100õ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â‰¶×
+0
+java:S2178ö"Correct this "|" to "||".(Ø’¯ô
+i	java:S100ı"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ³‹‹ÿÿÿÿÿ
+0
+java:S2178ş"Correct this "|" to "||".(¥®Í
+d	java:S100ˆ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÀ®¢
+d	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÀÓ
+}
+java:S2178‘"fCorrect this "|" to "||" and extract the right operand to a variable if it should always be evaluated.(®Õ†
+0
+java:S2178‘"Correct this "|" to "||".(®Õ†
+0
+java:S2178‘"Correct this "|" to "||".(®Õ†
+0
+java:S2178‘"Correct this "|" to "||".(®Õ†
+0
+java:S2178‘"Correct this "|" to "||".(®Õ†
+0
+java:S2178‘"Correct this "|" to "||".(®Õ†
+0
+java:S2178‘"Correct this "|" to "||".(®Õ†
+0
+java:S2178‘"Correct this "|" to "||".(®Õ†
+D
+java:S1481£"-Remove this unused "pbString" local variable.(Ö–Æˆ
+F
+java:S1197Ç"*Move the array designators [] to the type.(âˆÂÊıÿÿÿÿ
+R	java:S125µ"<This block of commented-out lines of code should be removed.(¯Ø¼å
+F
+java:S1197È"*Move the array designators [] to the type.(Âÿÿÿÿÿ
+W	java:S125É"<This block of commented-out lines of code should be removed.(¿Ïşÿÿÿÿ
+F
+java:S1197Ì"*Move the array designators [] to the type.(À»’Õøÿÿÿÿ
+W	java:S125Ï"<This block of commented-out lines of code should be removed.(óØØÈıÿÿÿÿ
+I
+java:S1172İ"-Remove this unused method parameter "height".(İõ‘¢ûÿÿÿÿ
+R	java:S125ğ"<This block of commented-out lines of code should be removed.(¢¥ãÖ
+R	java:S125†"<This block of commented-out lines of code should be removed.(¢¥ãÖ
+R	java:S125–"<This block of commented-out lines of code should be removed.(¢¥ãÖ
+R	java:S125¦"<This block of commented-out lines of code should be removed.(¢¥ãÖ
+=
+java:S1168°"&Return an empty array instead of null.(¥¹ï
+R	java:S125Â"<This block of commented-out lines of code should be removed.(¯Òşù
+R	java:S125ö"<This block of commented-out lines of code should be removed.(¯Ø¼å
+W	java:S125Š"<This block of commented-out lines of code should be removed.(óØØÈıÿÿÿÿ
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§›»òşÿÿÿÿ
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 94 to the 15 allowed.(§›»òşÿÿÿÿ
+Y
+java:S1854 "=Remove this useless assignment to local variable "matraFlag".(ºÛ”ìüÿÿÿÿ
+X
+java:S1659“"ADeclare "ctr1" and all following declarations on a separate line.(´ˆŠÖ
+_
+java:S1659”"HDeclare "nextCtrFlag" and all following declarations on a separate line.(ûÏºÌ
+R	java:S125•"<This block of commented-out lines of code should be removed.(©çÛâ
+R	java:S125™"<This block of commented-out lines of code should be removed.(ôÉ½Ä
+W	java:S125Ş"<This block of commented-out lines of code should be removed.(„òÈ¢úÿÿÿÿ
+Q	java:S125ã"<This block of commented-out lines of code should be removed.(êĞ¯Y
+W	java:S125ç"<This block of commented-out lines of code should be removed.(„òÈ¢úÿÿÿÿ
+Q	java:S125ì"<This block of commented-out lines of code should be removed.(êĞ¯Y
+W	java:S125ğ"<This block of commented-out lines of code should be removed.(„òÈ¢úÿÿÿÿ
+R	java:S125Ñ"<This block of commented-out lines of code should be removed.(ŸÜ‚®
+W	java:S125×"<This block of commented-out lines of code should be removed.(ï¢ŞŞøÿÿÿÿ
+R	java:S125ñ"<This block of commented-out lines of code should be removed.(Ä„ªª
+Q	java:S125ô"<This block of commented-out lines of code should be removed.(â†ü
+O	java:S106»"9Replace this use of System.out or System.err by a logger.(´Çº
+3
+java:S1116¿"Remove this empty statement.(Ñ³Šâ
+8
+java:S1116Â"Remove this empty statement.(ıÀœ·ùÿÿÿÿ
+W	java:S125Ç"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ
+I
+java:S1172ê"-Remove this unused method parameter "height".(½”Êâùÿÿÿÿ
+R	java:S125ô"<This block of commented-out lines of code should be removed.(¢¥ãÖ
+R	java:S125ˆ"<This block of commented-out lines of code should be removed.(¢¥ãÖ
+R	java:S125˜"<This block of commented-out lines of code should be removed.(¢¥ãÖ
+R	java:S125©"<This block of commented-out lines of code should be removed.(¢¥ãÖ
+=
+java:S1168³"&Return an empty array instead of null.(¥¹ï
+S
+java:S1854Ó"=Remove this useless assignment to local variable "newHeight".(©î¯-
+S
+java:S1854Ò"<Remove this useless assignment to local variable "newWidth".(ß¤å
+B
+java:S1905Ô"&Remove this unnecessary cast to "int".(ïÈõøÿÿÿÿÿ
+B
+java:S2185Ô"&Remove this silly call to "Math.round"(ïÈõøÿÿÿÿÿ
+B
+java:S1905Ş"&Remove this unnecessary cast to "int".(êâ’Ãüÿÿÿÿ
+=
+java:S1905ï"&Remove this unnecessary cast to "int".(õª«ñ
+Q	java:S125‚"<This block of commented-out lines of code should be removed.(İºÉo
+G
+java:S1068+"1Remove this unused "NEGATIVE_TEXT" private field.(£ÅÀ¦
+O
+java:S1068ß"3Remove this unused "CARRIAGE_RETURN" private field.(©¾çªÿÿÿÿÿ
+O
+java:S1068¯"8Remove this unused "BARCODE_TYPE_CODE128" private field.(‡¦©¢
+Q
+java:S1144¶"5Remove this unused private "getBarcodeHeight" method.(ò™âùÿÿÿÿ
+F
+java:S1144€"/Remove this unused private "deleteFile" method.(´­šˆ

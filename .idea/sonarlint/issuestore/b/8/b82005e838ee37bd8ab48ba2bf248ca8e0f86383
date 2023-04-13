@@ -1,0 +1,216 @@
+
+E
+java:S3740u"/Provide the parametrized type for this generic.(¢•áë
+b
+java:S1192¹"FDefine a constant instead of duplicating this literal "SUBHA" 4 times.(¶ø¾Ïıÿÿÿÿ
+i
+java:S1192¦"RDefine a constant instead of duplicating this literal "transactionStatus" 3 times.(ò¶÷Í
+F
+java:S1066Ú"/Merge this if statement with the enclosing one.(Š¿ôá
+F
+java:S1066İ"/Merge this if statement with the enclosing one.(’ˆôå
+l	java:S117ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â´ÌŠúÿÿÿÿ
+l	java:S117÷"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•¢‹şÿÿÿÿ
+g	java:S117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù–Ìô
+g	java:S117²"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³»øŸ
+l	java:S117à"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êĞúÓûÿÿÿÿ
+l	java:S117ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô¬¼Áşÿÿÿÿ
+g	java:S117Î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º¯šì
+?
+java:S1604Î"(Make this anonymous inner class a lambda(°§ÎØ
+?
+java:S1604è"(Make this anonymous inner class a lambda(»ÇÚ¹
+?
+java:S1604‡"(Make this anonymous inner class a lambda(™á¸
+D
+java:S1604›"(Make this anonymous inner class a lambda(£š‘‡şÿÿÿÿ
+D
+java:S1604è"(Make this anonymous inner class a lambda(êÈúªÿÿÿÿÿ
+D
+java:S1604ò"(Make this anonymous inner class a lambda(åŠ¬·ÿÿÿÿÿ
+D
+java:S1604ì"(Make this anonymous inner class a lambda(ìé‚›ıÿÿÿÿ
+?
+java:S1604ı"(Make this anonymous inner class a lambda(»ç€à
+D
+java:S1604§"(Make this anonymous inner class a lambda(Äë½½şÿÿÿÿ
+>
+java:S1604Â"(Make this anonymous inner class a lambda(µ¶é)
+q
+java:S1104`"[Make et_aadharNumber a static final constant or non-public and provide accessors if needed.(èµçò
+q
+java:S1104`"[Make et_mobileNumber a static final constant or non-public and provide accessors if needed.(èµçò
+p
+java:S1104`"ZMake et_bankSpinner a static final constant or non-public and provide accessors if needed.(èµçò
+r
+java:S1104`"\Make et_enteredAmount a static final constant or non-public and provide accessors if needed.(èµçò
+n
+java:S1104`"XMake et_virtualID a static final constant or non-public and provide accessors if needed.(èµçò
+l
+java:S1104a"VMake iv_aadhaar a static final constant or non-public and provide accessors if needed.(Ö©Á¬
+n
+java:S1104a"XMake iv_virtualID a static final constant or non-public and provide accessors if needed.(Ö©Á¬
+t
+java:S1104a"^Make iv_fingerprint_BIG a static final constant or non-public and provide accessors if needed.(Ö©Á¬
+r
+java:S1104b"\Make tv_underAdhaarIV a static final constant or non-public and provide accessors if needed.(öËÎ
+s
+java:S1104b"]Make tv_underVartualID a static final constant or non-public and provide accessors if needed.(öËÎ
+m
+java:S1104b"WMake depositNote a static final constant or non-public and provide accessors if needed.(öËÎ
+|
+java:S1104b"fMake fingerprintStrengthDeposit a static final constant or non-public and provide accessors if needed.(öËÎ
+k
+java:S1104c"VMake btn_submit a static final constant or non-public and provide accessors if needed.(ÿÓŸk
+r
+java:S1104d"\Make aadharNumberMain a static final constant or non-public and provide accessors if needed.(—Ã¢«
+p
+java:S1104e"UMake bankName_ a static final constant or non-public and provide accessors if needed.(¹´˜—şÿÿÿÿ
+t
+java:S1104f"YMake bankIINNumber a static final constant or non-public and provide accessors if needed.(Ë¿îşÿÿÿÿ
+?
+java:S5411ø"(Use a primitive boolean expression here.(¬›­
+D
+java:S5411…"(Use a primitive boolean expression here.(Øğ–úÿÿÿÿ
+D
+java:S5411±"(Use a primitive boolean expression here.(©ò ©ÿÿÿÿÿ
+D
+java:S5411Í"(Use a primitive boolean expression here.(Øğ–úÿÿÿÿ
+?
+java:S5411¶"(Use a primitive boolean expression here.(¬›­
+D
+java:S5411¼"(Use a primitive boolean expression here.(©ò ©ÿÿÿÿÿ
+g
+java:S2259û"KA "NullPointerException" could be thrown; "AadhaarNumber" is nullable here.(¨ÒãŠÿÿÿÿÿ
+t	java:S115_"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(®Íşÿÿÿÿ
+o	java:S116`"ZRename this field "et_aadharNumber" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èµçò
+o	java:S116`"ZRename this field "et_mobileNumber" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èµçò
+n	java:S116`"YRename this field "et_bankSpinner" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èµçò
+p	java:S116`"[Rename this field "et_enteredAmount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èµçò
+l	java:S116`"WRename this field "et_virtualID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èµçò
+j	java:S116a"URename this field "iv_aadhaar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö©Á¬
+l	java:S116a"WRename this field "iv_virtualID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö©Á¬
+r	java:S116a"]Rename this field "iv_fingerprint_BIG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö©Á¬
+p	java:S116b"[Rename this field "tv_underAdhaarIV" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öËÎ
+q	java:S116b"\Rename this field "tv_underVartualID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öËÎ
+i	java:S116c"URename this field "btn_submit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÓŸk
+n	java:S116e"TRename this field "bankName_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹´˜—şÿÿÿÿ
+
+java:S1186¨	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ä­³·úÿÿÿÿ
+˜
+java:S1186­	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŸÑ¥À
+b
+java:S1659`"LDeclare "et_mobileNumber" and all following declarations on a separate line.(èµçò
+_
+java:S1659a"IDeclare "iv_virtualID" and all following declarations on a separate line.(Ö©Á¬
+d
+java:S1659b"NDeclare "tv_underVartualID" and all following declarations on a separate line.(öËÎ
+`
+java:S1124^"EReorder the modifiers to comply with the Java Language Specification.(ÄÜ•¸øÿÿÿÿ
+L
+java:S1874g"6Remove this use of "ProgressDialog"; it is deprecated.(§Ù½²
+n
+java:S3776"SRefactor this method to reduce its Cognitive Complexity from 136 to the 15 allowed.(¨Œşÿÿÿÿ
+M
+java:S1874„"6Remove this use of "ProgressDialog"; it is deprecated.(¾èÅÚ
+L
+java:S1874í"0Remove this use of "getColor"; it is deprecated.(·ßûÿÿÿÿ
+W	java:S125’"<This block of commented-out lines of code should be removed.(ñ±ƒÑúÿÿÿÿ
+d
+java:S5361«"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Í¥Ú•şÿÿÿÿ
+W	java:S125²"<This block of commented-out lines of code should be removed.(ñ±ƒÑúÿÿÿÿ
+˜
+java:S1186Ç"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«û³±
+
+java:S1186Ë"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ê¥¾àûÿÿÿÿ
+>
+java:S1125Ú"'Remove the unnecessary boolean literal.(Š¿ôá
+r
+java:S3923Û"[Remove this conditional structure or edit its code blocks so that they're not all the same.(îÅÌÊ
+˜
+java:S1186ó"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«û³±
+
+java:S1186÷"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ê¥¾àûÿÿÿÿ
+L
+java:S1874"0Remove this use of "getColor"; it is deprecated.(·ßûÿÿÿÿ
+R	java:S125¥"<This block of commented-out lines of code should be removed.(Ò¥É¤
+J
+java:S1874©"3Remove this use of "getDrawable"; it is deprecated.(œÜû³
+L
+java:S1874ª"0Remove this use of "getColor"; it is deprecated.(å·Æúÿÿÿÿ
+R	java:S125¸"<This block of commented-out lines of code should be removed.(ú÷·Œ
+G
+java:S1874É"0Remove this use of "getColor"; it is deprecated.(ÎùÈ±
+Z
+java:S1874Ş">Remove this use of "startActivityForResult"; it is deprecated.(ì²’±ùÿÿÿÿ
+T
+java:S1854‚"=Remove this useless assignment to local variable "_bankName".(Ù–Ìô
+R	java:S125õ"<This block of commented-out lines of code should be removed.(Ö§Ãµ
+R	java:S125ù"<This block of commented-out lines of code should be removed.(ó˜¸ğ
+W	java:S125ş"<This block of commented-out lines of code should be removed.(´Î–Öşÿÿÿÿ
+E
+java:S1481‚".Remove this unused "_bankName" local variable.(Ù–Ìô
+R	java:S125†"<This block of commented-out lines of code should be removed.(Ôåï¡
+W	java:S125•"<This block of commented-out lines of code should be removed.(‹¦¶Óøÿÿÿÿ
+W	java:S125°"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+d
+java:S5361´"HReplace this call to "replaceAll()" by a call to the "replace()" method.(òğ¶âúÿÿÿÿ
+W	java:S125Ï"<This block of commented-out lines of code should be removed.(ñ±ƒÑúÿÿÿÿ
+R	java:S125á"<This block of commented-out lines of code should be removed.(úÿ¨Ÿ
+L
+java:S1874€"0Remove this use of "getColor"; it is deprecated.( à½øÿÿÿÿ
+G
+java:S1874"0Remove this use of "getColor"; it is deprecated.(¹öİ‹
+G
+java:S1874‰"0Remove this use of "getColor"; it is deprecated.(æ ö°
+L
+java:S1874Š"0Remove this use of "getColor"; it is deprecated.(ôÍÇæÿÿÿÿÿ
+G
+java:S1874’"0Remove this use of "getColor"; it is deprecated.(‹æ¢»
+G
+java:S1874“"0Remove this use of "getColor"; it is deprecated.(ß¸“Ğ
+W	java:S125Ö"<This block of commented-out lines of code should be removed.(Æšºšüÿÿÿÿ
+R	java:S125×"<This block of commented-out lines of code should be removed.(Ö®Şÿ
+N
+java:S1874ã"7Remove this use of "formatIpAddress"; it is deprecated.(‘İ²
+P
+java:S1874ã"9Remove this use of "getConnectionInfo"; it is deprecated.(‘İ²
+K
+java:S1874ã"4Remove this use of "getIpAddress"; it is deprecated.(‘İ²
+N
+java:S1874õ"7Remove this use of "formatIpAddress"; it is deprecated.(¤‰Ÿ
+i	java:S100¢"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈæÈ·ıÿÿÿÿ
+N
+java:S1874Õ"2Remove this use of "setMessage"; it is deprecated.(½‹ê§üÿÿÿÿ
+?	java:S108á")Either remove or fill this block of code.(”ı¾
+d
+java:S5361ê"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ÿì íûÿÿÿÿ
+a
+java:S1874–"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ŸŒ¹Ñ
+N
+java:S1135«"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+R	java:S125·"<This block of commented-out lines of code should be removed.(‚Ø”¿
+_
+java:S5361¿"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¢Üà©
+?	java:S108Ã")Either remove or fill this block of code.(šÀ›÷
+O
+java:S1874È"3Remove this use of "getDrawable"; it is deprecated.(Õâ®œûÿÿÿÿ
+g
+java:S3252ä"PUse static access with "android.view.ViewGroup$LayoutParams" for "MATCH_PARENT".(ÓÿÁû
+g
+java:S3252ä"PUse static access with "android.view.ViewGroup$LayoutParams" for "WRAP_CONTENT".(ÓÿÁû
+g
+java:S3252—"PUse static access with "android.view.ViewGroup$LayoutParams" for "MATCH_PARENT".(ÓÿÁû
+g
+java:S3252—"PUse static access with "android.view.ViewGroup$LayoutParams" for "WRAP_CONTENT".(ÓÿÁû
+R	java:S125œ"<This block of commented-out lines of code should be removed.(ŞŞÇğ
+U
+java:S2130¡"9Use "Integer.parseInt" for this string-to-int conversion.(Ëü¦Âøÿÿÿÿ
+U
+java:S2130×">Use "Double.parseDouble" for this string-to-double conversion.(¾¬’í
+R	java:S125ï"<This block of commented-out lines of code should be removed.(•Ù¦÷
+W	java:S125²	"<This block of commented-out lines of code should be removed.(ó½¿Íúÿÿÿÿ
+^
+java:S1144‘"GRemove this unused private "showAadhaarPayServiceChargesDialog" method.(æŠÃö
+C
+java:S1144İ",Remove this unused private "expired" method.(Ûş¦ÿ

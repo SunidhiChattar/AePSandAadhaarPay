@@ -1,0 +1,35 @@
+
+l	java:S117¡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿¿‡³ùÿÿÿÿ
+o
+java:S1104"TMake aadharNo a static final constant or non-public and provide accessors if needed.(“ÖÅüÿÿÿÿ
+j
+java:S1104"OMake iin a static final constant or non-public and provide accessors if needed.(ƒ–Ùºøÿÿÿÿ
+i
+java:S1104"SMake apiUser a static final constant or non-public and provide accessors if needed.(’ÓÜ€
+i
+java:S1104"SMake latLong a static final constant or non-public and provide accessors if needed.(à¹‘‡
+k
+java:S1104	"UMake ipAddress a static final constant or non-public and provide accessors if needed.(•õé›
+h
+java:S1104
+"RMake amount a static final constant or non-public and provide accessors if needed.(±±õÏ
+m
+java:S1104"XMake mobileNumber a static final constant or non-public and provide accessors if needed.(ğó‰o
+j
+java:S1104"TMake retailer a static final constant or non-public and provide accessors if needed.(„˜¡ô
+m
+java:S1104"RMake paramA a static final constant or non-public and provide accessors if needed.(íÄù½şÿÿÿÿ
+m
+java:S1104"RMake paramB a static final constant or non-public and provide accessors if needed.(€õæ¨şÿÿÿÿ
+m
+java:S1104"RMake paramC a static final constant or non-public and provide accessors if needed.(û¬ÖÕûÿÿÿÿ
+e
+java:S1104"PMake isSL a static final constant or non-public and provide accessors if needed.(€âô
+j
+java:S1104"TMake bankName a static final constant or non-public and provide accessors if needed.(äÄÿ½
+n
+java:S1104"SMake pidData a static final constant or non-public and provide accessors if needed.(ê“¨Óùÿÿÿÿ
+h
+java:S1104"RMake shakey a static final constant or non-public and provide accessors if needed.(”¨­Ã
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÃÍ¸£ùÿÿÿÿ
+W	java:S107"BConstructor has 15 parameters, which is greater than 7 authorized.(ÄŠ©È

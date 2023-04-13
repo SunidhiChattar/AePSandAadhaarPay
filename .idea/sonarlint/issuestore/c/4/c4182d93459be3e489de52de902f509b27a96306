@@ -1,0 +1,375 @@
+
+K
+java:S3740¡"/Provide the parametrized type for this generic.(œé½ùıÿÿÿÿ
+F
+java:S3740¯"/Provide the parametrized type for this generic.(ƒ…¿Û
+g
+java:S1192Í"KDefine a constant instead of duplicating this literal "APPR_CODE" 18 times.(ö‡•Ğÿÿÿÿÿ
+d
+java:S1192Ã"HDefine a constant instead of duplicating this literal "RRN_NO" 18 times.(­¹òúÿÿÿÿ
+`
+java:S1192Å"JDefine a constant instead of duplicating this literal "APP_NAME" 18 times.(ÓŞù
+f
+java:S1192Ô"JDefine a constant instead of duplicating this literal "GMT+05:30" 3 times.(‹æìÿÿÿÿÿ
+_
+java:S1192å"HDefine a constant instead of duplicating this literal "Success" 5 times.(Š¹ÖÃ
+_
+java:S1192ú"HDefine a constant instead of duplicating this literal "balance" 9 times.(ÃÏ ı
+d
+java:S1192Í"HDefine a constant instead of duplicating this literal "123456" 18 times.(ö‡•Ğÿÿÿÿÿ
+_
+java:S1192Ç"HDefine a constant instead of duplicating this literal "AMOUNT" 18 times.(É½“ 
+_
+java:S1192ò"IDefine a constant instead of duplicating this literal "pinblock" 3 times.(–¨ÚR
+c
+java:S1192“"GDefine a constant instead of duplicating this literal "Failed" 4 times.(Ó„ƒ‹ıÿÿÿÿ
+_
+java:S1192Ë"IDefine a constant instead of duplicating this literal "1111111" 18 times.(Î£–
+h
+java:S1192 "QDefine a constant instead of duplicating this literal "VALUE ON DE55 : " 5 times.(º¹“
+_
+java:S1192Ë"IDefine a constant instead of duplicating this literal "INVOICE" 18 times.(Î£–
+p
+java:S1192Â"TDefine a constant instead of duplicating this literal "TRANSACTION_AMOUNT" 18 times.(„õÊúÿÿÿÿ
+d
+java:S1192ñ"MDefine a constant instead of duplicating this literal "deviceSerial" 3 times.(®Ñ¡–
+_
+java:S1192ë"HDefine a constant instead of duplicating this literal "failure" 9 times.(½÷ãÃ
+d
+java:S1192¿"HDefine a constant instead of duplicating this literal "success" 9 times.(ÿ”İÿÿÿÿÿ
+k
+java:S1192Ä"ODefine a constant instead of duplicating this literal "RESPONSE_CODE" 18 times.(š¶‘°üÿÿÿÿ
+g
+java:S1192Ì"KDefine a constant instead of duplicating this literal "CARD_TYPE" 18 times.(‰½ö¡üÿÿÿÿ
+i
+java:S1192Î"MDefine a constant instead of duplicating this literal "CARD_NUMBER" 18 times.(ì¶üİøÿÿÿÿ
+]
+java:S1192½"GDefine a constant instead of duplicating this literal "MPOS :" 3 times.(ó½µ
+d
+java:S1192ñ"MDefine a constant instead of duplicating this literal "RuPay Debit" 14 times.(ïí‡Â
+f
+java:S1192ÿ"JDefine a constant instead of duplicating this literal "timestamp" 3 times.(Ì©Ôúÿÿÿÿ
+\
+java:S1192í"FDefine a constant instead of duplicating this literal "pansn" 3 times.(ß—‰a
+c
+java:S1192î"GDefine a constant instead of duplicating this literal "amount" 3 times.(‚™æ¨úÿÿÿÿ
+d
+java:S1192Ê"HDefine a constant instead of duplicating this literal "TXN_ID" 18 times.(€˜µ¿ûÿÿÿÿ
+]
+java:S1192á"FDefine a constant instead of duplicating this literal "Error" 3 times.(Ò³ïû
+a
+java:S1192ğ"JDefine a constant instead of duplicating this literal "trackData" 3 times.(×Ï¡Ê
+n
+java:S1192Á"RDefine a constant instead of duplicating this literal "TRANSACTION_TYPE" 18 times.(ç»ÿÿÿÿÿ
+k
+java:S1192å"TDefine a constant instead of duplicating this literal "Transaction Amount " 8 times.(Š¹ÖÃ
+j
+java:S1192ã"NDefine a constant instead of duplicating this literal "errorResponse" 4 times.(§¾ÿêøÿÿÿÿ
+]
+java:S1192¶"FDefine a constant instead of duplicating this literal "STANN" 4 times.(•É¤ê
+b
+java:S1192ä"KDefine a constant instead of duplicating this literal "intentData" 8 times.(±ÿˆÇ
+g
+java:S1192À"PDefine a constant instead of duplicating this literal "TRANSACTION_ID" 12 times.(š¿–¹
+e
+java:S1192Ê"IDefine a constant instead of duplicating this literal "1234567" 18 times.(€˜µ¿ûÿÿÿÿ
+Q
+java:S1141ø"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141¨	"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+l	java:S117Ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÕ•›øÿÿÿÿ
+l	java:S117“"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶¬¿˜şÿÿÿÿ
+g	java:S117¤"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ôŸş
+g	java:S117¥"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»şùÎ
+l	java:S117¦"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡ş¼œúÿÿÿÿ
+l	java:S117®"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô©êİıÿÿÿÿ
+l	java:S117Ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶¬¿˜şÿÿÿÿ
+g	java:S117Ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ôŸş
+g	java:S117Ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»şùÎ
+l	java:S117Ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡ş¼œúÿÿÿÿ
+l	java:S117è"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô©êİıÿÿÿÿ
+l	java:S117Ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶¬¿˜şÿÿÿÿ
+l	java:S117Ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô©êİıÿÿÿÿ
+l	java:S117ş
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²èª“úÿÿÿÿ
+l	java:S117¥"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶¬¿˜şÿÿÿÿ
+g	java:S117·"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ôŸş
+g	java:S117¹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»şùÎ
+l	java:S117º"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡ş¼œúÿÿÿÿ
+l	java:S117Ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô©êİıÿÿÿÿ
+l	java:S117ª"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶¬¿˜şÿÿÿÿ
+g	java:S117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ôŸş
+g	java:S117·"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»şùÎ
+l	java:S117¸"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡ş¼œúÿÿÿÿ
+l	java:S117Ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô©êİıÿÿÿÿ
+?
+java:S1604Ç
+"(Make this anonymous inner class a lambda(Õä
+D
+java:S1604Ü
+"(Make this anonymous inner class a lambda(±Ñ†ùÿÿÿÿ
+D
+java:S1604Ø
+"(Make this anonymous inner class a lambda(˜ã¯şÿÿÿÿ
+?
+java:S1604—"(Make this anonymous inner class a lambda(Î¬¯”
+m
+java:S1104d"RMake amount a static final constant or non-public and provide accessors if needed.(‰ìÆ•ùÿÿÿÿ
+h
+java:S1104e"SMake manager a static final constant or non-public and provide accessors if needed.(ÿşÌA
+r
+java:S1104g"WMake posServices a static final constant or non-public and provide accessors if needed.(„‹Ó˜ÿÿÿÿÿ
+u
+java:S1104m"ZMake tempTrack2Data a static final constant or non-public and provide accessors if needed.(‚ïıÿÿÿÿ
+o
+java:S1104n"ZMake tempDeviceData a static final constant or non-public and provide accessors if needed.(çãız
+j
+java:S1104o"TMake PINBLOCK a static final constant or non-public and provide accessors if needed.(ºÂ¡´
+l
+java:S1104p"QMake PANNO a static final constant or non-public and provide accessors if needed.(ùûŸ‰úÿÿÿÿ
+j
+java:S1104q"TMake cardType a static final constant or non-public and provide accessors if needed.(ä‰ü¥
+q
+java:S1104r"VMake RESULT_INT a static final constant or non-public and provide accessors if needed.(èÙÀşÿÿÿÿ
+j
+java:S1104x"TMake instance a static final constant or non-public and provide accessors if needed.(úÙá¥
+O
+java:S1444m"4Make this "public static tempTrack2Data" field final(‚ïıÿÿÿÿ
+I
+java:S1444n"4Make this "public static tempDeviceData" field final(çãız
+D
+java:S1444o".Make this "public static PINBLOCK" field final(ºÂ¡´
+F
+java:S1444p"+Make this "public static PANNO" field final(ùûŸ‰úÿÿÿÿ
+D
+java:S1444q".Make this "public static cardType" field final(ä‰ü¥
+K
+java:S1444r"0Make this "public static RESULT_INT" field final(èÙÀşÿÿÿÿ
+D
+java:S1444x".Make this "public static instance" field final(úÙá¥
+D
+java:S5411å"(Use a primitive boolean expression here.(İìÅàùÿÿÿÿ
+D
+java:S5411Œ"(Use a primitive boolean expression here.(Ğ”“€ÿÿÿÿÿ
+D
+java:S5411–"(Use a primitive boolean expression here.(Ğ”“€ÿÿÿÿÿ
+D
+java:S5411õ"(Use a primitive boolean expression here.(Ğ”“€ÿÿÿÿÿ
+?
+java:S5411Í"(Use a primitive boolean expression here.(Ë¿à
+H
+java:S1153±"1Directly append the argument of String.valueOf().(ıéíä
+H
+java:S1153ë"1Directly append the argument of String.valueOf().(ıéíä
+H
+java:S1153Ü"1Directly append the argument of String.valueOf().(ıéíä
+H
+java:S1153Æ"1Directly append the argument of String.valueOf().(ıéíä
+H
+java:S1153Æ"1Directly append the argument of String.valueOf().(ıéíä
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ç“õà
+N
+java:S2589´"7Remove this expression which always evaluates to "true"(ÃÄÓŸ
+N
+java:S2589×"7Remove this expression which always evaluates to "true"(ÃÄÓŸ
+w	java:S116i"]Rename this field "SetResponseCodeRes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å¦á•ıÿÿÿÿ
+r	java:S116j"XRename this field "withdraw_bool" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èû†’ûÿÿÿÿ
+p	java:S116j"VRename this field "balance_enq" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èû†’ûÿÿÿÿ
+p	java:S116k"[Rename this field "transaction_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ëù
+j	java:S116l"PRename this field "PANSN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›°æ¦øÿÿÿÿ
+k	java:S116u"QRename this field "LngStr" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûøŒ½úÿÿÿÿ
+r	java:S116|"]Rename this field "transaction_amount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şûÄÿ
+r	java:S116}"XRename this field "timer_handler" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç¥çñıÿÿÿÿ
+j	java:S116Œ"URename this field "android_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÈ 
+i
+java:S3008o"SRename this field "PINBLOCK" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÂ¡´
+k
+java:S3008p"PRename this field "PANNO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùûŸ‰úÿÿÿÿ
+p
+java:S3008r"URename this field "RESULT_INT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÙÀşÿÿÿÿ
+D
+java:S1659j")Declare "balance_enq" on a separate line.(Èû†’ûÿÿÿÿ
+<
+java:S1659w"&Declare "tokenStr" on a separate line.(‘Üşµ
+l
+java:S1450f"VRemove the "handler" field and declare it as a local variable in the relevant methods.(Æ¶Ø…
+W	java:S107®"<Method has 8 parameters, which is greater than 7 authorized.(Õ¯ÀÉûÿÿÿÿ
+L
+java:S1874y"6Remove this use of "ProgressDialog"; it is deprecated.(§Ù½²
+R
+java:S2696˜"6Make the enclosing method "static" or remove this set.(¢¢ôùÿÿÿÿ
+R
+java:S1874›"6Remove this use of "ProgressDialog"; it is deprecated.(è¿ºşşÿÿÿÿ
+W	java:S125œ"<This block of commented-out lines of code should be removed.(è¨Ùµúÿÿÿÿ
+K
+java:S1874¡"/Remove this use of "execute"; it is deprecated.(Õ…´‘ûÿÿÿÿ
+F
+java:S1874­"/Remove this use of "Handler"; it is deprecated.(õÊëì
+I
+java:S1874¾"2Remove this use of "setMessage"; it is deprecated.(éé–µ
+F
+java:S1874Ä"/Remove this use of "Handler"; it is deprecated.(õÊëì
+i
+java:S3776Ù"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(šœ•²
+Q	java:S125é"<This block of commented-out lines of code should be removed.(Àÿå
+Q	java:S125ô"<This block of commented-out lines of code should be removed.(Àÿå
+?	java:S108ı")Either remove or fill this block of code.(”ı¾
+X
+java:S1126„"AReplace this if-then-else statement by a single return statement.(ÄàÎÿ
+d	java:S100‹"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª‡¯‚
+2
+java:S3626Ø"Remove this redundant jump.(ûÁİ…
+D
+java:S1172"-Remove this unused method parameter "amount".(¨”õÅ
+e
+java:S1871º"IThis case's code block is the same as the block for the case on line 299.(… ›½şÿÿÿÿ
+`
+java:S1871°"IThis case's code block is the same as the block for the case on line 299.(ø–åõ
+`
+java:S1871µ"IThis case's code block is the same as the block for the case on line 299.(‰¯í©
+R	java:S125®"<This block of commented-out lines of code should be removed.(±¯€¤
+R	java:S125³"<This block of commented-out lines of code should be removed.(±¯€¤
+R	java:S125¸"<This block of commented-out lines of code should be removed.(±¯€¤
+R	java:S125½"<This block of commented-out lines of code should be removed.(±¯€¤
+R	java:S125Ä"<This block of commented-out lines of code should be removed.(Êşÿò
+R	java:S125ü"<This block of commented-out lines of code should be removed.(¯“Ü
+R	java:S125ş"<This block of commented-out lines of code should be removed.(¯“Ü
+C
+java:S1125Œ"'Remove the unnecessary boolean literal.(Ğ”“€ÿÿÿÿÿ
+C
+java:S1125–"'Remove the unnecessary boolean literal.(Ğ”“€ÿÿÿÿÿ
+W	java:S125¤"<This block of commented-out lines of code should be removed.(¥Ãµüÿÿÿÿ
+R	java:S125ª"<This block of commented-out lines of code should be removed.(º™úÿ
+M
+java:S2696Æ"6Make the enclosing method "static" or remove this set.(¤âü®
+b	java:S128Ô"LEnd this switch case with an unconditional break, return or throw statement.(Ì²ı¢
+8	java:S131Ó""Add a default case to this switch.(¹™„‡
+R	java:S125Ò"<This block of commented-out lines of code should be removed.( ¹ó”
+R
+java:S2696Õ"6Make the enclosing method "static" or remove this set.(çù–Óşÿÿÿÿ
+V
+java:S1161ë":Add the "@Override" annotation above this method signature(©¤„Íıÿÿÿÿ
+D
+java:S1185"(Remove this method to simply inherit it.(œƒƒ©ùÿÿÿÿ
+W	java:S125™"<This block of commented-out lines of code should be removed.(¥Èˆùÿÿÿÿ
+O	java:S106Ï"9Replace this use of System.out or System.err by a logger.(‹ğ¿ã
+o
+java:S3776Ö"SRefactor this method to reduce its Cognitive Complexity from 142 to the 15 allowed.(ßÕ•›øÿÿÿÿ
+U
+java:S1854Ş">Remove this useless assignment to local variable "deviceInfo".(³î¼¯
+R
+java:S2696Ü"6Make the enclosing method "static" or remove this set.(±ã–¿úÿÿÿÿ
+F
+java:S1481Ş"/Remove this unused "deviceInfo" local variable.(³î¼¯
+M
+java:S2696á"6Make the enclosing method "static" or remove this set.(½•¤
+M
+java:S2696â"6Make the enclosing method "static" or remove this set.(¬öÖÏ
+W	java:S125ã"<This block of commented-out lines of code should be removed.(÷‚¿¤ùÿÿÿÿ
+W	java:S125î"<This block of commented-out lines of code should be removed.(‡˜ãûÿÿÿÿ
+C
+java:S1125õ"'Remove the unnecessary boolean literal.(Ğ”“€ÿÿÿÿÿ
+R	java:S125€"<This block of commented-out lines of code should be removed.(€°âİ
+W	java:S125”"<This block of commented-out lines of code should be removed.(õÏàùÿÿÿÿ
+R	java:S125š"<This block of commented-out lines of code should be removed.(›Ö¥¤
+?	java:S108³")Either remove or fill this block of code.(”ı¾
+R	java:S125º"<This block of commented-out lines of code should be removed.(Ì§Ã
+W	java:S125¼"<This block of commented-out lines of code should be removed.(¿Ò²—ûÿÿÿÿ
+?	java:S108Û")Either remove or fill this block of code.(”ı¾
+R	java:S125á"<This block of commented-out lines of code should be removed.(õÈÍ×
+Q	java:S125æ"<This block of commented-out lines of code should be removed.(îÈZ
+R
+java:S2696ò"6Make the enclosing method "static" or remove this set.(¬ÇµŸùÿÿÿÿ
+R	java:S125ñ"<This block of commented-out lines of code should be removed.(»»ìÁ
+c	java:S100é"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°±´
+T
+java:S1117ì"8Rename "obj" which hides the field declared at line 123.(¼ó“ğùÿÿÿÿ
+R	java:S125ï"<This block of commented-out lines of code should be removed.(Ë²Éè
+W	java:S125ş"<This block of commented-out lines of code should be removed.(Ä¿³Ëıÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Ú‡äÅúÿÿÿÿ
+N
+java:S1874…"2Remove this use of "JsonParser"; it is deprecated.(˜‡ü¹øÿÿÿÿ
+D
+java:S1874†"-Remove this use of "parse"; it is deprecated.(ı¯¾
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬Ğóéşÿÿÿÿ
+T
+java:S1117"8Rename "obj" which hides the field declared at line 123.(¼ó“ğùÿÿÿÿ
+W	java:S125 "<This block of commented-out lines of code should be removed.(Ä¿³Ëıÿÿÿÿ
+W	java:S125¥"<This block of commented-out lines of code should be removed.(Ú‡äÅúÿÿÿÿ
+N
+java:S1874¦"2Remove this use of "JsonParser"; it is deprecated.(˜‡ü¹øÿÿÿÿ
+D
+java:S1874§"-Remove this use of "parse"; it is deprecated.(ı¯¾
+i	java:S100®"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ¯ÀÉûÿÿÿÿ
+n
+java:S3776®"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Õ¯ÀÉûÿÿÿÿ
+G
+java:S1172®"+Remove this unused method parameter "stan".(Õ¯ÀÉûÿÿÿÿ
+T
+java:S1117°"8Rename "obj" which hides the field declared at line 123.(¼ó“ğùÿÿÿÿ
+R	java:S125³"<This block of commented-out lines of code should be removed.(Ë²Éè
+R	java:S125º"<This block of commented-out lines of code should be removed.(ËËá
+N
+java:S1117Ç"8Rename "obj" which hides the field declared at line 123.(¿šµ
+W	java:S125Æ"<This block of commented-out lines of code should be removed.(Š•Ğ—ıÿÿÿÿ
+R	java:S125Ò"<This block of commented-out lines of code should be removed.(›Ö¥¤
+W	java:S125Ş"<This block of commented-out lines of code should be removed.(˜¼™Üıÿÿÿÿ
+R	java:S125á"<This block of commented-out lines of code should be removed.(ÖŒÁâ
+W	java:S125â	"<This block of commented-out lines of code should be removed.(ÍÖïøÿÿÿÿ
+N
+java:S1874•
+"2Remove this use of "setMessage"; it is deprecated.(É¨Üƒşÿÿÿÿ
+E
+java:S1874Û
+"/Remove this use of "Handler"; it is deprecated.(Ò»ÅN
+i
+java:S3776è
+"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(–æŒº
+T
+java:S1117ë
+"8Rename "obj" which hides the field declared at line 123.(¼ó“ğùÿÿÿÿ
+U
+java:S1854ù
+">Remove this useless assignment to local variable "statusDesc".(¬Ø¦…
+N
+java:S1117÷
+"8Rename "obj" which hides the field declared at line 123.(¿šµ
+F
+java:S1481ù
+"/Remove this unused "statusDesc" local variable.(¬Ø¦…
+O	java:S106š"9Replace this use of System.out or System.err by a logger.(îäş
+i
+java:S3776£"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ê¤ç‘
+W	java:S125¦"<This block of commented-out lines of code should be removed.(õÏàùÿÿÿÿ
+R	java:S125¬"<This block of commented-out lines of code should be removed.(›Ö¥¤
+R	java:S125²"<This block of commented-out lines of code should be removed.(×ˆä½
+n
+java:S3776©"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(çÂìñÿÿÿÿÿ
+Q	java:S125Á"<This block of commented-out lines of code should be removed.(îÈZ
+R	java:S125Í"<This block of commented-out lines of code should be removed.(ïåÃû
+R
+java:S2696×"6Make the enclosing method "static" or remove this set.(¬ÇµŸùÿÿÿÿ
+R	java:S125Ö"<This block of commented-out lines of code should be removed.(»»ìÁ
+M
+java:S1874¿"1Remove this use of "AsyncTask"; it is deprecated.(Œ°éöûÿÿÿÿ
+a
+java:S1874Å"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ËĞƒ
+?
+java:S1185Å"(Remove this method to simply inherit it.(ËĞƒ
+J
+java:S1874Æ"4Remove this use of "onPreExecute"; it is deprecated.(”•P
+f
+java:S1874Ê"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(µ­…’øÿÿÿÿ
+W	java:S125Ë"<This block of commented-out lines of code should be removed.(íà‘âûÿÿÿÿ
+O	java:S106Ï"9Replace this use of System.out or System.err by a logger.(Åø¬
+W	java:S125ê"<This block of commented-out lines of code should be removed.(–›”™ıÿÿÿÿ
+N
+java:S1874’"2Remove this use of "setMessage"; it is deprecated.(É¨Üƒşÿÿÿÿ
+T	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(ŸÒ‰¬úÿÿÿÿ
+T	java:S106£"9Replace this use of System.out or System.err by a logger.(½Ã•®ùÿÿÿÿ
+A
+java:S1068f"+Remove this unused "handler" private field.(Æ¶Ø…
+L
+java:S1068j"1Remove this unused "withdraw_bool" private field.(Èû†’ûÿÿÿÿ
+J
+java:S1144ñ"3Remove this unused private "goToErrorPage4" method.(÷ŸÊÌ

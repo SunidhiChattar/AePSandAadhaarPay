@@ -1,0 +1,263 @@
+
+E
+java:S3740I"/Provide the parametrized type for this generic.(¢•áë
+j
+java:S1192‹"NDefine a constant instead of duplicating this literal "MOBILE_NUMBER" 4 times.(šª›üÿÿÿÿ
+b
+java:S1192ö"FDefine a constant instead of duplicating this literal "SUBHA" 4 times.(¶ø¾Ïıÿÿÿÿ
+j
+java:S1192Ñ"NDefine a constant instead of duplicating this literal "base64pidData" 3 times.(à‘“Œûÿÿÿÿ
+J
+java:S1066"/Merge this if statement with the enclosing one.(‘¢‹Âÿÿÿÿÿ
+K
+java:S1066À"/Merge this if statement with the enclosing one.(²ÂùÕÿÿÿÿÿ
+l	java:S117µ
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”“÷Òúÿÿÿÿ
+F
+java:S1604Ó"(Make this anonymous inner class a lambda(°§ÎØ8ã­­É÷0
+E
+java:S1604"(Make this anonymous inner class a lambda(Œçİ8‚®­É÷0
+K
+java:S1604æ"(Make this anonymous inner class a lambda(æùÕ„ÿÿÿÿÿ8‚®­É÷0
+K
+java:S1604º"(Make this anonymous inner class a lambda(ß«ñ‹üÿÿÿÿ8‚®­É÷0
+E
+java:S1604Ë"(Make this anonymous inner class a lambda(ûÏ²8‚®­É÷0
+F
+java:S1604Ş"(Make this anonymous inner class a lambda(ğ¶½®8‚®­É÷0
+K
+java:S1604ğ"(Make this anonymous inner class a lambda(êÈúªÿÿÿÿÿ8‚®­É÷0
+K
+java:S1604÷"(Make this anonymous inner class a lambda(Ğ˜ğúÿÿÿÿ8‚®­É÷0
+K
+java:S1604©
+"(Make this anonymous inner class a lambda(ìé‚›ıÿÿÿÿ8‚®­É÷0
+F
+java:S1604¶
+"(Make this anonymous inner class a lambda(»ç€à8‚®­É÷0
+D
+java:S5411ÿ"(Use a primitive boolean expression here.(¹¤ĞÅùÿÿÿÿ
+?
+java:S5411"(Use a primitive boolean expression here.(øÃ‘ó
+?
+java:S5411"(Use a primitive boolean expression here.(Ÿ×˜
+D
+java:S5411Ï"(Use a primitive boolean expression here.(¹¤ĞÅùÿÿÿÿ
+?
+java:S5411Õ"(Use a primitive boolean expression here.(øÃ‘ó
+D
+java:S5411í"(Use a primitive boolean expression here.(¹¤ĞÅùÿÿÿÿ
+?
+java:S5411ó"(Use a primitive boolean expression here.(øÃ‘ó
+D
+java:S5411…	"(Use a primitive boolean expression here.(Øğ–úÿÿÿÿ
+
+java:S1186Å
+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ä­³·úÿÿÿÿ
+7
+java:S1659L"!Declare "uid" on a separate line.(ü•Äø
+>
+java:S1659M"(Declare "aadharText" on a separate line.(Ë¡áù
+C
+java:S1659["-Declare "aadharVirtualID" on a separate line.(ÉÉæ
+g
+java:S1659\"QDeclare "cashWithdrawalButton" and all following declarations on a separate line.(ÔÚÌÒ
+^
+java:S1659]"HDeclare "bankspinner" and all following declarations on a separate line.(º»ô¤
+\
+java:S1659^"FDeclare "virtualID" and all following declarations on a separate line.(àÌùÜ
+B
+java:S1659g"'Declare "longitude" on a separate line.(×¨èÙşÿÿÿÿ
+q
+java:S1450k"VRemove the "dataObj" field and declare it as a local variable in the relevant methods.(¸Šúİùÿÿÿÿ
+t
+java:S1450a"YRemove the "gpsTracker" field and declare it as a local variable in the relevant methods.(ñç—úùÿÿÿÿ
+`
+java:S1124@"EReorder the modifiers to comply with the Java Language Specification.(ÄÜ•¸øÿÿÿÿ
+S
+java:S1874G"6Remove this use of "ProgressDialog"; it is deprecated.(§Ù½²8±µ­É÷0
+n
+java:S3776n"SRefactor this method to reduce its Cognitive Complexity from 237 to the 15 allowed.(¨Œşÿÿÿÿ
+Q	java:S125u"<This block of commented-out lines of code should be removed.(Øşıò
+W	java:S125Ê"<This block of commented-out lines of code should be removed.(½²õùÿÿÿÿ
+R	java:S125Í"<This block of commented-out lines of code should be removed.(Ü½ë“
+S
+java:S1874Œ"0Remove this use of "getColor"; it is deprecated.(…ÿ×øÿÿÿÿ8Ñµ­É÷0
+W	java:S125‘"<This block of commented-out lines of code should be removed.(Ğ©Ú«şÿÿÿÿ
+N
+java:S1874¸"0Remove this use of "getColor"; it is deprecated.(¦ÌÆ¾8àµ­É÷0
+a
+java:S1874Í">Remove this use of "startActivityForResult"; it is deprecated.(ì²’±ùÿÿÿÿ8àµ­É÷0
+R	java:S125×"<This block of commented-out lines of code should be removed.(ç–¾ä
+W	java:S125ƒ"<This block of commented-out lines of code should be removed.(ñ±ƒÑúÿÿÿÿ
+?	java:S108‡")Either remove or fill this block of code.(å¥‡
+W	java:S125•"<This block of commented-out lines of code should be removed.(“Èßûÿÿÿÿ
+d
+java:S5361œ"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Í¥Ú•şÿÿÿÿ
+>
+java:S1125 "'Remove the unnecessary boolean literal.(±Ğ”Õ
+W	java:S125¥"<This block of commented-out lines of code should be removed.(ñ±ƒÑúÿÿÿÿ
+W	java:S125×"<This block of commented-out lines of code should be removed.(ñ±ƒÑúÿÿÿÿ
+d
+java:S5361ğ"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Í¥Ú•şÿÿÿÿ
+=
+java:S1125ó"'Remove the unnecessary boolean literal.(±¦˜
+˜
+java:S1186‡"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«û³±
+
+java:S1186‹"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ê¥¾àûÿÿÿÿ
+˜
+java:S1186›"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«û³±
+
+java:S1186Ÿ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ê¥¾àûÿÿÿÿ
+˜
+java:S1186®"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«û³±
+
+java:S1186²"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ê¥¾àûÿÿÿÿ
+C
+java:S1125À"'Remove the unnecessary boolean literal.(²ÂùÕÿÿÿÿÿ
+r
+java:S3923Á"[Remove this conditional structure or edit its code blocks so that they're not all the same.(îÅÌÊ
+R	java:S125Ö"<This block of commented-out lines of code should be removed.(Ò¥É¤
+Q
+java:S1874Ú"3Remove this use of "getDrawable"; it is deprecated.(÷‰Š8¶­É÷0
+N
+java:S1874Û"0Remove this use of "getColor"; it is deprecated.(¸ğí8¶­É÷0
+S
+java:S1874æ"0Remove this use of "getColor"; it is deprecated.(…ÿ×øÿÿÿÿ8¶­É÷0
+R	java:S125í"<This block of commented-out lines of code should be removed.(ÇúÛ
+Z
+java:S1854"CRemove this useless assignment to local variable "balanceaadharNo".(‘úÅ¸
+W	java:S125û"<This block of commented-out lines of code should be removed.(Ğ©Ú«şÿÿÿÿ
+C
+java:S1125ÿ"'Remove the unnecessary boolean literal.(¹¤ĞÅùÿÿÿÿ
+_
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(‘úÅ¸
+R	java:S125ƒ"<This block of commented-out lines of code should be removed.(…ªÖÛ
+>
+java:S1125"'Remove the unnecessary boolean literal.(øÃ‘ó
+d
+java:S5361’"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¾çİùÿÿÿÿ
+C
+java:S1125˜"'Remove the unnecessary boolean literal.(ş¶Ö™ıÿÿÿÿ
+C
+java:S1125®"'Remove the unnecessary boolean literal.(è»Ãçıÿÿÿÿ
+=
+java:S1125´"'Remove the unnecessary boolean literal.(Í…ùf
+?	java:S108»")Either remove or fill this block of code.(Á³À®
+f
+java:S1858ß"J"pidData" is already a string, there's no need to call "toString()" on it.(ÃÑ¯Õıÿÿÿÿ
+Q	java:S125ú"<This block of commented-out lines of code should be removed.(“í›f
+N
+java:S1874Ş"0Remove this use of "getColor"; it is deprecated.(¦ÌÆ¾8¾¶­É÷0
+Q
+java:S1874ë"3Remove this use of "getDrawable"; it is deprecated.(áıë¦8¾¶­É÷0
+W	java:S125…"<This block of commented-out lines of code should be removed.(‰’¡Ğüÿÿÿÿ
+W	java:S125‡"<This block of commented-out lines of code should be removed.(Æšºšüÿÿÿÿ
+R	java:S125ˆ"<This block of commented-out lines of code should be removed.(Ö®Şÿ
+V
+java:S1117£":Rename "editor" which hides the field declared at line 87.(ÀÂ©Éÿÿÿÿÿ
+]
+java:S1126«"AReplace this if-then-else statement by a single return statement.(¤Ö“øÿÿÿÿ
+
+java:S1186À"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(é¬“âùÿÿÿÿ
+
+java:S1186Ã"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±ìÑùÿÿÿÿ
+˜
+java:S1186Æ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¬•çŠ
+R	java:S125¶"<This block of commented-out lines of code should be removed.(¹ØÄ¼
+T
+java:S1117º"=Rename "latitude" which hides the field declared at line 103.(°¾°—
+Z
+java:S1117»">Rename "longitude" which hides the field declared at line 103.(Üâùøÿÿÿÿ
+m
+java:S1874À"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(é¬“âùÿÿÿÿ8Ï¶­É÷0
+]
+java:S1161À":Add the "@Override" annotation above this method signature(é¬“âùÿÿÿÿ8Ï¶­É÷0
+]
+java:S1161Ã":Add the "@Override" annotation above this method signature(±ìÑùÿÿÿÿ8Ù¶­É÷0
+X
+java:S1161Æ":Add the "@Override" annotation above this method signature(¬•çŠ8Ù¶­É÷0
+h
+java:S1874ß"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ŸŒ¹Ñ8Ù¶­É÷0
+w
+java:S3923‡"[Remove this conditional structure or edit its code blocks so that they're not all the same.(¡ÄÌ«øÿÿÿÿ
+R	java:S125ˆ"<This block of commented-out lines of code should be removed.(¸ÀßĞ
+R	java:S125"<This block of commented-out lines of code should be removed.(¸ÀßĞ
+O
+java:S1854œ"8Remove this useless assignment to local variable "gson".(şëŒ
+@
+java:S1481œ")Remove this unused "gson" local variable.(şëŒ
+R	java:S125"<This block of commented-out lines of code should be removed.(¸ÀßĞ
+R	java:S125¦"<This block of commented-out lines of code should be removed.(¸ÀßĞ
+T
+java:S1874´"6Remove this use of "ProgressDialog"; it is deprecated.(ÓåÉâ8ï¶­É÷0
+P
+java:S1874¶"2Remove this use of "setMessage"; it is deprecated.(éé–µ8ï¶­É÷0
+Q
+java:S1854Ó":Remove this useless assignment to local variable "status".(å™îÀ
+V
+java:S1854Ù":Remove this useless assignment to local variable "status".(ï»Ä©ıÿÿÿÿ
+N
+java:S1135Ê"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+C
+java:S1125Ì"'Remove the unnecessary boolean literal.(ñæÎÂùÿÿÿÿ
+B
+java:S1481Î"+Remove this unused "status" local variable.(³Éë“
+C
+java:S1125Ï"'Remove the unnecessary boolean literal.(¹¤ĞÅùÿÿÿÿ
+d
+java:S5361Ò"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Í¥Ú•şÿÿÿÿ
+>
+java:S1125Õ"'Remove the unnecessary boolean literal.(øÃ‘ó
+_
+java:S5361Ø"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¢Üà©
+Q
+java:S1874Ş"3Remove this use of "getDrawable"; it is deprecated.(áıë¦8ş¶­É÷0
+Q
+java:S1854ñ":Remove this useless assignment to local variable "status".(å™îÀ
+V
+java:S1854÷":Remove this useless assignment to local variable "status".(ï»Ä©ıÿÿÿÿ
+N
+java:S1135ã"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+C
+java:S1125æ"'Remove the unnecessary boolean literal.(‚Ë®ğşÿÿÿÿ
+B
+java:S1481ì"+Remove this unused "status" local variable.(³Éë“
+C
+java:S1125í"'Remove the unnecessary boolean literal.(¹¤ĞÅùÿÿÿÿ
+d
+java:S5361ğ"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Í¥Ú•şÿÿÿÿ
+>
+java:S1125ó"'Remove the unnecessary boolean literal.(øÃ‘ó
+_
+java:S5361ö"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¢Üà©
+Q
+java:S1874ü"3Remove this use of "getDrawable"; it is deprecated.(áıë¦8·­É÷0
+R	java:S125™	"<This block of commented-out lines of code should be removed.(úÿ¨Ÿ
+S
+java:S1874¸	"0Remove this use of "getColor"; it is deprecated.( à½øÿÿÿÿ8™·­É÷0
+N
+java:S1874¹	"0Remove this use of "getColor"; it is deprecated.(¹öİ‹8™·­É÷0
+R	java:S125¼	"<This block of commented-out lines of code should be removed.(¸ÊóŠ
+N
+java:S1874Ê	"0Remove this use of "getColor"; it is deprecated.(‹æ¢»8™·­É÷0
+N
+java:S1874Ë	"0Remove this use of "getColor"; it is deprecated.(ß¸“Ğ8™·­É÷0
+W	java:S125è	"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ
+d
+java:S5361€
+"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ÿì íûÿÿÿÿ
+R	java:S125™
+"<This block of commented-out lines of code should be removed.(³ÄšÙ
+n
+java:S3252¥
+"PUse static access with "android.view.ViewGroup$LayoutParams" for "MATCH_PARENT".(ÓÿÁû8£·­É÷0
+n
+java:S3252¥
+"PUse static access with "android.view.ViewGroup$LayoutParams" for "WRAP_CONTENT".(ÓÿÁû8£·­É÷0
+I
+java:S1135Ì
+"2Complete the task associated to this TODO comment.(…ïœ†
+R	java:S125ê
+"<This block of commented-out lines of code should be removed.(ÕûÊ‚

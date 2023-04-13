@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:orientation="vertical"
+  >
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <TextView
+            android:id="@+id/tv_wallet"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawablePadding="@dimen/_10sdp"
+            android:layout_marginLeft="10dp"
+            android:text="Settelment Account Info"
+            android:textColor="#1A1E22"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:layout_marginTop="@dimen/_10sdp"/>
+
+        <LinearLayout
+            android:id="@+id/layout_personalAc_details"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tv_wallet"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:orientation="vertical"
+            android:visibility="visible">
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:textAlignment="gravity"
+                android:padding="@dimen/_5sdp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/ic_blue_outline"
+                >
+                <Spinner
+                    android:id="@+id/spSelectBank"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:gravity="center_vertical"
+                    android:hint="Select Bank"
+                    android:singleLine="true"
+                    android:spinnerMode="dropdown"
+                    android:textColor="@color/black"
+                    android:textColorHint="#C9CBCE"
+                    android:textSize="14sp"
+                    />
+                <ImageView
+                    android:layout_width="@dimen/_22sdp"
+                    android:layout_height="@dimen/_22sdp"
+                    android:layout_gravity="end|center_vertical"
+                    android:layout_marginRight="@dimen/_10sdp"
+                    android:src="@drawable/ic_arrow_drop_down_black_24dp"
+                    />
+            </FrameLayout>
+
+            <TextView
+                android:id="@+id/BenificiaryName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Beneficiary Name"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:layout_marginLeft="@dimen/_10sdp"
+                android:textColor="#1A1E22"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/etBenificiary_Name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+               android:layout_margin="@dimen/_10sdp"
+                android:focusable="true"
+                android:maxLength="50"
+                android:imeOptions="actionNext"
+                android:focusableInTouchMode="true"
+                android:foregroundTint="@color/black"
+                android:hint="Beneficiary Name"
+                android:inputType="text"
+                android:padding="15dp"
+                android:singleLine="true"
+                android:textColor="@color/black"
+                android:textColorHint="#C9CBCE"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/BankName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Bank Name"
+                android:layout_marginLeft="@dimen/_10sdp"
+                android:textColor="#1A1E22"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <android.widget.AutoCompleteTextView
+                android:id="@+id/Bank_Name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/_10sdp"
+                android:hint="Bank Name"
+                android:imeOptions="actionNext"
+                android:inputType="textCapCharacters"
+                android:padding="15dp"
+                android:singleLine="true"
+                android:textColor="@color/black"
+                android:textColorHint="#C9CBCE"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/ifsccode"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="IFSC Code"
+                android:layout_marginLeft="@dimen/_10sdp"
+                android:textColor="#1A1E22"
+                android:inputType="textCapCharacters"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+
+            <EditText
+                android:id="@+id/etIFSC_code"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/_10sdp"
+                android:focusable="true"
+                android:hint="IFSC Code"
+                android:imeOptions="actionNext"
+                android:inputType="text"
+                android:padding="15dp"
+                android:singleLine="true"
+                android:textColor="@color/black"
+                android:textColorHint="#C9CBCE"
+                android:textSize="14sp" />
+            <TextView
+                android:id="@+id/acno"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="A/C Number"
+                android:layout_marginLeft="@dimen/_10sdp"
+                android:textColor="#1A1E22"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/ac_no"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/_10sdp"
+                android:hint="Account number"
+                android:inputType="number"
+                android:padding="15dp"
+                android:maxLength="18"
+                android:imeOptions="actionNext"
+                android:minEms="9"
+                android:singleLine="true"
+                android:textColor="@color/black"
+                android:textColorHint="#C9CBCE"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/confirm_acno"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Confirm A/C Number"
+                android:layout_marginLeft="@dimen/_10sdp"
+                android:textColor="#1A1E22"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/confrim_ACNO"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/_10sdp"
+                android:hint="Confirm Account Number"
+                android:inputType="number"
+                android:maxLength="18"
+                android:minEms="9"
+                android:imeOptions="actionNext"
+                android:padding="15dp"
+                android:singleLine="true"
+                android:textColor="@color/black"
+                android:textColorHint="#C9CBCE"
+                android:textSize="14sp" />
+
+
+            <TextView
+                android:id="@+id/pincode_TV"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Pincode"
+                android:layout_marginLeft="@dimen/_10sdp"
+                android:textColor="#1A1E22"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/pincode_ET"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/_10sdp"
+                android:hint="Pincode"
+                android:imeOptions="actionDone"
+                android:inputType="number"
+                android:maxLength="6"
+                android:padding="15dp"
+                android:singleLine="true"
+                android:textColor="@color/black"
+                android:textColorHint="#C9CBCE"
+                android:textSize="14sp" />
+
+            <CheckBox
+                android:id="@+id/check_accept"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="I accept the new terms of Services"
+                android:textColor="@color/black"
+                android:visibility="gone"
+                android:layout_marginLeft="@dimen/_10sdp"
+                android:layout_marginTop="@dimen/_5sdp"/>
+
+
+            <Button
+                android:id="@+id/login_proceed"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tv_success_message"
+                android:layout_marginStart="40dp"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:layout_marginBottom="@dimen/_20sdp"
+                android:layout_marginEnd="40dp"
+                android:text="Submit"
+                android:background="@drawable/button_background_success"
+                android:textAllCaps="false"
+                android:textColor="@color/white"
+                android:textSize="@dimen/_16sdp" />
+
+
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+
+</androidx.core.widget.NestedScrollView>

@@ -1,0 +1,8 @@
+
+i	java:S116"TRename this field "bank_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…½åæ
+n	java:S116"TRename this field "bank_code" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì‘µúÿÿÿÿ
+h	java:S116"TRename this field "ifsc_code" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»È§}
+i	java:S116"TRename this field "ifsc_mode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ ú˜
+j	java:S116"URename this field "dmt_enable" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀßÏ
+o	java:S116"ZRename this field "dmt_imps_enable" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®”ıó
+t	java:S116#"ZRename this field "dmt_neft_enable" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ½ú—üÿÿÿÿ

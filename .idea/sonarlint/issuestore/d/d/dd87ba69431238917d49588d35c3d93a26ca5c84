@@ -1,0 +1,31 @@
+
+J
+java:S1066["/Merge this if statement with the enclosing one.(êÿ×¤ùÿÿÿÿ
+D
+java:S1604·"(Make this anonymous inner class a lambda(°éåóøÿÿÿÿ
+?
+java:S1604¿"(Make this anonymous inner class a lambda(’Ã’ó
+a
+java:S2184)"FCast one of the operands of this multiplication operation to a "long".(¾Œµûþÿÿÿÿ
+h
+java:S2259`"MA "NullPointerException" could be thrown; "locationManager" is nullable here.(ý¡­Ôûÿÿÿÿ
+˜
+java:S1186È"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(­íÖ«
+˜
+java:S1186Ì"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÁïÕÒ
+˜
+java:S1186Ð"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(çÅðÙ
+˜
+java:S1186Ô"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÀÄÞ’
+m
+java:S37763"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(øˆ÷Ãùÿÿÿÿ
+r
+java:S3252E"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(‘ÐÕžüÿÿÿÿ
+r
+java:S3252E"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(‘ÐÕžüÿÿÿÿ
+r
+java:S3252]"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(‘ÐÕžüÿÿÿÿ
+r
+java:S3252]"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(‘ÐÕžüÿÿÿÿ
+a
+java:S1874Ô"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ÀÄÞ’

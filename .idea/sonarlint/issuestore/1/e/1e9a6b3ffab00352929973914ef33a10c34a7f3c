@@ -1,0 +1,4 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÓÚ³™
+n	java:S116"TRename this field "error_txt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô÷’Îûÿÿÿÿ
+<	java:S131""Add a default case to this switch.(öýÄîýÿÿÿÿ

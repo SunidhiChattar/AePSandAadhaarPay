@@ -1,0 +1,53 @@
+
+\
+java:S1192è"FDefine a constant instead of duplicating this literal "ERROR" 7 times.(ÒÏÕ#
+Q
+java:S1141Æ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+l	java:S117£"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°Ş£øÿÿÿÿ
+]
+java:S2259°"AA "NullPointerException" could be thrown; "dir" is nullable here.(ïÍöùúÿÿÿÿ
+`
+java:S2259Ë"DA "NullPointerException" could be thrown; "digest" is nullable here.(·•Õ¨şÿÿÿÿ
+d
+java:S2095¾"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ıã¾Í
+d
+java:S2095ı"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ıã¾Í
+e
+java:S2095ş"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(Ù‘£
+e
+java:S2095¿"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(Ù‘£
+S
+java:S2589Å"7Remove this expression which always evaluates to "true"(§ÀÏŸûÿÿÿÿ
+S
+java:S2589„"7Remove this expression which always evaluates to "true"(§ÀÏŸûÿÿÿÿ
+U
+java:S1118$":Add a private constructor to hide the implicit public one.(Ó™€¸ÿÿÿÿÿ
+@
+java:S1197&"*Move the array designators [] to the type.(Íî
+h
+java:S3776:"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(µ¶ÒÚ
+‡
+java:S1130;"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ÙúÂ˜ùÿÿÿÿ
+V	java:S125="<This block of commented-out lines of code should be removed.( ıáúÿÿÿÿ
+H
+java:S1135?"2Complete the task associated to this TODO comment.(Ì£õ»
+B
+java:S1075¦"&Remove this hard-coded path-delimiter.(¥Äªıÿÿÿÿ
+B
+java:S1075¨"&Remove this hard-coded path-delimiter.(´•×¨üÿÿÿÿ
+n
+java:S3776º"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ó‡éÌúÿÿÿÿ
+N
+java:S1135ç"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+N
+java:S1135ê"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+I
+java:S1135í"2Complete the task associated to this TODO comment.(‡ñÅ¼
+e
+java:S4042Ÿ"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(Â»×Ë
+N
+java:S1135£"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+N
+java:S1135¦"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+I
+java:S1135©"2Complete the task associated to this TODO comment.(‡ñÅ¼

@@ -1,0 +1,198 @@
+
+u
+java:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(Œûêøÿÿÿÿ
+l
+java:S1192á"PDefine a constant instead of duplicating this literal "Cash Withdrawal" 3 times.(œû†‰şÿÿÿÿ
+g
+java:S1192ê"PDefine a constant instead of duplicating this literal "Balance Enquiry" 3 times.(ñ¬­á
+g
+java:S1192ê"PDefine a constant instead of duplicating this literal "Balance Enquery" 3 times.(ñ¬­á
+h
+java:S1192ã"QDefine a constant instead of duplicating this literal "Transaction ID: " 5 times.(°›€
+c
+java:S1192®"GDefine a constant instead of duplicating this literal "Failed" 3 times.(Ø¸¼¯ıÿÿÿÿ
+d
+java:S1192µ"HDefine a constant instead of duplicating this literal "message" 3 times.(ó´„Ûşÿÿÿÿ
+l	java:S117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªî‡µúÿÿÿÿ
+g	java:S117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´‚¼·
+l	java:S117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(££ß»şÿÿÿÿ
+g	java:S117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Å­›
+l	java:S117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”“÷Òúÿÿÿÿ
+l	java:S117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İãÆ±şÿÿÿÿ
+f	java:S117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğò½
+D
+java:S1604±"(Make this anonymous inner class a lambda(ÃŞ“£úÿÿÿÿ
+?
+java:S1604¸"(Make this anonymous inner class a lambda(ÚÜßË
+?
+java:S1604Ã"(Make this anonymous inner class a lambda(ã‘Àò
+?
+java:S1604Ì"(Make this anonymous inner class a lambda(å«ë³
+?
+java:S1604Ş"(Make this anonymous inner class a lambda(¼Š¢¢
+D
+java:S1604š"(Make this anonymous inner class a lambda(òÂ“úÿÿÿÿ
+D
+java:S1604¾"(Make this anonymous inner class a lambda(¨Å©Úúÿÿÿÿ
+?
+java:S1604™"(Make this anonymous inner class a lambda(»ç€à
+?
+java:S1604Ä"(Make this anonymous inner class a lambda(ó§­È
+?
+java:S1604ú"(Make this anonymous inner class a lambda(£§åå
+D
+java:S1604"(Make this anonymous inner class a lambda(˜ã¯şÿÿÿÿ
+D
+java:S1604"(Make this anonymous inner class a lambda(˜ã¯şÿÿÿÿ
+?
+java:S1604°"(Make this anonymous inner class a lambda(£§åå
+?
+java:S1604Ú"(Make this anonymous inner class a lambda(£§åå
+?
+java:S1604÷"(Make this anonymous inner class a lambda(£§åå
+H
+java:S1153Ô"1Directly append the argument of String.valueOf().(â×¸
+p	java:S116Y"VRename this field "status_icon" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜİÑöûÿÿÿÿ
+k	java:S116["VRename this field "card_amount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô½ä–
+i	java:S116["TRename this field "bank_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô½ä–
+i	java:S116["TRename this field "date_time" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô½ä–
+v	java:S116p"bRename this field "STORAGE_PERMISSION_CODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ¶¡^
+q	java:S116s"\Rename this field "m_AemScrybeDevice" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡µƒ
+q	java:S116t"WRename this field "m_AemPrinter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß«¿Šøÿÿÿÿ
+q	java:S116u"WRename this field "m_cardReader" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¯¼øÿÿÿÿ
+i
+java:S1845j"NRename field "txnid" to prevent any misunderstanding/clash with field "txnID".(‹¾ÿáşÿÿÿÿ
+C
+java:S1659Y"(Declare "sendButton" on a separate line.(ÜİÑöûÿÿÿÿ
+^
+java:S1659["HDeclare "card_amount" and all following declarations on a separate line.(Ô½ä–
+^
+java:S1659`"HDeclare "downloadBtn" and all following declarations on a separate line.(Êğˆ
+I
+java:S1659a".Declare "mobileTextLayout" on a separate line.(¿ó™‘øÿÿÿÿ
+`
+java:S1659w"EDeclare "tempdata" and all following declarations on a separate line.(‘é•£ûÿÿÿÿ
+<
+java:S1659y"&Declare "response" on a separate line.(£½‘–
+{
+java:S1149¿"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ö»Ç¨ûÿÿÿÿ
+{
+java:S1149ı"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ö»Ç¨ûÿÿÿÿ
+{
+java:S1149¦"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ì­ŠÜúÿÿÿÿ
+{
+java:S1149Ê"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ì­ŠÜúÿÿÿÿ
+{
+java:S1149ç"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ì­ŠÜúÿÿÿÿ
+L
+java:S1874b"6Remove this use of "ProgressDialog"; it is deprecated.(ğİıº
+o
+java:S3776€"SRefactor this method to reduce its Cognitive Complexity from 144 to the 15 allowed.(Û½Ê€şÿÿÿÿ
+W	java:S125‡"<This block of commented-out lines of code should be removed.(ëÑ¼€ıÿÿÿÿ
+U
+java:S1874"9Remove this use of "getDefaultAdapter"; it is deprecated.(øêıøÿÿÿÿ
+<
+java:S2129¡" Remove this "String" constructor(£¥éúÿÿÿÿ
+T	java:S106Á"9Replace this use of System.out or System.err by a logger.(¡ä†ùÿÿÿÿ
+W	java:S125À"<This block of commented-out lines of code should be removed.(–û˜Òùÿÿÿÿ
+T	java:S106ÿ"9Replace this use of System.out or System.err by a logger.(¡ä†ùÿÿÿÿ
+W	java:S125ş"<This block of commented-out lines of code should be removed.(–û˜Òùÿÿÿÿ
+O	java:S106Ô"9Replace this use of System.out or System.err by a logger.(â×¸
+U
+java:S1155è">Use isEmpty() to check whether the collection is empty or not.(üõ®½
+U
+java:S1874õ">Remove this use of "startActivityForResult"; it is deprecated.(Ù´š½
+W	java:S125ø"<This block of commented-out lines of code should be removed.(Ğ©Ú«şÿÿÿÿ
+˜
+java:S1186¨"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«û³±
+
+java:S1186¬"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ê¥¾àûÿÿÿÿ
+>
+java:S1125·"'Remove the unnecessary boolean literal.(ÍôØ´
+>
+java:S1125Á"'Remove the unnecessary boolean literal.(ä°ø‰
+R	java:S125Ï"<This block of commented-out lines of code should be removed.(”Õá
+W	java:S125Ø"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+O
+java:S1854¤"8Remove this useless assignment to local variable "font".(¹±Çê
+P
+java:S1854¥"9Remove this useless assignment to local variable "font2".(¥êñä
+R	java:S125Û"<This block of commented-out lines of code should be removed.(àû™ñ
+W	java:S125ê"<This block of commented-out lines of code should be removed.(™­ù‰ÿÿÿÿÿ
+V	java:S899õ";Do something with the "boolean" value returned by "delete".(÷–€ûÿÿÿÿ
+j
+java:S4042õ"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(÷–€ûÿÿÿÿ
+@
+java:S1481¤")Remove this unused "font" local variable.(¹±Çê
+A
+java:S1481¥"*Remove this unused "font2" local variable.(¥êñä
+W	java:S125Ö"<This block of commented-out lines of code should be removed.(ñÚ‹®úÿÿÿÿ
+R	java:S125ƒ"<This block of commented-out lines of code should be removed.(”Õá
+a
+java:S1874£"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ŸŒ¹Ñ
+R	java:S125¸"<This block of commented-out lines of code should be removed.(Úú¥­
+R	java:S125á"<This block of commented-out lines of code should be removed.(†€éˆ
+W	java:S125ê"<This block of commented-out lines of code should be removed.(èÁÄ÷ÿÿÿÿÿ
+Y
+java:S1854Ç"=Remove this useless assignment to local variable "statusMsg".(¿¡¤¦úÿÿÿÿ
+R
+java:S1854È";Remove this useless assignment to local variable "message".(«ºÎä
+J
+java:S1481Ç".Remove this unused "statusMsg" local variable.(¿¡¤¦úÿÿÿÿ
+C
+java:S1481È",Remove this unused "message" local variable.(«ºÎä
+M
+java:S1874ì"6Remove this use of "ProgressDialog"; it is deprecated.(Ä³Àş
+N
+java:S1874î"2Remove this use of "setMessage"; it is deprecated.(ÙæõÛúÿÿÿÿ
+g
+java:S3252€"PUse static access with "android.view.ViewGroup$LayoutParams" for "MATCH_PARENT".(ÓÿÁû
+g
+java:S3252€"PUse static access with "android.view.ViewGroup$LayoutParams" for "WRAP_CONTENT".(ÓÿÁû
+U
+java:S1155±">Use isEmpty() to check whether the collection is empty or not.(üõ®½
+U
+java:S1874¾">Remove this use of "startActivityForResult"; it is deprecated.(Ù´š½
+2
+java:S3626È"Remove this redundant jump.(ûÁİ…
+N
+java:S1135Ç"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+R	java:S125ä"<This block of commented-out lines of code should be removed.(Ÿ¢şÃ
+R	java:S125ü"<This block of commented-out lines of code should be removed.(º°Ë¢
+T
+java:S1854Œ"8Remove this useless assignment to local variable "data".(¥ìÄ©ùÿÿÿÿ
+U
+java:S1117Œ"9Rename "data" which hides the field declared at line 119.(¥ìÄ©ùÿÿÿÿ
+E
+java:S1481Œ")Remove this unused "data" local variable.(¥ìÄ©ùÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(£Ëè³ÿÿÿÿÿ
+T
+java:S1854›"8Remove this useless assignment to local variable "data".(­¤Àùÿÿÿÿ
+U
+java:S1117›"9Rename "data" which hides the field declared at line 119.(­¤Àùÿÿÿÿ
+E
+java:S1481›")Remove this unused "data" local variable.(­¤Àùÿÿÿÿ
+W	java:S125Ÿ"<This block of commented-out lines of code should be removed.(£Ëè³ÿÿÿÿÿ
+I
+java:S1135¬"2Complete the task associated to this TODO comment.(‡ñÅ¼
+P
+java:S1117®"9Rename "data" which hides the field declared at line 119.(½õÒ›
+R	java:S125²"<This block of commented-out lines of code should be removed.(¿Óƒ°
+r
+java:S3923É"[Remove this conditional structure or edit its code blocks so that they're not all the same.(è³êû
+I
+java:S1135Ğ"2Complete the task associated to this TODO comment.(‡ñÅ¼
+R	java:S125Ô"<This block of commented-out lines of code should be removed.(À½÷Å
+R	java:S125Ö"<This block of commented-out lines of code should be removed.(éË·É
+R	java:S125à"<This block of commented-out lines of code should be removed.(Á†ÿ
+W	java:S125â"<This block of commented-out lines of code should be removed.(Õ«á¼üÿÿÿÿ
+I
+java:S1135í"2Complete the task associated to this TODO comment.(‡ñÅ¼
+R	java:S125ñ"<This block of commented-out lines of code should be removed.(À½÷Å
+R	java:S125ó"<This block of commented-out lines of code should be removed.(éË·É
+R	java:S125ı"<This block of commented-out lines of code should be removed.(Á†ÿ
+W	java:S125ÿ"<This block of commented-out lines of code should be removed.(Õ«á¼üÿÿÿÿ
+U
+java:S1117†	"9Rename "data" which hides the field declared at line 119.(ø¢Ğïûÿÿÿÿ
+P
+java:S1068p";Remove this unused "STORAGE_PERMISSION_CODE" private field.(œ¶¡^

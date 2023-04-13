@@ -1,0 +1,24 @@
+
+l
+java:S1192 "PDefine a constant instead of duplicating this literal "Get Data Error" 11 times.(ùÓé­şÿÿÿÿ
+k	java:S117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şõ·Øÿÿÿÿÿ
+k	java:S117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şõ·Øÿÿÿÿÿ
+k	java:S117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şõ·Øÿÿÿÿÿ
+k	java:S117X"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê§àîşÿÿÿÿ
+f	java:S117Z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–—Ş¶
+k	java:S117d"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãõß”şÿÿÿÿ
+k	java:S117f"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬´¡ôûÿÿÿÿ
+k	java:S117n"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¹½Şûÿÿÿÿ
+f	java:S117p"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùİÉò
+l	java:S117™"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å©ôéùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŸãÁ÷ùÿÿÿÿ
+u
+java:S1149}"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‘Ìí
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ˆì ”ıÿÿÿÿ
+=
+java:S1905€"&Remove this unnecessary cast to "int".(ø´Œ´
+2
+java:S3626‹"Remove this redundant jump.(ûÁİ…
+n
+java:S3776—"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(²Çë×üÿÿÿÿ

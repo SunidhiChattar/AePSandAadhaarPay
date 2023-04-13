@@ -1,0 +1,151 @@
+
+j
+java:S1104"OMake DE0 a static final constant or non-public and provide accessors if needed.(­†êàùÿÿÿÿ
+k
+java:S1104"PMake DE11 a static final constant or non-public and provide accessors if needed.(üÆİßùÿÿÿÿ
+f
+java:S1104"PMake DE12 a static final constant or non-public and provide accessors if needed.(”ûı
+k
+java:S1104"PMake DE13 a static final constant or non-public and provide accessors if needed.(¡§”ùÿÿÿÿ
+f
+java:S1104	"PMake DE22 a static final constant or non-public and provide accessors if needed.(Ï€ìé
+f
+java:S1104
+"PMake DE23 a static final constant or non-public and provide accessors if needed.(®şåé
+f
+java:S1104"PMake DE24 a static final constant or non-public and provide accessors if needed.(½¦Æö
+k
+java:S1104"PMake DE25 a static final constant or non-public and provide accessors if needed.(©Æéøÿÿÿÿ
+j
+java:S1104"OMake DE3 a static final constant or non-public and provide accessors if needed.(¢­‚àøÿÿÿÿ
+f
+java:S1104"PMake DE35 a static final constant or non-public and provide accessors if needed.(°‘Šò
+k
+java:S1104"PMake DE37 a static final constant or non-public and provide accessors if needed.(âÚ“„ûÿÿÿÿ
+f
+java:S1104"PMake DE38 a static final constant or non-public and provide accessors if needed.(ô²›Ğ
+f
+java:S1104"PMake DE39 a static final constant or non-public and provide accessors if needed.(ô¥ºÁ
+j
+java:S1104"OMake DE4 a static final constant or non-public and provide accessors if needed.(¼™òÕûÿÿÿÿ
+k
+java:S1104"PMake DE41 a static final constant or non-public and provide accessors if needed.(ÊÜÈıÿÿÿÿ
+k
+java:S1104"PMake DE42 a static final constant or non-public and provide accessors if needed.(üÅˆ¾ùÿÿÿÿ
+f
+java:S1104"PMake DE43 a static final constant or non-public and provide accessors if needed.(ıµ­Å
+k
+java:S1104"PMake DE45 a static final constant or non-public and provide accessors if needed.(Ë²ìòüÿÿÿÿ
+f
+java:S1104"PMake DE48 a static final constant or non-public and provide accessors if needed.(³‰Õ•
+k
+java:S1104"PMake DE52 a static final constant or non-public and provide accessors if needed.(ÙÚ½³ÿÿÿÿÿ
+k
+java:S1104"PMake DE54 a static final constant or non-public and provide accessors if needed.(›®ˆµûÿÿÿÿ
+f
+java:S1104"PMake DE55 a static final constant or non-public and provide accessors if needed.(²èİ
+f
+java:S1104"PMake DE61 a static final constant or non-public and provide accessors if needed.(££¼
+e
+java:S1104"OMake DE7 a static final constant or non-public and provide accessors if needed.(ñ¼™¾
+D
+java:S1444")Make this "public static DE0" field final(­†êàùÿÿÿÿ
+E
+java:S1444"*Make this "public static DE11" field final(üÆİßùÿÿÿÿ
+@
+java:S1444"*Make this "public static DE12" field final(”ûı
+E
+java:S1444"*Make this "public static DE13" field final(¡§”ùÿÿÿÿ
+@
+java:S1444	"*Make this "public static DE22" field final(Ï€ìé
+@
+java:S1444
+"*Make this "public static DE23" field final(®şåé
+@
+java:S1444"*Make this "public static DE24" field final(½¦Æö
+E
+java:S1444"*Make this "public static DE25" field final(©Æéøÿÿÿÿ
+D
+java:S1444")Make this "public static DE3" field final(¢­‚àøÿÿÿÿ
+@
+java:S1444"*Make this "public static DE35" field final(°‘Šò
+E
+java:S1444"*Make this "public static DE37" field final(âÚ“„ûÿÿÿÿ
+@
+java:S1444"*Make this "public static DE38" field final(ô²›Ğ
+@
+java:S1444"*Make this "public static DE39" field final(ô¥ºÁ
+D
+java:S1444")Make this "public static DE4" field final(¼™òÕûÿÿÿÿ
+E
+java:S1444"*Make this "public static DE41" field final(ÊÜÈıÿÿÿÿ
+E
+java:S1444"*Make this "public static DE42" field final(üÅˆ¾ùÿÿÿÿ
+@
+java:S1444"*Make this "public static DE43" field final(ıµ­Å
+E
+java:S1444"*Make this "public static DE45" field final(Ë²ìòüÿÿÿÿ
+@
+java:S1444"*Make this "public static DE48" field final(³‰Õ•
+E
+java:S1444"*Make this "public static DE52" field final(ÙÚ½³ÿÿÿÿÿ
+E
+java:S1444"*Make this "public static DE54" field final(›®ˆµûÿÿÿÿ
+@
+java:S1444"*Make this "public static DE55" field final(²èİ
+@
+java:S1444"*Make this "public static DE61" field final(££¼
+?
+java:S1444")Make this "public static DE7" field final(ñ¼™¾
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(şÕŠ¤úÿÿÿÿ
+i
+java:S3008"NRename this field "DE0" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­†êàùÿÿÿÿ
+j
+java:S3008"ORename this field "DE11" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÆİßùÿÿÿÿ
+e
+java:S3008"ORename this field "DE12" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ûı
+j
+java:S3008"ORename this field "DE13" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡§”ùÿÿÿÿ
+e
+java:S3008	"ORename this field "DE22" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï€ìé
+e
+java:S3008
+"ORename this field "DE23" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®şåé
+e
+java:S3008"ORename this field "DE24" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½¦Æö
+j
+java:S3008"ORename this field "DE25" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©Æéøÿÿÿÿ
+i
+java:S3008"NRename this field "DE3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢­‚àøÿÿÿÿ
+e
+java:S3008"ORename this field "DE35" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°‘Šò
+j
+java:S3008"ORename this field "DE37" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÚ“„ûÿÿÿÿ
+e
+java:S3008"ORename this field "DE38" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô²›Ğ
+e
+java:S3008"ORename this field "DE39" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô¥ºÁ
+i
+java:S3008"NRename this field "DE4" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼™òÕûÿÿÿÿ
+j
+java:S3008"ORename this field "DE41" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÜÈıÿÿÿÿ
+j
+java:S3008"ORename this field "DE42" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÅˆ¾ùÿÿÿÿ
+e
+java:S3008"ORename this field "DE43" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıµ­Å
+j
+java:S3008"ORename this field "DE45" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë²ìòüÿÿÿÿ
+e
+java:S3008"ORename this field "DE48" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³‰Õ•
+j
+java:S3008"ORename this field "DE52" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÚ½³ÿÿÿÿÿ
+j
+java:S3008"ORename this field "DE54" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›®ˆµûÿÿÿÿ
+e
+java:S3008"ORename this field "DE55" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²èİ
+e
+java:S3008"ORename this field "DE61" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(££¼
+d
+java:S3008"NRename this field "DE7" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ¼™¾
+U
+java:S1118":Add a private constructor to hide the implicit public one.(îï½ıøÿÿÿÿ

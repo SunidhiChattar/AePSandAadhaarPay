@@ -1,0 +1,5 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õúÕ»
+c	java:S1163"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôπ”…
+7
+java:S11703"!Make this final field static too.(ôπ”…

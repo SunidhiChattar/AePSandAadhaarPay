@@ -1,0 +1,238 @@
+
+l	java:S117è"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒº‚Öøÿÿÿÿ
+g	java:S117ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘éÇ
+g	java:S117™"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘éÇ
+g	java:S117¿"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘éÇ
+g	java:S117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸×Ö‹
+g
+java:S1301¼"KReplace this "switch" statement by "if" statements to increase readability.(öšÅôøÿÿÿÿ
+8
+java:S1643Ö"Use a StringBuilder instead.(÷œåÊøÿÿÿÿ
+8
+java:S1643Ú"Use a StringBuilder instead.(…Ò÷Õşÿÿÿÿ
+o
+java:S1104´"SMake REG_NUM a static final constant or non-public and provide accessors if needed.(ÖşÌ¬üÿÿÿÿ
+k
+java:S1104µ"TMake REG_NAME a static final constant or non-public and provide accessors if needed.(º§°Ã
+j
+java:S1104¶"TMake REG_UPTO a static final constant or non-public and provide accessors if needed.(ÖùS
+g
+java:S1104»"PMake NAME a static final constant or non-public and provide accessors if needed.(Œ·í·
+i
+java:S1104¼"RMake SWD_OF a static final constant or non-public and provide accessors if needed.(’Ì¤–
+e
+java:S1104½"OMake DOB a static final constant or non-public and provide accessors if needed.(ÀÒ×Q
+i
+java:S1104¾"RMake DL_NUM a static final constant or non-public and provide accessors if needed.(Äæò”
+p
+java:S1104¿"TMake ISS_AUTH a static final constant or non-public and provide accessors if needed.(‡¯ßÿÿÿÿÿ
+k
+java:S1104À"OMake DOI a static final constant or non-public and provide accessors if needed.(±ä“úıÿÿÿÿ
+k
+java:S1104Á"TMake VALID_TP a static final constant or non-public and provide accessors if needed.(Öä¥ª
+q
+java:S1104Â"UMake VALID_NTP a static final constant or non-public and provide accessors if needed.(Ùè°ÿûÿÿÿÿ
+m
+java:S1104Ã"VMake VEH_INFO_1 a static final constant or non-public and provide accessors if needed.(·Üˆõ
+t
+java:S1104È"XMake m_cardNumber a static final constant or non-public and provide accessors if needed.(¸ÂÀıÿÿÿÿ
+{
+java:S1104É"_Make m_AccoundHolderName a static final constant or non-public and provide accessors if needed.(°£¤şÿÿÿÿ
+o
+java:S1104Ê"XMake m_expiryDate a static final constant or non-public and provide accessors if needed.(Ñˆ¤Ô
+p
+java:S1104Ë"YMake m_serviceCode a static final constant or non-public and provide accessors if needed.(öÉè
+o
+java:S1104Ì"XMake m_pvkiNumber a static final constant or non-public and provide accessors if needed.(‘„®¿
+s
+java:S1104Í"WMake m_pvvNumber a static final constant or non-public and provide accessors if needed.(Û·‰ùÿÿÿÿ
+s
+java:S1104Î"WMake m_cvvNumber a static final constant or non-public and provide accessors if needed.(şëÑ·øÿÿÿÿ
+z
+java:S41658"dRemove this useless assignment; "socket" already holds the assigned value along all execution paths.(¥—¶™
+l
+java:S3008"VRename this field "MSRReadTest" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«¿Ú¤
+g
+java:S3008"QRename this field "DLTest" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şé¤ 
+g
+java:S3008"QRename this field "RCTest" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹á¼
+k
+java:S1450"URemove the "DLTest" field and declare it as a local variable in the relevant methods.(Şé¤ 
+p
+java:S1450"ZRemove the "MSRReadTest" field and declare it as a local variable in the relevant methods.(«¿Ú¤
+k
+java:S1450"URemove the "RCTest" field and declare it as a local variable in the relevant methods.(¹á¼
+v
+java:S1149÷"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(«²ì¬
+v
+java:S1149—"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ú¤ğ¶
+{
+java:S1149½"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(çã©ıÿÿÿÿ
+2
+java:S1116 "Remove this empty statement.(Â¯ßö
+;
+java:S3010(" Remove this assignment of "dis".(–¥»ÿÿÿÿÿ
+6
+java:S3010*" Remove this assignment of "dos".(Ü±è¦
+;
+java:S3010." Remove this assignment of "dis".(âªØşÿÿÿÿ
+6
+java:S3010/" Remove this assignment of "dos".(š®ã”
+C	java:S1083")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+;
+java:S3010<" Remove this assignment of "dis".(–¥»ÿÿÿÿÿ
+6
+java:S3010>" Remove this assignment of "dos".(Ü±è¦
+;
+java:S3010B" Remove this assignment of "dis".(§Š¢¶úÿÿÿÿ
+;
+java:S3010C" Remove this assignment of "dos".(İæ‚æúÿÿÿÿ
+E
+java:S16568"/Remove or correct this useless self-assignment.(¥—¶™
+C	java:S108G")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+U
+java:S1161M":Add the "@Override" annotation above this method signature(ÿŸ¾Ğüÿÿÿÿ
+V
+java:S1117R";Rename "buffer" which hides the field declared at line 117.(–í¾Ñúÿÿÿÿ
+`
+java:S2674V"JCheck the return value of the "read" call to see how many bytes were read.(˜ª†
+Q	java:S125["<This block of commented-out lines of code should be removed.(ªö¶«
+C	java:S108o")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+Z
+java:S1854Š">Remove this useless assignment to local variable "dataTrack2".(¾Í±åüÿÿÿÿ
+Q
+java:S2696{"6Make the enclosing method "static" or remove this set.(ª«êÈÿÿÿÿÿ
+V	java:S125|"<This block of commented-out lines of code should be removed.(ñËÇ‡ÿÿÿÿÿ
+E
+java:S1481"/Remove this unused "dataTrack2" local variable.(‚¹äƒ
+R
+java:S2696…"6Make the enclosing method "static" or remove this set.(â¡´¥ıÿÿÿÿ
+R
+java:S2696†"6Make the enclosing method "static" or remove this set.(¤«îÆüÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(¬µé§
+Q	java:S125"<This block of commented-out lines of code should be removed.(˜“·
+W	java:S125’"<This block of commented-out lines of code should be removed.(Ò…·ñøÿÿÿÿ
+R	java:S125²"<This block of commented-out lines of code should be removed.(¼É†ì
+M
+java:S2696¹"6Make the enclosing method "static" or remove this set.(¤º«¸
+M
+java:S2696¾"6Make the enclosing method "static" or remove this set.(¤º«¸
+M
+java:S2696Ã"6Make the enclosing method "static" or remove this set.(¤º«¸
+D	java:S108Ç")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+o
+java:S3776è"SRefactor this method to reduce its Cognitive Complexity from 116 to the 15 allowed.(ƒº‚Öøÿÿÿÿ
+N
+java:S1854·"7Remove this useless assignment to local variable "len".(Şë²
+N
+java:S1854ÿ"7Remove this useless assignment to local variable "len".(Şë²
+N
+java:S1854™"7Remove this useless assignment to local variable "len".(Şë²
+N
+java:S1854³"7Remove this useless assignment to local variable "len".(Şë²
+N
+java:S1854Ñ"7Remove this useless assignment to local variable "len".(Şë²
+N
+java:S1854"7Remove this useless assignment to local variable "len".(Şë²
+8	java:S131ó""Add a default case to this switch.(Ïíó«
+>
+java:S1125ÿ"'Remove the unnecessary boolean literal.(€†™‘
+>
+java:S1125˜"'Remove the unnecessary boolean literal.(€†™‘
+>
+java:S1125¯"'Remove the unnecessary boolean literal.(€†™‘
+>
+java:S1125É"'Remove the unnecessary boolean literal.(€†™‘
+>
+java:S1125à"'Remove the unnecessary boolean literal.(€†™‘
+>
+java:S1125÷"'Remove the unnecessary boolean literal.(€†™‘
+>
+java:S1125‘"'Remove the unnecessary boolean literal.(€†™‘
+>
+java:S1125«"'Remove the unnecessary boolean literal.(€†™‘
+>
+java:S1125È"'Remove the unnecessary boolean literal.(€†™‘
+>
+java:S1125è"'Remove the unnecessary boolean literal.(€†™‘
+>
+java:S1125ÿ"'Remove the unnecessary boolean literal.(€†™‘
+>
+java:S1125–"'Remove the unnecessary boolean literal.(€†™‘
+D
+java:S1481¹"(Remove this unused "str" local variable.(ûÍÇÉøÿÿÿÿ
+d	java:S100Ë"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ô†à
+e
+java:S1871Ñ"IThis case's code block is the same as the block for the case on line 591.(ÕŠ‘‹ùÿÿÿÿ
+`
+java:S1871Ó"IThis case's code block is the same as the block for the case on line 591.(¿ÆÕ«
+`
+java:S1871Õ"IThis case's code block is the same as the block for the case on line 591.(õ–—ª
+=	java:S131Í""Add a default case to this switch.(ìÃŒüÿÿÿÿ
+W	java:S125Ü"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ
+A
+java:S1197ä"*Move the array designators [] to the type.(²úç‚
+F
+java:S1197å"*Move the array designators [] to the type.(ğÎ½¿ùÿÿÿÿ
+A
+java:S1197ç"*Move the array designators [] to the type.(´«ØŒ
+A
+java:S1197é"*Move the array designators [] to the type.(¨Ö¸Ë
+F
+java:S1197ë"*Move the array designators [] to the type.(øàæÏÿÿÿÿÿ
+A
+java:S1197í"*Move the array designators [] to the type.(ˆå†
+A
+java:S1197ï"*Move the array designators [] to the type.(Åòãƒ
+R
+java:S2696ñ"6Make the enclosing method "static" or remove this set.(Ê‰š¿üÿÿÿÿ
+z
+java:S2142‰"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ÇâŞáøÿÿÿÿ
+D	java:S108Š")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+A
+java:S1197‘"*Move the array designators [] to the type.(²úç‚
+F
+java:S1197’"*Move the array designators [] to the type.(ğÎ½¿ùÿÿÿÿ
+A
+java:S1197”"*Move the array designators [] to the type.(´«ØŒ
+F
+java:S1197–"*Move the array designators [] to the type.(øàæÏÿÿÿÿÿ
+A
+java:S1197˜"*Move the array designators [] to the type.(Åòãƒ
+M
+java:S2696š"6Make the enclosing method "static" or remove this set.(­²›ö
+z
+java:S2142¬"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(¼Ôîàùÿÿÿÿ
+m	java:S116´"RRename this field "REG_NUM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖşÌ¬üÿÿÿÿ
+i	java:S116µ"SRename this field "REG_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º§°Ã
+h	java:S116¶"SRename this field "REG_UPTO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖùS
+e	java:S116»"ORename this field "NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ·í·
+g	java:S116¼"QRename this field "SWD_OF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’Ì¤–
+c	java:S116½"NRename this field "DOB" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÒ×Q
+g	java:S116¾"QRename this field "DL_NUM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äæò”
+n	java:S116¿"SRename this field "ISS_AUTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡¯ßÿÿÿÿÿ
+i	java:S116À"NRename this field "DOI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ä“úıÿÿÿÿ
+i	java:S116Á"SRename this field "VALID_TP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öä¥ª
+o	java:S116Â"TRename this field "VALID_NTP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùè°ÿûÿÿÿÿ
+k	java:S116Ã"URename this field "VEH_INFO_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Üˆõ
+r	java:S116È"WRename this field "m_cardNumber" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ÂÀıÿÿÿÿ
+y	java:S116É"^Rename this field "m_AccoundHolderName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°£¤şÿÿÿÿ
+m	java:S116Ê"WRename this field "m_expiryDate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñˆ¤Ô
+n	java:S116Ë"XRename this field "m_serviceCode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÉè
+m	java:S116Ì"WRename this field "m_pvkiNumber" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘„®¿
+q	java:S116Í"VRename this field "m_pvvNumber" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û·‰ùÿÿÿÿ
+q	java:S116Î"VRename this field "m_cvvNumber" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şëÑ·øÿÿÿÿ
+d	java:S116Õ"ORename this field "Pvki" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€‚ 
+i	java:S116×"NRename this field "Cvv" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áéìşÿÿÿÿ
+n
+java:S3776º"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ª‡İŸùÿÿÿÿ
+:
+java:S3398w"$Move this method into "InputThread".(ôİ«¯
+E
+java:S1068"/Remove this unused "MSRReadTest" private field.(«¿Ú¤
+@
+java:S1068"*Remove this unused "DLTest" private field.(Şé¤ 
+@
+java:S1068"*Remove this unused "RCTest" private field.(¹á¼
+H
+java:S1144Ë"1Remove this unused private "MSRvalidChar" method.(…ô†à

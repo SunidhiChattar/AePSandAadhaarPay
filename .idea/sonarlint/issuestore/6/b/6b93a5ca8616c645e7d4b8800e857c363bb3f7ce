@@ -1,0 +1,7 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÄ”Ãùÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÄ”Ãùÿÿÿÿ
+c	java:S116"NRename this field "d_c" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó×é´
+r	java:S116"]Rename this field "transaction_remark" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó×é´
+V
+java:S1659"@Declare "d_c" and all following declarations on a separate line.(Ó×é´
